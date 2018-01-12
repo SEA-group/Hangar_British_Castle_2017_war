@@ -1,0 +1,8 @@
+<omniLight.item>
+	<omniLight
+			chunkId="ffffffffo" />
+	<omniLight
+			chunkId="ffff0000o" />
+	<omniLight
+			chunkId="00000000o" />
+</omniLight.item>

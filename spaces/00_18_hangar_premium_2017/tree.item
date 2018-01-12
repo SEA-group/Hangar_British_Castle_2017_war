@@ -1,0 +1,15 @@
+<tree.item>
+	<tree
+			chunkId="ffff0000o">
+		<spt>	speedtree/00_18_hangar_premium_2017/adria_americanboxwood.spt	</spt>
+		<seed>	1	</seed>
+		<transform>
+			<row0>	-0.134959 0.000000 0.130328	</row0>
+			<row1>	0.000000 0.187615 0.000000	</row1>
+			<row2>	-0.130328 0.000000 -0.134959	</row2>
+			<row3>	82.416954 -1.060144 10.429926	</row3>
+		</transform>
+		<reflectionVisible>	false	</reflectionVisible>
+		<castsShadow>	true	</castsShadow>
+	</tree>
+</tree.item>

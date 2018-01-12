@@ -1,0 +1,332 @@
+<terrain.item>
+	<fffbfffbo>
+		<resource>	fffbfffbo.cdata/terrain2	</resource>
+	</fffbfffbo>
+	<fffcfffbo>
+		<resource>	fffcfffbo.cdata/terrain2	</resource>
+	</fffcfffbo>
+	<fffdfffbo>
+		<resource>	fffdfffbo.cdata/terrain2	</resource>
+	</fffdfffbo>
+	<fffefffbo>
+		<resource>	fffefffbo.cdata/terrain2	</resource>
+	</fffefffbo>
+	<fffffffbo>
+		<resource>	fffffffbo.cdata/terrain2	</resource>
+	</fffffffbo>
+	<0000fffbo>
+		<resource>	0000fffbo.cdata/terrain2	</resource>
+	</0000fffbo>
+	<0001fffbo>
+		<resource>	0001fffbo.cdata/terrain2	</resource>
+	</0001fffbo>
+	<0002fffbo>
+		<resource>	0002fffbo.cdata/terrain2	</resource>
+	</0002fffbo>
+	<0003fffbo>
+		<resource>	0003fffbo.cdata/terrain2	</resource>
+	</0003fffbo>
+	<0004fffbo>
+		<resource>	0004fffbo.cdata/terrain2	</resource>
+	</0004fffbo>
+	<0005fffbo>
+		<resource>	0005fffbo.cdata/terrain2	</resource>
+	</0005fffbo>
+	<fffbfffco>
+		<resource>	fffbfffco.cdata/terrain2	</resource>
+	</fffbfffco>
+	<fffcfffco>
+		<resource>	fffcfffco.cdata/terrain2	</resource>
+	</fffcfffco>
+	<fffdfffco>
+		<resource>	fffdfffco.cdata/terrain2	</resource>
+	</fffdfffco>
+	<fffefffco>
+		<resource>	fffefffco.cdata/terrain2	</resource>
+	</fffefffco>
+	<fffffffco>
+		<resource>	fffffffco.cdata/terrain2	</resource>
+	</fffffffco>
+	<0000fffco>
+		<resource>	0000fffco.cdata/terrain2	</resource>
+	</0000fffco>
+	<0001fffco>
+		<resource>	0001fffco.cdata/terrain2	</resource>
+	</0001fffco>
+	<0002fffco>
+		<resource>	0002fffco.cdata/terrain2	</resource>
+	</0002fffco>
+	<0003fffco>
+		<resource>	0003fffco.cdata/terrain2	</resource>
+	</0003fffco>
+	<0004fffco>
+		<resource>	0004fffco.cdata/terrain2	</resource>
+	</0004fffco>
+	<0005fffco>
+		<resource>	0005fffco.cdata/terrain2	</resource>
+	</0005fffco>
+	<fffbfffdo>
+		<resource>	fffbfffdo.cdata/terrain2	</resource>
+	</fffbfffdo>
+	<fffcfffdo>
+		<resource>	fffcfffdo.cdata/terrain2	</resource>
+	</fffcfffdo>
+	<fffdfffdo>
+		<resource>	fffdfffdo.cdata/terrain2	</resource>
+	</fffdfffdo>
+	<fffefffdo>
+		<resource>	fffefffdo.cdata/terrain2	</resource>
+	</fffefffdo>
+	<fffffffdo>
+		<resource>	fffffffdo.cdata/terrain2	</resource>
+	</fffffffdo>
+	<0000fffdo>
+		<resource>	0000fffdo.cdata/terrain2	</resource>
+	</0000fffdo>
+	<0001fffdo>
+		<resource>	0001fffdo.cdata/terrain2	</resource>
+	</0001fffdo>
+	<0002fffdo>
+		<resource>	0002fffdo.cdata/terrain2	</resource>
+	</0002fffdo>
+	<0003fffdo>
+		<resource>	0003fffdo.cdata/terrain2	</resource>
+	</0003fffdo>
+	<0004fffdo>
+		<resource>	0004fffdo.cdata/terrain2	</resource>
+	</0004fffdo>
+	<0005fffdo>
+		<resource>	0005fffdo.cdata/terrain2	</resource>
+	</0005fffdo>
+	<fffbfffeo>
+		<resource>	fffbfffeo.cdata/terrain2	</resource>
+	</fffbfffeo>
+	<fffcfffeo>
+		<resource>	fffcfffeo.cdata/terrain2	</resource>
+	</fffcfffeo>
+	<fffdfffeo>
+		<resource>	fffdfffeo.cdata/terrain2	</resource>
+	</fffdfffeo>
+	<fffefffeo>
+		<resource>	fffefffeo.cdata/terrain2	</resource>
+	</fffefffeo>
+	<fffffffeo>
+		<resource>	fffffffeo.cdata/terrain2	</resource>
+	</fffffffeo>
+	<0000fffeo>
+		<resource>	0000fffeo.cdata/terrain2	</resource>
+	</0000fffeo>
+	<0001fffeo>
+		<resource>	0001fffeo.cdata/terrain2	</resource>
+	</0001fffeo>
+	<0002fffeo>
+		<resource>	0002fffeo.cdata/terrain2	</resource>
+	</0002fffeo>
+	<0003fffeo>
+		<resource>	0003fffeo.cdata/terrain2	</resource>
+	</0003fffeo>
+	<0004fffeo>
+		<resource>	0004fffeo.cdata/terrain2	</resource>
+	</0004fffeo>
+	<0005fffeo>
+		<resource>	0005fffeo.cdata/terrain2	</resource>
+	</0005fffeo>
+	<fffbffffo>
+		<resource>	fffbffffo.cdata/terrain2	</resource>
+	</fffbffffo>
+	<fffcffffo>
+		<resource>	fffcffffo.cdata/terrain2	</resource>
+	</fffcffffo>
+	<fffdffffo>
+		<resource>	fffdffffo.cdata/terrain2	</resource>
+	</fffdffffo>
+	<fffeffffo>
+		<resource>	fffeffffo.cdata/terrain2	</resource>
+	</fffeffffo>
+	<ffffffffo>
+		<resource>	ffffffffo.cdata/terrain2	</resource>
+	</ffffffffo>
+	<0000ffffo>
+		<resource>	0000ffffo.cdata/terrain2	</resource>
+	</0000ffffo>
+	<0001ffffo>
+		<resource>	0001ffffo.cdata/terrain2	</resource>
+	</0001ffffo>
+	<0002ffffo>
+		<resource>	0002ffffo.cdata/terrain2	</resource>
+	</0002ffffo>
+	<0003ffffo>
+		<resource>	0003ffffo.cdata/terrain2	</resource>
+	</0003ffffo>
+	<0004ffffo>
+		<resource>	0004ffffo.cdata/terrain2	</resource>
+	</0004ffffo>
+	<0005ffffo>
+		<resource>	0005ffffo.cdata/terrain2	</resource>
+	</0005ffffo>
+	<fffb0000o>
+		<resource>	fffb0000o.cdata/terrain2	</resource>
+	</fffb0000o>
+	<fffc0000o>
+		<resource>	fffc0000o.cdata/terrain2	</resource>
+	</fffc0000o>
+	<fffd0000o>
+		<resource>	fffd0000o.cdata/terrain2	</resource>
+	</fffd0000o>
+	<fffe0000o>
+		<resource>	fffe0000o.cdata/terrain2	</resource>
+	</fffe0000o>
+	<ffff0000o>
+		<resource>	ffff0000o.cdata/terrain2	</resource>
+	</ffff0000o>
+	<00000000o>
+		<resource>	00000000o.cdata/terrain2	</resource>
+	</00000000o>
+	<00010000o>
+		<resource>	00010000o.cdata/terrain2	</resource>
+	</00010000o>
+	<00020000o>
+		<resource>	00020000o.cdata/terrain2	</resource>
+	</00020000o>
+	<00030000o>
+		<resource>	00030000o.cdata/terrain2	</resource>
+	</00030000o>
+	<00040000o>
+		<resource>	00040000o.cdata/terrain2	</resource>
+	</00040000o>
+	<00050000o>
+		<resource>	00050000o.cdata/terrain2	</resource>
+	</00050000o>
+	<fffb0001o>
+		<resource>	fffb0001o.cdata/terrain2	</resource>
+	</fffb0001o>
+	<fffc0001o>
+		<resource>	fffc0001o.cdata/terrain2	</resource>
+	</fffc0001o>
+	<fffd0001o>
+		<resource>	fffd0001o.cdata/terrain2	</resource>
+	</fffd0001o>
+	<fffe0001o>
+		<resource>	fffe0001o.cdata/terrain2	</resource>
+	</fffe0001o>
+	<ffff0001o>
+		<resource>	ffff0001o.cdata/terrain2	</resource>
+	</ffff0001o>
+	<00000001o>
+		<resource>	00000001o.cdata/terrain2	</resource>
+	</00000001o>
+	<00010001o>
+		<resource>	00010001o.cdata/terrain2	</resource>
+	</00010001o>
+	<00020001o>
+		<resource>	00020001o.cdata/terrain2	</resource>
+	</00020001o>
+	<00030001o>
+		<resource>	00030001o.cdata/terrain2	</resource>
+	</00030001o>
+	<00040001o>
+		<resource>	00040001o.cdata/terrain2	</resource>
+	</00040001o>
+	<00050001o>
+		<resource>	00050001o.cdata/terrain2	</resource>
+	</00050001o>
+	<fffb0002o>
+		<resource>	fffb0002o.cdata/terrain2	</resource>
+	</fffb0002o>
+	<fffc0002o>
+		<resource>	fffc0002o.cdata/terrain2	</resource>
+	</fffc0002o>
+	<fffd0002o>
+		<resource>	fffd0002o.cdata/terrain2	</resource>
+	</fffd0002o>
+	<fffe0002o>
+		<resource>	fffe0002o.cdata/terrain2	</resource>
+	</fffe0002o>
+	<ffff0002o>
+		<resource>	ffff0002o.cdata/terrain2	</resource>
+	</ffff0002o>
+	<00000002o>
+		<resource>	00000002o.cdata/terrain2	</resource>
+	</00000002o>
+	<00010002o>
+		<resource>	00010002o.cdata/terrain2	</resource>
+	</00010002o>
+	<00020002o>
+		<resource>	00020002o.cdata/terrain2	</resource>
+	</00020002o>
+	<00030002o>
+		<resource>	00030002o.cdata/terrain2	</resource>
+	</00030002o>
+	<00040002o>
+		<resource>	00040002o.cdata/terrain2	</resource>
+	</00040002o>
+	<00050002o>
+		<resource>	00050002o.cdata/terrain2	</resource>
+	</00050002o>
+	<fffb0003o>
+		<resource>	fffb0003o.cdata/terrain2	</resource>
+	</fffb0003o>
+	<fffc0003o>
+		<resource>	fffc0003o.cdata/terrain2	</resource>
+	</fffc0003o>
+	<fffd0003o>
+		<resource>	fffd0003o.cdata/terrain2	</resource>
+	</fffd0003o>
+	<fffe0003o>
+		<resource>	fffe0003o.cdata/terrain2	</resource>
+	</fffe0003o>
+	<ffff0003o>
+		<resource>	ffff0003o.cdata/terrain2	</resource>
+	</ffff0003o>
+	<00000003o>
+		<resource>	00000003o.cdata/terrain2	</resource>
+	</00000003o>
+	<00010003o>
+		<resource>	00010003o.cdata/terrain2	</resource>
+	</00010003o>
+	<00020003o>
+		<resource>	00020003o.cdata/terrain2	</resource>
+	</00020003o>
+	<00030003o>
+		<resource>	00030003o.cdata/terrain2	</resource>
+	</00030003o>
+	<00040003o>
+		<resource>	00040003o.cdata/terrain2	</resource>
+	</00040003o>
+	<00050003o>
+		<resource>	00050003o.cdata/terrain2	</resource>
+	</00050003o>
+	<fffb0004o>
+		<resource>	fffb0004o.cdata/terrain2	</resource>
+	</fffb0004o>
+	<fffc0004o>
+		<resource>	fffc0004o.cdata/terrain2	</resource>
+	</fffc0004o>
+	<fffd0004o>
+		<resource>	fffd0004o.cdata/terrain2	</resource>
+	</fffd0004o>
+	<fffe0004o>
+		<resource>	fffe0004o.cdata/terrain2	</resource>
+	</fffe0004o>
+	<ffff0004o>
+		<resource>	ffff0004o.cdata/terrain2	</resource>
+	</ffff0004o>
+	<00000004o>
+		<resource>	00000004o.cdata/terrain2	</resource>
+	</00000004o>
+	<00010004o>
+		<resource>	00010004o.cdata/terrain2	</resource>
+	</00010004o>
+	<00020004o>
+		<resource>	00020004o.cdata/terrain2	</resource>
+	</00020004o>
+	<00030004o>
+		<resource>	00030004o.cdata/terrain2	</resource>
+	</00030004o>
+	<00040004o>
+		<resource>	00040004o.cdata/terrain2	</resource>
+	</00040004o>
+	<00050004o>
+		<resource>	00050004o.cdata/terrain2	</resource>
+	</00050004o>
+</terrain.item>

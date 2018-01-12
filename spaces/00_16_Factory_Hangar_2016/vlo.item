@@ -1,0 +1,22 @@
+<vlo.item>
+	<vlo
+			chunkId="ffffffffo">
+		<uid>	627fb580.4157ad6d.5693f180.a3014cc1	</uid>
+		<type>	water	</type>
+	</vlo>
+	<vlo
+			chunkId="0000ffffo">
+		<uid>	627fb580.4157ad6d.5693f180.a3014cc1	</uid>
+		<type>	water	</type>
+	</vlo>
+	<vlo
+			chunkId="ffff0000o">
+		<uid>	627fb580.4157ad6d.5693f180.a3014cc1	</uid>
+		<type>	water	</type>
+	</vlo>
+	<vlo
+			chunkId="00000000o">
+		<uid>	627fb580.4157ad6d.5693f180.a3014cc1	</uid>
+		<type>	water	</type>
+	</vlo>
+</vlo.item>

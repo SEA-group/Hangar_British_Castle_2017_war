@@ -1,0 +1,1460 @@
+<particles.item>
+	<particles
+			chunkId="ffffffffo">
+		<metaData>
+			<created_by>	v_minickiy	</created_by>
+			<created_on>	1501850593	</created_on>
+			<modified_by>	v_minickiy	</modified_by>
+			<modified_on>	1503331331	</modified_on>
+		</metaData>
+		<resource>	particles/spaces_fx/00_22_Hangar_British_Castle_2017/fire_small_04.xml	</resource>
+		<transform>
+			<row0>	0.178473 0.000000 -0.983941	</row0>
+			<row1>	0.000000 0.999996 0.000000	</row1>
+			<row2>	0.983941 0.000000 0.178473	</row2>
+			<row3>	95.846878 0.079432 96.429153	</row3>
+		</transform>
+		<reflectionVisible>	false	</reflectionVisible>
+		<sliceClouds>	false	</sliceClouds>
+	</particles>
+	<particles
+			chunkId="ffffffffo">
+		<metaData>
+			<created_by>	v_minickiy	</created_by>
+			<created_on>	1501850493	</created_on>
+			<modified_by>	v_minickiy	</modified_by>
+			<modified_on>	1503331340	</modified_on>
+		</metaData>
+		<resource>	particles/spaces_fx/00_22_Hangar_British_Castle_2017/fire_small_05.xml	</resource>
+		<transform>
+			<row0>	0.056750 0.000000 -0.998381	</row0>
+			<row1>	0.000000 0.999993 0.000000	</row1>
+			<row2>	0.998381 0.000000 0.056750	</row2>
+			<row3>	95.545982 -0.064495 93.668304	</row3>
+		</transform>
+		<reflectionVisible>	false	</reflectionVisible>
+		<sliceClouds>	false	</sliceClouds>
+	</particles>
+	<particles
+			chunkId="ffffffffo">
+		<metaData>
+			<created_by>	v_minickiy	</created_by>
+			<created_on>	1501850696	</created_on>
+			<modified_by>	v_minickiy	</modified_by>
+			<modified_on>	1503331348	</modified_on>
+		</metaData>
+		<resource>	particles/spaces_fx/00_22_Hangar_British_Castle_2017/fire_small_06.xml	</resource>
+		<transform>
+			<row0>	0.983361 0.000000 0.181648	</row0>
+			<row1>	0.000000 0.999998 0.000000	</row1>
+			<row2>	-0.181648 0.000000 0.983361	</row2>
+			<row3>	93.162918 0.128154 95.520943	</row3>
+		</transform>
+		<reflectionVisible>	false	</reflectionVisible>
+		<sliceClouds>	false	</sliceClouds>
+	</particles>
+	<particles
+			chunkId="ffffffffo">
+		<metaData>
+			<created_by>	v_minickiy	</created_by>
+			<created_on>	1501853256	</created_on>
+			<modified_by>	v_minickiy	</modified_by>
+			<modified_on>	1503331393	</modified_on>
+		</metaData>
+		<resource>	particles/spaces_fx/00_22_Hangar_British_Castle_2017/halo.xml	</resource>
+		<transform>
+			<row0>	0.743777 0.000000 -0.668416	</row0>
+			<row1>	0.000000 0.999993 0.000000	</row1>
+			<row2>	0.668416 0.000000 0.743777	</row2>
+			<row3>	95.692665 -0.025544 93.792625	</row3>
+		</transform>
+		<reflectionVisible>	false	</reflectionVisible>
+		<sliceClouds>	false	</sliceClouds>
+	</particles>
+	<particles
+			chunkId="ffffffffo">
+		<metaData>
+			<created_by>	v_minickiy	</created_by>
+			<created_on>	1501853256	</created_on>
+			<modified_by>	v_minickiy	</modified_by>
+			<modified_on>	1503331395	</modified_on>
+		</metaData>
+		<resource>	particles/spaces_fx/00_22_Hangar_British_Castle_2017/halo.xml	</resource>
+		<transform>
+			<row0>	0.683613 -0.017256 -0.729630	</row0>
+			<row1>	0.182843 0.971882 0.148326	</row1>
+			<row2>	0.706560 -0.234807 0.667551	</row2>
+			<row3>	95.879211 0.042710 96.429764	</row3>
+		</transform>
+		<reflectionVisible>	false	</reflectionVisible>
+		<sliceClouds>	false	</sliceClouds>
+	</particles>
+	<particles
+			chunkId="ffffffffo">
+		<metaData>
+			<created_by>	v_minickiy	</created_by>
+			<created_on>	1501510801	</created_on>
+			<modified_by>	v_minickiy	</modified_by>
+			<modified_on>	1503331436	</modified_on>
+		</metaData>
+		<resource>	particles/spaces_fx/00_22_Hangar_British_Castle_2017/rain_ripples.xml	</resource>
+		<transform>
+			<row0>	0.999996 0.000000 0.000000	</row0>
+			<row1>	0.000000 0.999996 0.000000	</row1>
+			<row2>	0.000000 0.000000 0.999996	</row2>
+			<row3>	98.305267 0.000000 98.135689	</row3>
+		</transform>
+		<reflectionVisible>	false	</reflectionVisible>
+		<sliceClouds>	false	</sliceClouds>
+	</particles>
+	<particles
+			chunkId="ffffffffo">
+		<metaData>
+			<created_by>	v_minickiy	</created_by>
+			<created_on>	1501510801	</created_on>
+			<modified_by>	v_minickiy	</modified_by>
+			<modified_on>	1503331438	</modified_on>
+		</metaData>
+		<resource>	particles/spaces_fx/00_22_Hangar_British_Castle_2017/rain_ripples.xml	</resource>
+		<transform>
+			<row0>	0.999993 0.000000 0.000000	</row0>
+			<row1>	0.000000 0.999994 0.000000	</row1>
+			<row2>	0.000000 0.000000 0.999993	</row2>
+			<row3>	98.301506 0.000000 99.263931	</row3>
+		</transform>
+		<reflectionVisible>	false	</reflectionVisible>
+		<sliceClouds>	false	</sliceClouds>
+	</particles>
+	<particles
+			chunkId="ffffffffo">
+		<metaData>
+			<created_by>	v_minickiy	</created_by>
+			<created_on>	1501513939	</created_on>
+			<modified_by>	v_minickiy	</modified_by>
+			<modified_on>	1503331460	</modified_on>
+		</metaData>
+		<resource>	particles/spaces_fx/00_22_Hangar_British_Castle_2017/rain_ripples_02.xml	</resource>
+		<transform>
+			<row0>	0.000000 0.000345 -0.999997	</row0>
+			<row1>	0.000000 0.999998 0.000345	</row1>
+			<row2>	0.999997 0.000000 0.000000	</row2>
+			<row3>	99.899963 0.000000 97.747787	</row3>
+		</transform>
+		<reflectionVisible>	false	</reflectionVisible>
+		<sliceClouds>	false	</sliceClouds>
+	</particles>
+	<particles
+			chunkId="ffffffffo">
+		<metaData>
+			<created_by>	v_minickiy	</created_by>
+			<created_on>	1502447499	</created_on>
+			<modified_by>	v_minickiy	</modified_by>
+			<modified_on>	1503331298	</modified_on>
+		</metaData>
+		<resource>	particles/spaces_fx/00_22_Hangar_British_Castle_2017/aerial_perspective_plane_02.xml	</resource>
+		<transform>
+			<row0>	0.002282 0.000000 0.999991	</row0>
+			<row1>	0.000000 0.999994 0.000000	</row1>
+			<row2>	-0.999991 0.000000 0.002282	</row2>
+			<row3>	99.365921 1.009218 90.089630	</row3>
+		</transform>
+		<reflectionVisible>	false	</reflectionVisible>
+		<sliceClouds>	false	</sliceClouds>
+	</particles>
+	<particles
+			chunkId="ffffffffo">
+		<metaData>
+			<created_by>	v_minickiy	</created_by>
+			<created_on>	1501850154	</created_on>
+			<modified_by>	v_minickiy	</modified_by>
+			<modified_on>	1503331470	</modified_on>
+		</metaData>
+		<resource>	particles/spaces_fx/00_22_Hangar_British_Castle_2017/smoke_in_baricade.xml	</resource>
+		<transform>
+			<row0>	0.737531 0.000000 -0.675310	</row0>
+			<row1>	0.000000 0.999998 0.000000	</row1>
+			<row2>	0.675310 0.000000 0.737531	</row2>
+			<row3>	94.096832 0.071100 96.380981	</row3>
+		</transform>
+		<reflectionVisible>	false	</reflectionVisible>
+		<sliceClouds>	false	</sliceClouds>
+	</particles>
+	<particles
+			chunkId="ffffffffo">
+		<metaData>
+			<created_by>	v_minickiy	</created_by>
+			<created_on>	1503312523	</created_on>
+			<modified_by>	v_minickiy	</modified_by>
+			<modified_on>	1503331353	</modified_on>
+		</metaData>
+		<resource>	particles/spaces_fx/00_22_Hangar_British_Castle_2017/fire_small_07.xml	</resource>
+		<transform>
+			<row0>	-0.036926 0.000000 -0.999316	</row0>
+			<row1>	0.000000 0.999998 0.000000	</row1>
+			<row2>	0.999316 0.000000 -0.036926	</row2>
+			<row3>	90.359558 -0.058129 98.041451	</row3>
+		</transform>
+		<reflectionVisible>	false	</reflectionVisible>
+		<sliceClouds>	false	</sliceClouds>
+	</particles>
+	<particles
+			chunkId="ffffffffo">
+		<metaData>
+			<created_by>	v_minickiy	</created_by>
+			<created_on>	1503312523	</created_on>
+			<modified_by>	v_minickiy	</modified_by>
+			<modified_on>	1503331356	</modified_on>
+		</metaData>
+		<resource>	particles/spaces_fx/00_22_Hangar_British_Castle_2017/fire_small_07.xml	</resource>
+		<transform>
+			<row0>	0.330036 0.000000 -0.943962	</row0>
+			<row1>	0.000000 0.999994 0.000000	</row1>
+			<row2>	0.943962 0.000000 0.330036	</row2>
+			<row3>	91.419510 -0.040482 96.410202	</row3>
+		</transform>
+		<reflectionVisible>	false	</reflectionVisible>
+		<sliceClouds>	false	</sliceClouds>
+	</particles>
+	<particles
+			chunkId="ffffffffo">
+		<metaData>
+			<created_by>	v_minickiy	</created_by>
+			<created_on>	1503312523	</created_on>
+			<modified_by>	v_minickiy	</modified_by>
+			<modified_on>	1503331358	</modified_on>
+		</metaData>
+		<resource>	particles/spaces_fx/00_22_Hangar_British_Castle_2017/fire_small_07.xml	</resource>
+		<transform>
+			<row0>	0.223191 0.000000 -0.974766	</row0>
+			<row1>	0.000000 0.999992 0.000000	</row1>
+			<row2>	0.974766 0.000000 0.223191	</row2>
+			<row3>	89.981071 -0.105890 99.217842	</row3>
+		</transform>
+		<reflectionVisible>	false	</reflectionVisible>
+		<sliceClouds>	false	</sliceClouds>
+	</particles>
+	<particles
+			chunkId="ffffffffo">
+		<metaData>
+			<created_by>	v_minickiy	</created_by>
+			<created_on>	1501750051	</created_on>
+			<modified_by>	v_minickiy	</modified_by>
+			<modified_on>	1503331345	</modified_on>
+		</metaData>
+		<resource>	particles/spaces_fx/00_22_Hangar_British_Castle_2017/fire_small_05.xml	</resource>
+		<transform>
+			<row0>	-0.008142 -0.075298 -0.997123	</row0>
+			<row1>	0.039700 0.996346 -0.075564	</row1>
+			<row2>	0.999174 -0.040201 -0.005122	</row2>
+			<row3>	91.612694 0.029906 97.591759	</row3>
+		</transform>
+		<reflectionVisible>	false	</reflectionVisible>
+		<sliceClouds>	false	</sliceClouds>
+	</particles>
+	<particles
+			chunkId="ffffffffo">
+		<metaData>
+			<created_by>	v_minickiy	</created_by>
+			<created_on>	1502887356	</created_on>
+			<modified_by>	v_minickiy	</modified_by>
+			<modified_on>	1503331419	</modified_on>
+		</metaData>
+		<resource>	particles/spaces_fx/00_22_Hangar_British_Castle_2017/lamps_blue.xml	</resource>
+		<transform>
+			<row0>	0.944744 -0.107969 0.309508	</row0>
+			<row1>	0.102603 0.994150 0.033614	</row1>
+			<row2>	-0.311328 0.000000 0.950299	</row2>
+			<row3>	95.725899 1.751478 98.303535	</row3>
+		</transform>
+		<reflectionVisible>	false	</reflectionVisible>
+		<sliceClouds>	false	</sliceClouds>
+	</particles>
+	<particles
+			chunkId="ffffffffo">
+		<metaData>
+			<created_by>	v_minickiy	</created_by>
+			<created_on>	1502887356	</created_on>
+			<modified_by>	v_minickiy	</modified_by>
+			<modified_on>	1503331417	</modified_on>
+		</metaData>
+		<resource>	particles/spaces_fx/00_22_Hangar_British_Castle_2017/lamps_blue.xml	</resource>
+		<transform>
+			<row0>	0.888625 -0.305826 0.341770	</row0>
+			<row1>	0.290964 0.951967 0.095323	</row1>
+			<row2>	-0.354509 0.014737 0.934931	</row2>
+			<row3>	95.672836 1.746560 98.453445	</row3>
+		</transform>
+		<reflectionVisible>	false	</reflectionVisible>
+		<sliceClouds>	false	</sliceClouds>
+	</particles>
+	<particles
+			chunkId="ffffffffo">
+		<metaData>
+			<created_by>	v_minickiy	</created_by>
+			<created_on>	1502887356	</created_on>
+			<modified_by>	v_minickiy	</modified_by>
+			<modified_on>	1503331421	</modified_on>
+		</metaData>
+		<resource>	particles/spaces_fx/00_22_Hangar_British_Castle_2017/lamps_blue.xml	</resource>
+		<transform>
+			<row0>	0.888623 -0.305825 0.341769	</row0>
+			<row1>	0.290963 0.951965 0.095323	</row1>
+			<row2>	-0.354508 0.014737 0.934929	</row2>
+			<row3>	95.673149 1.592736 98.454895	</row3>
+		</transform>
+		<reflectionVisible>	false	</reflectionVisible>
+		<sliceClouds>	false	</sliceClouds>
+	</particles>
+	<particles
+			chunkId="ffffffffo">
+		<metaData>
+			<created_by>	v_minickiy	</created_by>
+			<created_on>	1502887356	</created_on>
+			<modified_by>	v_minickiy	</modified_by>
+			<modified_on>	1503331260	</modified_on>
+		</metaData>
+		<resource>	particles/spaces_fx/00_22_Hangar_British_Castle_2017/lamps_blue.xml	</resource>
+		<transform>
+			<row0>	0.837167 -0.461385 0.293693	</row0>
+			<row1>	0.432626 0.887158 0.160512	</row1>
+			<row2>	-0.334614 -0.007315 0.942316	</row2>
+			<row3>	95.720314 1.589735 98.308517	</row3>
+		</transform>
+		<reflectionVisible>	false	</reflectionVisible>
+		<sliceClouds>	false	</sliceClouds>
+	</particles>
+	<particles
+			chunkId="ffffffffo">
+		<metaData>
+			<created_by>	v_minickiy	</created_by>
+			<created_on>	1502887356	</created_on>
+			<modified_by>	v_minickiy	</modified_by>
+			<modified_on>	1503331423	</modified_on>
+		</metaData>
+		<resource>	particles/spaces_fx/00_22_Hangar_British_Castle_2017/lamps_blue.xml	</resource>
+		<transform>
+			<row0>	0.993363 0.051477 0.102741	</row0>
+			<row1>	-0.050692 0.998649 -0.010249	</row1>
+			<row2>	-0.103132 0.004974 0.994643	</row2>
+			<row3>	95.624123 1.603957 98.596687	</row3>
+		</transform>
+		<reflectionVisible>	false	</reflectionVisible>
+		<sliceClouds>	false	</sliceClouds>
+	</particles>
+	<particles
+			chunkId="ffffffffo">
+		<metaData>
+			<created_by>	v_minickiy	</created_by>
+			<created_on>	1503331641	</created_on>
+			<modified_by>	v_minickiy	</modified_by>
+			<modified_on>	1504697549	</modified_on>
+		</metaData>
+		<resource>	particles/spaces_fx/00_22_Hangar_British_Castle_2017/lamps_blue_broken.xml	</resource>
+		<transform>
+			<row0>	0.941179 0.000000 0.337902	</row0>
+			<row1>	-0.000000 0.999998 -0.000000	</row1>
+			<row2>	-0.337902 0.000000 0.941179	</row2>
+			<row3>	95.621796 1.756197 98.600357	</row3>
+		</transform>
+		<reflectionVisible>	false	</reflectionVisible>
+		<sliceClouds>	false	</sliceClouds>
+	</particles>
+	<particles
+			chunkId="ffffffffo">
+		<metaData>
+			<created_by>	v_minickiy	</created_by>
+			<created_on>	1503318260	</created_on>
+			<modified_by>	v_minickiy	</modified_by>
+			<modified_on>	1503404237	</modified_on>
+		</metaData>
+		<resource>	particles/spaces_fx/00_22_Hangar_British_Castle_2017/lamps_blue_02.xml	</resource>
+		<transform>
+			<row0>	0.765145 0.000000 0.643849	</row0>
+			<row1>	0.000000 0.999996 -0.000001	</row1>
+			<row2>	-0.643849 0.000000 0.765145	</row2>
+			<row3>	87.712090 1.337575 96.197792	</row3>
+		</transform>
+		<reflectionVisible>	false	</reflectionVisible>
+		<sliceClouds>	false	</sliceClouds>
+	</particles>
+	<particles
+			chunkId="ffffffffo">
+		<metaData>
+			<created_by>	v_minickiy	</created_by>
+			<created_on>	1502447499	</created_on>
+			<modified_by>	v_minickiy	</modified_by>
+			<modified_on>	1503504067	</modified_on>
+		</metaData>
+		<resource>	particles/spaces_fx/00_22_Hangar_British_Castle_2017/aerial_perspective_plane_02.xml	</resource>
+		<transform>
+			<row0>	0.066159 -0.000000 0.997801	</row0>
+			<row1>	0.000000 0.999992 0.000000	</row1>
+			<row2>	-0.997801 0.000000 0.066159	</row2>
+			<row3>	90.407608 1.055361 90.380295	</row3>
+		</transform>
+		<reflectionVisible>	false	</reflectionVisible>
+		<sliceClouds>	false	</sliceClouds>
+	</particles>
+	<particles
+			chunkId="ffffffffo">
+		<metaData>
+			<created_by>	v_minickiy	</created_by>
+			<created_on>	1503331504	</created_on>
+			<modified_by>	v_minickiy	</modified_by>
+			<modified_on>	1504697551	</modified_on>
+		</metaData>
+		<resource>	particles/spaces_fx/00_22_Hangar_British_Castle_2017/lamps_blue_halo_01.xml	</resource>
+		<transform>
+			<row0>	0.905741 -0.115663 0.407741	</row0>
+			<row1>	0.105469 0.993287 0.047479	</row1>
+			<row2>	-0.410496 0.000000 0.911861	</row2>
+			<row3>	95.795105 1.660276 98.505486	</row3>
+		</transform>
+		<reflectionVisible>	false	</reflectionVisible>
+		<sliceClouds>	false	</sliceClouds>
+	</particles>
+	<particles
+			chunkId="ffffffffo">
+		<metaData>
+			<created_by>	v_minickiy	</created_by>
+			<created_on>	1504528990	</created_on>
+			<modified_by>	v_minickiy	</modified_by>
+			<modified_on>	1504697564	</modified_on>
+		</metaData>
+		<resource>	particles/spaces_fx/00_22_Hangar_British_Castle_2017/lamps_rain_drops_white_far.xml	</resource>
+		<transform>
+			<row0>	-0.205394 -0.000000 0.978678	</row0>
+			<row1>	0.000000 0.999998 0.000000	</row1>
+			<row2>	-0.978678 0.000000 -0.205394	</row2>
+			<row3>	87.852364 0.689445 96.564133	</row3>
+		</transform>
+		<reflectionVisible>	false	</reflectionVisible>
+		<sliceClouds>	false	</sliceClouds>
+	</particles>
+	<particles
+			chunkId="ffffffffo">
+		<metaData>
+			<created_by>	v_minickiy	</created_by>
+			<created_on>	1504515582	</created_on>
+			<modified_by>	v_minickiy	</modified_by>
+			<modified_on>	1504697561	</modified_on>
+		</metaData>
+		<resource>	particles/spaces_fx/00_22_Hangar_British_Castle_2017/lamps_rain_drops_white.xml	</resource>
+		<transform>
+			<row0>	-0.326169 0.000000 0.945305	</row0>
+			<row1>	0.000000 0.999994 0.000000	</row1>
+			<row2>	-0.945305 0.000000 -0.326169	</row2>
+			<row3>	95.798386 1.248834 98.723686	</row3>
+		</transform>
+		<reflectionVisible>	false	</reflectionVisible>
+		<sliceClouds>	false	</sliceClouds>
+	</particles>
+	<particles
+			chunkId="0000ffffo">
+		<metaData>
+			<created_by>	v_minickiy	</created_by>
+			<created_on>	1501750494	</created_on>
+			<modified_by>	v_minickiy	</modified_by>
+			<modified_on>	1503331334	</modified_on>
+		</metaData>
+		<resource>	particles/spaces_fx/00_22_Hangar_British_Castle_2017/fire_small_04.xml	</resource>
+		<transform>
+			<row0>	0.898304 -0.050775 -0.436427	</row0>
+			<row1>	0.000000 0.993299 -0.115563	</row1>
+			<row2>	0.439371 0.103811 0.892286	</row2>
+			<row3>	4.076259 -0.023433 96.545273	</row3>
+		</transform>
+		<reflectionVisible>	false	</reflectionVisible>
+		<sliceClouds>	false	</sliceClouds>
+	</particles>
+	<particles
+			chunkId="0000ffffo">
+		<metaData>
+			<created_by>	v_minickiy	</created_by>
+			<created_on>	1501749279	</created_on>
+			<modified_by>	v_minickiy	</modified_by>
+			<modified_on>	1503331336	</modified_on>
+		</metaData>
+		<resource>	particles/spaces_fx/00_22_Hangar_British_Castle_2017/fire_small_04.xml	</resource>
+		<transform>
+			<row0>	0.999996 0.000000 0.000000	</row0>
+			<row1>	0.000000 0.987340 -0.158595	</row1>
+			<row2>	0.000000 0.158595 0.987340	</row2>
+			<row3>	8.676382 0.821248 94.261597	</row3>
+		</transform>
+		<reflectionVisible>	false	</reflectionVisible>
+		<sliceClouds>	false	</sliceClouds>
+	</particles>
+	<particles
+			chunkId="0000ffffo">
+		<metaData>
+			<created_by>	v_minickiy	</created_by>
+			<created_on>	1501750051	</created_on>
+			<modified_by>	v_minickiy	</modified_by>
+			<modified_on>	1503331343	</modified_on>
+		</metaData>
+		<resource>	particles/spaces_fx/00_22_Hangar_British_Castle_2017/fire_small_05.xml	</resource>
+		<transform>
+			<row0>	0.954274 -0.022555 -0.298073	</row0>
+			<row1>	0.000000 0.997147 -0.075454	</row1>
+			<row2>	0.298925 0.072004 0.951554	</row2>
+			<row3>	9.357638 0.305713 97.828629	</row3>
+		</transform>
+		<reflectionVisible>	false	</reflectionVisible>
+		<sliceClouds>	false	</sliceClouds>
+	</particles>
+	<particles
+			chunkId="0000ffffo">
+		<metaData>
+			<created_by>	v_minickiy	</created_by>
+			<created_on>	1501853256	</created_on>
+			<modified_by>	v_minickiy	</modified_by>
+			<modified_on>	1503331398	</modified_on>
+		</metaData>
+		<resource>	particles/spaces_fx/00_22_Hangar_British_Castle_2017/halo.xml	</resource>
+		<transform>
+			<row0>	0.988887 0.148654 0.000000	</row0>
+			<row1>	-0.148654 0.988887 0.000000	</row1>
+			<row2>	0.000000 0.000000 0.999998	</row2>
+			<row3>	3.894511 0.017785 96.571190	</row3>
+		</transform>
+		<reflectionVisible>	false	</reflectionVisible>
+		<sliceClouds>	false	</sliceClouds>
+	</particles>
+	<particles
+			chunkId="0000ffffo">
+		<metaData>
+			<created_by>	v_minickiy	</created_by>
+			<created_on>	1501853256	</created_on>
+			<modified_by>	v_minickiy	</modified_by>
+			<modified_on>	1503331400	</modified_on>
+		</metaData>
+		<resource>	particles/spaces_fx/00_22_Hangar_British_Castle_2017/halo.xml	</resource>
+		<transform>
+			<row0>	-0.675454 -0.632302 0.379387	</row0>
+			<row1>	-0.551293 0.774710 0.309651	</row1>
+			<row2>	-0.489712 0.000002 -0.871873	</row2>
+			<row3>	8.543375 0.761476 94.366501	</row3>
+		</transform>
+		<reflectionVisible>	false	</reflectionVisible>
+		<sliceClouds>	false	</sliceClouds>
+	</particles>
+	<particles
+			chunkId="0000ffffo">
+		<metaData>
+			<created_by>	v_minickiy	</created_by>
+			<created_on>	1501510801	</created_on>
+			<modified_by>	v_minickiy	</modified_by>
+			<modified_on>	1503331440	</modified_on>
+		</metaData>
+		<resource>	particles/spaces_fx/00_22_Hangar_British_Castle_2017/rain_ripples.xml	</resource>
+		<transform>
+			<row0>	0.999996 0.000000 0.000000	</row0>
+			<row1>	0.000000 0.999996 0.000000	</row1>
+			<row2>	0.000000 0.000000 0.999996	</row2>
+			<row3>	2.095870 4.664666 99.710152	</row3>
+		</transform>
+		<reflectionVisible>	false	</reflectionVisible>
+		<sliceClouds>	false	</sliceClouds>
+	</particles>
+	<particles
+			chunkId="0000ffffo">
+		<metaData>
+			<created_by>	v_minickiy	</created_by>
+			<created_on>	1501510801	</created_on>
+			<modified_by>	v_minickiy	</modified_by>
+			<modified_on>	1503331442	</modified_on>
+		</metaData>
+		<resource>	particles/spaces_fx/00_22_Hangar_British_Castle_2017/rain_ripples.xml	</resource>
+		<transform>
+			<row0>	-0.999996 0.000000 0.000000	</row0>
+			<row1>	0.000000 0.999996 0.000000	</row1>
+			<row2>	0.000000 0.000000 -0.999996	</row2>
+			<row3>	1.580643 0.000000 98.135933	</row3>
+		</transform>
+		<reflectionVisible>	false	</reflectionVisible>
+		<sliceClouds>	false	</sliceClouds>
+	</particles>
+	<particles
+			chunkId="0000ffffo">
+		<metaData>
+			<created_by>	v_minickiy	</created_by>
+			<created_on>	1501510801	</created_on>
+			<modified_by>	v_minickiy	</modified_by>
+			<modified_on>	1503331444	</modified_on>
+		</metaData>
+		<resource>	particles/spaces_fx/00_22_Hangar_British_Castle_2017/rain_ripples.xml	</resource>
+		<transform>
+			<row0>	-0.999994 0.000000 0.000000	</row0>
+			<row1>	0.000000 0.999994 0.000000	</row1>
+			<row2>	0.000000 0.000000 -0.999994	</row2>
+			<row3>	1.597654 0.000000 99.263931	</row3>
+		</transform>
+		<reflectionVisible>	false	</reflectionVisible>
+		<sliceClouds>	false	</sliceClouds>
+	</particles>
+	<particles
+			chunkId="0000ffffo">
+		<metaData>
+			<created_by>	v_minickiy	</created_by>
+			<created_on>	1502447499	</created_on>
+			<modified_by>	v_minickiy	</modified_by>
+			<modified_on>	1503331292	</modified_on>
+		</metaData>
+		<resource>	particles/spaces_fx/00_22_Hangar_British_Castle_2017/aerial_perspective_plane_02.xml	</resource>
+		<transform>
+			<row0>	-0.103018 0.000000 0.994674	</row0>
+			<row1>	-0.000001 0.999994 0.000000	</row1>
+			<row2>	-0.994674 -0.000001 -0.103018	</row2>
+			<row3>	8.589344 0.902208 90.475220	</row3>
+		</transform>
+		<reflectionVisible>	false	</reflectionVisible>
+		<sliceClouds>	false	</sliceClouds>
+	</particles>
+	<particles
+			chunkId="0000ffffo">
+		<metaData>
+			<created_by>	v_minickiy	</created_by>
+			<created_on>	1502447499	</created_on>
+			<modified_by>	v_minickiy	</modified_by>
+			<modified_on>	1503331294	</modified_on>
+		</metaData>
+		<resource>	particles/spaces_fx/00_22_Hangar_British_Castle_2017/aerial_perspective_plane_02.xml	</resource>
+		<transform>
+			<row0>	0.002282 0.000000 0.999989	</row0>
+			<row1>	0.000000 0.999992 0.000000	</row1>
+			<row2>	-0.999989 0.000000 0.002282	</row2>
+			<row3>	10.999070 -0.995280 95.001518	</row3>
+		</transform>
+		<reflectionVisible>	false	</reflectionVisible>
+		<sliceClouds>	false	</sliceClouds>
+	</particles>
+	<particles
+			chunkId="0000ffffo">
+		<metaData>
+			<created_by>	v_minickiy	</created_by>
+			<created_on>	1502445133	</created_on>
+			<modified_by>	v_minickiy	</modified_by>
+			<modified_on>	1503331287	</modified_on>
+		</metaData>
+		<resource>	particles/spaces_fx/00_22_Hangar_British_Castle_2017/aerial_perspective_plane_01.xml	</resource>
+		<transform>
+			<row0>	0.999994 0.000000 0.000000	</row0>
+			<row1>	0.000000 0.999994 0.000000	</row1>
+			<row2>	0.000000 0.000000 0.999994	</row2>
+			<row3>	14.804543 -0.197340 99.624397	</row3>
+		</transform>
+		<reflectionVisible>	false	</reflectionVisible>
+		<sliceClouds>	false	</sliceClouds>
+	</particles>
+	<particles
+			chunkId="0000ffffo">
+		<metaData>
+			<created_by>	v_minickiy	</created_by>
+			<created_on>	1501753440	</created_on>
+			<modified_by>	v_minickiy	</modified_by>
+			<modified_on>	1503331476	</modified_on>
+		</metaData>
+		<resource>	particles/spaces_fx/00_22_Hangar_British_Castle_2017/smoke_in_trench.xml	</resource>
+		<transform>
+			<row0>	0.971873 0.000000 -0.235496	</row0>
+			<row1>	0.000000 0.999998 0.000000	</row1>
+			<row2>	0.235496 0.000000 0.971873	</row2>
+			<row3>	8.645865 -0.281771 99.355186	</row3>
+		</transform>
+		<reflectionVisible>	false	</reflectionVisible>
+		<sliceClouds>	false	</sliceClouds>
+	</particles>
+	<particles
+			chunkId="0000ffffo">
+		<metaData>
+			<created_by>	v_minickiy	</created_by>
+			<created_on>	1501753440	</created_on>
+			<modified_by>	v_minickiy	</modified_by>
+			<modified_on>	1503331479	</modified_on>
+		</metaData>
+		<resource>	particles/spaces_fx/00_22_Hangar_British_Castle_2017/smoke_in_trench.xml	</resource>
+		<transform>
+			<row0>	-0.101225 0.000000 -0.994859	</row0>
+			<row1>	0.000000 0.999995 0.000000	</row1>
+			<row2>	0.994859 0.000000 -0.101225	</row2>
+			<row3>	5.730687 -0.162132 97.947639	</row3>
+		</transform>
+		<reflectionVisible>	false	</reflectionVisible>
+		<sliceClouds>	false	</sliceClouds>
+	</particles>
+	<particles
+			chunkId="0000ffffo">
+		<metaData>
+			<created_by>	v_minickiy	</created_by>
+			<created_on>	1501753440	</created_on>
+			<modified_by>	v_minickiy	</modified_by>
+			<modified_on>	1503331482	</modified_on>
+		</metaData>
+		<resource>	particles/spaces_fx/00_22_Hangar_British_Castle_2017/smoke_in_trench.xml	</resource>
+		<transform>
+			<row0>	0.998992 0.000000 -0.044817	</row0>
+			<row1>	0.000000 0.999996 0.000000	</row1>
+			<row2>	0.044817 0.000000 0.998992	</row2>
+			<row3>	8.786773 -0.246063 96.577652	</row3>
+		</transform>
+		<reflectionVisible>	false	</reflectionVisible>
+		<sliceClouds>	false	</sliceClouds>
+	</particles>
+	<particles
+			chunkId="ffff0000o">
+		<metaData>
+			<created_by>	v_minickiy	</created_by>
+			<created_on>	1501510801	</created_on>
+			<modified_by>	v_minickiy	</modified_by>
+			<modified_on>	1503331455	</modified_on>
+		</metaData>
+		<resource>	particles/spaces_fx/00_22_Hangar_British_Castle_2017/rain_ripples.xml	</resource>
+		<transform>
+			<row0>	0.999994 0.000000 0.000000	</row0>
+			<row1>	0.000000 0.999995 0.000000	</row1>
+			<row2>	0.000000 0.000000 0.999994	</row2>
+			<row3>	98.291870 0.000000 0.379894	</row3>
+		</transform>
+		<reflectionVisible>	false	</reflectionVisible>
+		<sliceClouds>	false	</sliceClouds>
+	</particles>
+	<particles
+			chunkId="ffff0000o">
+		<metaData>
+			<created_by>	v_minickiy	</created_by>
+			<created_on>	1501510801	</created_on>
+			<modified_by>	v_minickiy	</modified_by>
+			<modified_on>	1503331453	</modified_on>
+		</metaData>
+		<resource>	particles/spaces_fx/00_22_Hangar_British_Castle_2017/rain_ripples.xml	</resource>
+		<transform>
+			<row0>	0.999996 0.000000 0.000000	</row0>
+			<row1>	0.000000 0.999996 0.000000	</row1>
+			<row2>	0.000000 0.000000 0.999996	</row2>
+			<row3>	98.310776 0.000000 2.622972	</row3>
+		</transform>
+		<reflectionVisible>	false	</reflectionVisible>
+		<sliceClouds>	false	</sliceClouds>
+	</particles>
+	<particles
+			chunkId="ffff0000o">
+		<metaData>
+			<created_by>	v_minickiy	</created_by>
+			<created_on>	1501510801	</created_on>
+			<modified_by>	v_minickiy	</modified_by>
+			<modified_on>	1503331458	</modified_on>
+		</metaData>
+		<resource>	particles/spaces_fx/00_22_Hangar_British_Castle_2017/rain_ripples.xml	</resource>
+		<transform>
+			<row0>	0.999995 0.000000 0.000000	</row0>
+			<row1>	0.000000 0.999996 0.000000	</row1>
+			<row2>	0.000000 0.000000 0.999995	</row2>
+			<row3>	98.298981 0.000000 1.500712	</row3>
+		</transform>
+		<reflectionVisible>	false	</reflectionVisible>
+		<sliceClouds>	false	</sliceClouds>
+	</particles>
+	<particles
+			chunkId="ffff0000o">
+		<metaData>
+			<created_by>	v_minickiy	</created_by>
+			<created_on>	1501578888	</created_on>
+			<modified_by>	v_minickiy	</modified_by>
+			<modified_on>	1503331465	</modified_on>
+		</metaData>
+		<resource>	particles/spaces_fx/00_22_Hangar_British_Castle_2017/rain_ripples_03.xml	</resource>
+		<transform>
+			<row0>	0.000000 0.000000 -0.999998	</row0>
+			<row1>	0.000000 0.999998 0.000000	</row1>
+			<row2>	0.999998 0.000000 0.000000	</row2>
+			<row3>	99.426483 0.000000 2.808871	</row3>
+		</transform>
+		<reflectionVisible>	false	</reflectionVisible>
+		<sliceClouds>	false	</sliceClouds>
+	</particles>
+	<particles
+			chunkId="ffff0000o">
+		<metaData>
+			<created_by>	v_minickiy	</created_by>
+			<created_on>	1502445133	</created_on>
+			<modified_by>	v_minickiy	</modified_by>
+			<modified_on>	1503331289	</modified_on>
+		</metaData>
+		<resource>	particles/spaces_fx/00_22_Hangar_British_Castle_2017/aerial_perspective_plane_01.xml	</resource>
+		<transform>
+			<row0>	-0.737363 0.000000 0.675481	</row0>
+			<row1>	0.000000 0.999991 0.000000	</row1>
+			<row2>	-0.675481 0.000000 -0.737363	</row2>
+			<row3>	96.628235 -0.901750 19.377098	</row3>
+		</transform>
+		<reflectionVisible>	false	</reflectionVisible>
+		<sliceClouds>	false	</sliceClouds>
+	</particles>
+	<particles
+			chunkId="ffff0000o">
+		<metaData>
+			<created_by>	v_minickiy	</created_by>
+			<created_on>	1502445133	</created_on>
+			<modified_by>	v_minickiy	</modified_by>
+			<modified_on>	1503331291	</modified_on>
+		</metaData>
+		<resource>	particles/spaces_fx/00_22_Hangar_British_Castle_2017/aerial_perspective_plane_01.xml	</resource>
+		<transform>
+			<row0>	-0.737363 0.000000 0.675481	</row0>
+			<row1>	0.000000 0.999991 0.000000	</row1>
+			<row2>	-0.675481 0.000000 -0.737363	</row2>
+			<row3>	88.602501 0.893714 10.241003	</row3>
+		</transform>
+		<reflectionVisible>	false	</reflectionVisible>
+		<sliceClouds>	false	</sliceClouds>
+	</particles>
+	<particles
+			chunkId="ffff0000o">
+		<metaData>
+			<created_by>	v_minickiy	</created_by>
+			<created_on>	1501850154	</created_on>
+			<modified_by>	v_minickiy	</modified_by>
+			<modified_on>	1504697588	</modified_on>
+		</metaData>
+		<resource>	particles/spaces_fx/00_22_Hangar_British_Castle_2017/smoke_in_baricade.xml	</resource>
+		<transform>
+			<row0>	-0.015021 0.000000 -0.999883	</row0>
+			<row1>	0.000000 0.999996 0.000000	</row1>
+			<row2>	0.999883 0.000000 -0.015021	</row2>
+			<row3>	89.234383 0.291088 2.794189	</row3>
+		</transform>
+		<reflectionVisible>	false	</reflectionVisible>
+		<sliceClouds>	false	</sliceClouds>
+	</particles>
+	<particles
+			chunkId="ffff0000o">
+		<metaData>
+			<created_by>	v_minickiy	</created_by>
+			<created_on>	1502890350	</created_on>
+			<modified_by>	v_minickiy	</modified_by>
+			<modified_on>	1503331427	</modified_on>
+		</metaData>
+		<resource>	particles/spaces_fx/00_22_Hangar_British_Castle_2017/lamps_from_car.xml	</resource>
+		<transform>
+			<row0>	0.968546 -0.000000 -0.248830	</row0>
+			<row1>	0.000000 0.999999 0.000000	</row1>
+			<row2>	0.248830 -0.000000 0.968546	</row2>
+			<row3>	94.605049 0.250841 0.325000	</row3>
+		</transform>
+		<reflectionVisible>	false	</reflectionVisible>
+		<sliceClouds>	false	</sliceClouds>
+	</particles>
+	<particles
+			chunkId="ffff0000o">
+		<metaData>
+			<created_by>	v_minickiy	</created_by>
+			<created_on>	1504530292	</created_on>
+			<modified_by>	v_minickiy	</modified_by>
+			<modified_on>	1504697558	</modified_on>
+		</metaData>
+		<resource>	particles/spaces_fx/00_22_Hangar_British_Castle_2017/lamps_rain_drops_car.xml	</resource>
+		<transform>
+			<row0>	0.230984 -0.025808 0.972611	</row0>
+			<row1>	0.097031 0.995272 0.003365	</row1>
+			<row2>	-0.968103 0.093597 0.232397	</row2>
+			<row3>	94.501816 -0.363736 0.792152	</row3>
+		</transform>
+		<reflectionVisible>	false	</reflectionVisible>
+		<sliceClouds>	false	</sliceClouds>
+	</particles>
+	<particles
+			chunkId="ffff0000o">
+		<metaData>
+			<created_by>	v_minickiy	</created_by>
+			<created_on>	1504623403	</created_on>
+			<modified_by>	v_minickiy	</modified_by>
+			<modified_on>	1504697483	</modified_on>
+		</metaData>
+		<resource>	particles/spaces_fx/00_22_Hangar_British_Castle_2017/dogfight_around_zeppeline.xml	</resource>
+		<transform>
+			<row0>	0.999997 0.000000 0.000000	</row0>
+			<row1>	0.000000 0.999997 0.000000	</row1>
+			<row2>	0.000000 0.000000 0.999997	</row2>
+			<row3>	63.813549 10.309251 92.537231	</row3>
+		</transform>
+		<reflectionVisible>	false	</reflectionVisible>
+		<sliceClouds>	false	</sliceClouds>
+	</particles>
+	<particles
+			chunkId="00000000o">
+		<metaData>
+			<created_by>	v_minickiy	</created_by>
+			<created_on>	1501589672	</created_on>
+			<modified_by>	v_minickiy	</modified_by>
+			<modified_on>	1503331316	</modified_on>
+		</metaData>
+		<resource>	particles/spaces_fx/00_22_Hangar_British_Castle_2017/fire_small_01.xml	</resource>
+		<transform>
+			<row0>	-0.355361 0.000000 0.934725	</row0>
+			<row1>	0.000000 0.999997 0.000000	</row1>
+			<row2>	-0.934725 0.000000 -0.355361	</row2>
+			<row3>	13.691928 0.063085 5.412104	</row3>
+		</transform>
+		<reflectionVisible>	false	</reflectionVisible>
+		<sliceClouds>	false	</sliceClouds>
+	</particles>
+	<particles
+			chunkId="00000000o">
+		<metaData>
+			<created_by>	v_minickiy	</created_by>
+			<created_on>	1501590019	</created_on>
+			<modified_by>	v_minickiy	</modified_by>
+			<modified_on>	1503331322	</modified_on>
+		</metaData>
+		<resource>	particles/spaces_fx/00_22_Hangar_British_Castle_2017/fire_small_02.xml	</resource>
+		<transform>
+			<row0>	0.760734 0.000000 0.649055	</row0>
+			<row1>	0.000000 0.999995 0.000000	</row1>
+			<row2>	-0.649055 0.000000 0.760734	</row2>
+			<row3>	13.983080 -0.014000 4.785330	</row3>
+		</transform>
+		<reflectionVisible>	false	</reflectionVisible>
+		<sliceClouds>	false	</sliceClouds>
+	</particles>
+	<particles
+			chunkId="00000000o">
+		<metaData>
+			<created_by>	v_minickiy	</created_by>
+			<created_on>	1501590019	</created_on>
+			<modified_by>	v_minickiy	</modified_by>
+			<modified_on>	1503331320	</modified_on>
+		</metaData>
+		<resource>	particles/spaces_fx/00_22_Hangar_British_Castle_2017/fire_small_02.xml	</resource>
+		<transform>
+			<row0>	0.640993 0.000000 0.767540	</row0>
+			<row1>	0.000000 0.999995 0.000000	</row1>
+			<row2>	-0.767540 0.000000 0.640993	</row2>
+			<row3>	11.461796 -0.050150 6.641498	</row3>
+		</transform>
+		<reflectionVisible>	false	</reflectionVisible>
+		<sliceClouds>	false	</sliceClouds>
+	</particles>
+	<particles
+			chunkId="00000000o">
+		<metaData>
+			<created_by>	v_minickiy	</created_by>
+			<created_on>	1501590019	</created_on>
+			<modified_by>	v_minickiy	</modified_by>
+			<modified_on>	1503331325	</modified_on>
+		</metaData>
+		<resource>	particles/spaces_fx/00_22_Hangar_British_Castle_2017/fire_small_02.xml	</resource>
+		<transform>
+			<row0>	0.640990 0.000000 0.767537	</row0>
+			<row1>	0.000000 0.999992 0.000000	</row1>
+			<row2>	-0.767537 0.000000 0.640990	</row2>
+			<row3>	9.270336 -0.033705 3.969434	</row3>
+		</transform>
+		<reflectionVisible>	false	</reflectionVisible>
+		<sliceClouds>	false	</sliceClouds>
+	</particles>
+	<particles
+			chunkId="00000000o">
+		<metaData>
+			<created_by>	v_minickiy	</created_by>
+			<created_on>	1501663749	</created_on>
+			<modified_by>	v_minickiy	</modified_by>
+			<modified_on>	1503331327	</modified_on>
+		</metaData>
+		<resource>	particles/spaces_fx/00_22_Hangar_British_Castle_2017/fire_small_03.xml	</resource>
+		<transform>
+			<row0>	0.425638 -0.000001 0.904887	</row0>
+			<row1>	-0.000001 0.999994 0.000001	</row1>
+			<row2>	-0.904887 -0.000001 0.425638	</row2>
+			<row3>	9.565825 -0.024984 6.103061	</row3>
+		</transform>
+		<reflectionVisible>	false	</reflectionVisible>
+		<sliceClouds>	false	</sliceClouds>
+	</particles>
+	<particles
+			chunkId="00000000o">
+		<metaData>
+			<created_by>	v_minickiy	</created_by>
+			<created_on>	1501663749	</created_on>
+			<modified_by>	v_minickiy	</modified_by>
+			<modified_on>	1503331329	</modified_on>
+		</metaData>
+		<resource>	particles/spaces_fx/00_22_Hangar_British_Castle_2017/fire_small_03.xml	</resource>
+		<transform>
+			<row0>	0.647630 0.000000 0.761949	</row0>
+			<row1>	0.000000 0.999995 0.000000	</row1>
+			<row2>	-0.761949 0.000000 0.647630	</row2>
+			<row3>	10.517290 0.029846 4.285167	</row3>
+		</transform>
+		<reflectionVisible>	false	</reflectionVisible>
+		<sliceClouds>	false	</sliceClouds>
+	</particles>
+	<particles
+			chunkId="00000000o">
+		<metaData>
+			<created_by>	v_minickiy	</created_by>
+			<created_on>	1501853256	</created_on>
+			<modified_by>	v_minickiy	</modified_by>
+			<modified_on>	1503331404	</modified_on>
+		</metaData>
+		<resource>	particles/spaces_fx/00_22_Hangar_British_Castle_2017/halo.xml	</resource>
+		<transform>
+			<row0>	0.988886 0.148654 0.000000	</row0>
+			<row1>	-0.148654 0.988886 0.000000	</row1>
+			<row2>	0.000000 0.000000 0.999997	</row2>
+			<row3>	5.706953 0.098424 1.123785	</row3>
+		</transform>
+		<reflectionVisible>	false	</reflectionVisible>
+		<sliceClouds>	false	</sliceClouds>
+	</particles>
+	<particles
+			chunkId="00000000o">
+		<metaData>
+			<created_by>	v_minickiy	</created_by>
+			<created_on>	1501854220	</created_on>
+			<modified_by>	v_minickiy	</modified_by>
+			<modified_on>	1503331406	</modified_on>
+		</metaData>
+		<resource>	particles/spaces_fx/00_22_Hangar_British_Castle_2017/halo_large.xml	</resource>
+		<transform>
+			<row0>	0.358199 0.024970 -0.933299	</row0>
+			<row1>	-0.102956 0.994593 -0.012905	</row1>
+			<row2>	0.927940 0.100712 0.358836	</row2>
+			<row3>	11.464128 0.005193 5.929476	</row3>
+		</transform>
+		<reflectionVisible>	false	</reflectionVisible>
+		<sliceClouds>	false	</sliceClouds>
+	</particles>
+	<particles
+			chunkId="00000000o">
+		<metaData>
+			<created_by>	v_minickiy	</created_by>
+			<created_on>	1501854220	</created_on>
+			<modified_by>	v_minickiy	</modified_by>
+			<modified_on>	1503331411	</modified_on>
+		</metaData>
+		<resource>	particles/spaces_fx/00_22_Hangar_British_Castle_2017/halo_large.xml	</resource>
+		<transform>
+			<row0>	0.739804 0.065746 -0.669594	</row0>
+			<row1>	-0.167441 0.981889 -0.088588	</row1>
+			<row2>	0.651646 0.177656 0.737417	</row2>
+			<row3>	7.960361 -0.006332 5.931237	</row3>
+		</transform>
+		<reflectionVisible>	false	</reflectionVisible>
+		<sliceClouds>	false	</sliceClouds>
+	</particles>
+	<particles
+			chunkId="00000000o">
+		<metaData>
+			<created_by>	v_minickiy	</created_by>
+			<created_on>	1501854220	</created_on>
+			<modified_by>	v_minickiy	</modified_by>
+			<modified_on>	1503331412	</modified_on>
+		</metaData>
+		<resource>	particles/spaces_fx/00_22_Hangar_British_Castle_2017/halo_large.xml	</resource>
+		<transform>
+			<row0>	0.358200 0.024970 -0.933302	</row0>
+			<row1>	-0.160860 0.986338 -0.035349	</row1>
+			<row2>	0.919675 0.162794 0.357325	</row2>
+			<row3>	8.891140 0.035649 3.965756	</row3>
+		</transform>
+		<reflectionVisible>	false	</reflectionVisible>
+		<sliceClouds>	false	</sliceClouds>
+	</particles>
+	<particles
+			chunkId="00000000o">
+		<metaData>
+			<created_by>	v_minickiy	</created_by>
+			<created_on>	1501510801	</created_on>
+			<modified_by>	v_minickiy	</modified_by>
+			<modified_on>	1503331448	</modified_on>
+		</metaData>
+		<resource>	particles/spaces_fx/00_22_Hangar_British_Castle_2017/rain_ripples.xml	</resource>
+		<transform>
+			<row0>	-0.999861 0.000000 -0.016246	</row0>
+			<row1>	0.000000 0.999994 0.000000	</row1>
+			<row2>	0.016246 0.000000 -0.999861	</row2>
+			<row3>	1.549833 0.000000 1.500999	</row3>
+		</transform>
+		<reflectionVisible>	false	</reflectionVisible>
+		<sliceClouds>	false	</sliceClouds>
+	</particles>
+	<particles
+			chunkId="00000000o">
+		<metaData>
+			<created_by>	v_minickiy	</created_by>
+			<created_on>	1501510801	</created_on>
+			<modified_by>	v_minickiy	</modified_by>
+			<modified_on>	1503331446	</modified_on>
+		</metaData>
+		<resource>	particles/spaces_fx/00_22_Hangar_British_Castle_2017/rain_ripples.xml	</resource>
+		<transform>
+			<row0>	-0.999992 0.000000 0.000000	</row0>
+			<row1>	0.000000 0.999993 0.000000	</row1>
+			<row2>	0.000000 0.000000 -0.999992	</row2>
+			<row3>	1.542595 0.000000 2.622998	</row3>
+		</transform>
+		<reflectionVisible>	false	</reflectionVisible>
+		<sliceClouds>	false	</sliceClouds>
+	</particles>
+	<particles
+			chunkId="00000000o">
+		<metaData>
+			<created_by>	v_minickiy	</created_by>
+			<created_on>	1501510801	</created_on>
+			<modified_by>	v_minickiy	</modified_by>
+			<modified_on>	1503331451	</modified_on>
+		</metaData>
+		<resource>	particles/spaces_fx/00_22_Hangar_British_Castle_2017/rain_ripples.xml	</resource>
+		<transform>
+			<row0>	-0.999861 0.000000 -0.016246	</row0>
+			<row1>	0.000000 0.999994 0.000000	</row1>
+			<row2>	0.016246 0.000000 -0.999861	</row2>
+			<row3>	1.585222 0.000000 0.380000	</row3>
+		</transform>
+		<reflectionVisible>	false	</reflectionVisible>
+		<sliceClouds>	false	</sliceClouds>
+	</particles>
+	<particles
+			chunkId="00000000o">
+		<metaData>
+			<created_by>	v_minickiy	</created_by>
+			<created_on>	1501578888	</created_on>
+			<modified_by>	v_minickiy	</modified_by>
+			<modified_on>	1503331462	</modified_on>
+		</metaData>
+		<resource>	particles/spaces_fx/00_22_Hangar_British_Castle_2017/rain_ripples_03.xml	</resource>
+		<transform>
+			<row0>	0.000000 0.000000 -0.999997	</row0>
+			<row1>	0.000000 0.999997 0.000000	</row1>
+			<row2>	0.999997 0.000000 0.000000	</row2>
+			<row3>	0.430943 0.000000 2.814886	</row3>
+		</transform>
+		<reflectionVisible>	false	</reflectionVisible>
+		<sliceClouds>	false	</sliceClouds>
+	</particles>
+	<particles
+			chunkId="00000000o">
+		<metaData>
+			<created_by>	v_minickiy	</created_by>
+			<created_on>	1501056080	</created_on>
+			<modified_by>	v_minickiy	</modified_by>
+			<modified_on>	1503331434	</modified_on>
+		</metaData>
+		<resource>	particles/spaces_fx/00_22_Hangar_British_Castle_2017/rain_drops.xml	</resource>
+		<transform>
+			<row0>	1.000000 0.000000 0.000000	</row0>
+			<row1>	0.000000 1.000000 0.000000	</row1>
+			<row2>	0.000000 0.000000 1.000000	</row2>
+			<row3>	0.000000 0.000000 0.999992	</row3>
+		</transform>
+		<reflectionVisible>	false	</reflectionVisible>
+		<sliceClouds>	false	</sliceClouds>
+	</particles>
+	<particles
+			chunkId="00000000o">
+		<metaData>
+			<created_by>	v_minickiy	</created_by>
+			<created_on>	1501056077	</created_on>
+			<modified_by>	v_minickiy	</modified_by>
+			<modified_on>	1503331362	</modified_on>
+		</metaData>
+		<resource>	particles/spaces_fx/00_22_Hangar_British_Castle_2017/fire_smoke_super_big.xml	</resource>
+		<transform>
+			<row0>	0.087156 0.000000 -0.996194	</row0>
+			<row1>	0.000000 1.000000 0.000000	</row1>
+			<row2>	0.996194 0.000000 0.087156	</row2>
+			<row3>	56.122944 0.297000 6.119994	</row3>
+		</transform>
+		<reflectionVisible>	false	</reflectionVisible>
+		<sliceClouds>	false	</sliceClouds>
+	</particles>
+	<particles
+			chunkId="00000000o">
+		<metaData>
+			<created_by>	v_minickiy	</created_by>
+			<created_on>	1502445133	</created_on>
+			<modified_by>	v_minickiy	</modified_by>
+			<modified_on>	1503331279	</modified_on>
+		</metaData>
+		<resource>	particles/spaces_fx/00_22_Hangar_British_Castle_2017/aerial_perspective_plane_01.xml	</resource>
+		<transform>
+			<row0>	0.807711 0.000000 0.589567	</row0>
+			<row1>	0.000000 0.999994 0.000000	</row1>
+			<row2>	-0.589567 0.000000 0.807711	</row2>
+			<row3>	6.529256 0.369126 25.826563	</row3>
+		</transform>
+		<reflectionVisible>	false	</reflectionVisible>
+		<sliceClouds>	false	</sliceClouds>
+	</particles>
+	<particles
+			chunkId="00000000o">
+		<metaData>
+			<created_by>	v_minickiy	</created_by>
+			<created_on>	1502445133	</created_on>
+			<modified_by>	v_minickiy	</modified_by>
+			<modified_on>	1503331285	</modified_on>
+		</metaData>
+		<resource>	particles/spaces_fx/00_22_Hangar_British_Castle_2017/aerial_perspective_plane_01.xml	</resource>
+		<transform>
+			<row0>	0.999998 0.000000 0.000000	</row0>
+			<row1>	0.000000 0.999998 0.000000	</row1>
+			<row2>	0.000000 0.000000 0.999998	</row2>
+			<row3>	19.452410 5.029092 27.588490	</row3>
+		</transform>
+		<reflectionVisible>	false	</reflectionVisible>
+		<sliceClouds>	false	</sliceClouds>
+	</particles>
+	<particles
+			chunkId="00000000o">
+		<metaData>
+			<created_by>	v_minickiy	</created_by>
+			<created_on>	1501753440	</created_on>
+			<modified_by>	v_minickiy	</modified_by>
+			<modified_on>	1503331474	</modified_on>
+		</metaData>
+		<resource>	particles/spaces_fx/00_22_Hangar_British_Castle_2017/smoke_in_trench.xml	</resource>
+		<transform>
+			<row0>	0.942338 0.000000 -0.334646	</row0>
+			<row1>	0.000000 0.999994 0.000000	</row1>
+			<row2>	0.334646 0.000000 0.942338	</row2>
+			<row3>	9.667523 -0.125698 1.618931	</row3>
+		</transform>
+		<reflectionVisible>	false	</reflectionVisible>
+		<sliceClouds>	false	</sliceClouds>
+	</particles>
+	<particles
+			chunkId="00000000o">
+		<metaData>
+			<created_by>	v_minickiy	</created_by>
+			<created_on>	1501850154	</created_on>
+			<modified_by>	v_minickiy	</modified_by>
+			<modified_on>	1503331468	</modified_on>
+		</metaData>
+		<resource>	particles/spaces_fx/00_22_Hangar_British_Castle_2017/smoke_in_baricade.xml	</resource>
+		<transform>
+			<row0>	0.989045 0.000000 0.147567	</row0>
+			<row1>	0.000000 0.999993 0.000000	</row1>
+			<row2>	-0.147567 0.000000 0.989045	</row2>
+			<row3>	6.027523 -0.170549 9.688681	</row3>
+		</transform>
+		<reflectionVisible>	false	</reflectionVisible>
+		<sliceClouds>	false	</sliceClouds>
+	</particles>
+	<particles
+			chunkId="00000000o">
+		<metaData>
+			<created_by>	v_minickiy	</created_by>
+			<created_on>	1502810545	</created_on>
+			<modified_by>	v_minickiy	</modified_by>
+			<modified_on>	1503331484	</modified_on>
+		</metaData>
+		<resource>	particles/spaces_fx/00_22_Hangar_British_Castle_2017/tent_lights_01.xml	</resource>
+		<transform>
+			<row0>	-0.092148 -0.000000 -0.995744	</row0>
+			<row1>	0.000000 0.999999 -0.000000	</row1>
+			<row2>	0.995744 -0.000000 -0.092148	</row2>
+			<row3>	3.920481 0.126117 8.104892	</row3>
+		</transform>
+		<reflectionVisible>	false	</reflectionVisible>
+		<sliceClouds>	false	</sliceClouds>
+	</particles>
+	<particles
+			chunkId="00000000o">
+		<metaData>
+			<created_by>	v_minickiy	</created_by>
+			<created_on>	1501590019	</created_on>
+			<modified_by>	v_minickiy	</modified_by>
+			<modified_on>	1503331318	</modified_on>
+		</metaData>
+		<resource>	particles/spaces_fx/00_22_Hangar_British_Castle_2017/fire_small_02.xml	</resource>
+		<transform>
+			<row0>	0.640987 0.000000 0.767534	</row0>
+			<row1>	0.000000 0.999989 0.000000	</row1>
+			<row2>	-0.767534 0.000000 0.640987	</row2>
+			<row3>	8.369368 -0.086600 6.216697	</row3>
+		</transform>
+		<reflectionVisible>	false	</reflectionVisible>
+		<sliceClouds>	false	</sliceClouds>
+	</particles>
+	<particles
+			chunkId="00000000o">
+		<metaData>
+			<created_by>	v_minickiy	</created_by>
+			<created_on>	1504010544	</created_on>
+			<modified_by>	v_minickiy	</modified_by>
+			<modified_on>	1504697526	</modified_on>
+		</metaData>
+		<resource>	particles/spaces_fx/00_22_Hangar_British_Castle_2017/fireGlist_Scaffolds_01.xml	</resource>
+		<transform>
+			<row0>	0.999956 0.000000 -0.008726	</row0>
+			<row1>	0.000000 0.999994 0.000000	</row1>
+			<row2>	0.008726 0.000000 0.999956	</row2>
+			<row3>	13.503983 0.000269 9.308564	</row3>
+		</transform>
+		<reflectionVisible>	false	</reflectionVisible>
+		<sliceClouds>	false	</sliceClouds>
+	</particles>
+	<particles
+			chunkId="00000000o">
+		<metaData>
+			<created_by>	v_minickiy	</created_by>
+			<created_on>	1501750722	</created_on>
+			<modified_by>	v_minickiy	</modified_by>
+			<modified_on>	1504011491	</modified_on>
+		</metaData>
+		<resource>	particles/spaces_fx/00_22_Hangar_British_Castle_2017/fire_small_06.xml	</resource>
+		<transform>
+			<row0>	0.675986 0.000000 0.736913	</row0>
+			<row1>	0.000000 0.999999 0.000000	</row1>
+			<row2>	-0.736913 0.000000 0.675986	</row2>
+			<row3>	12.565895 -0.104303 6.239967	</row3>
+		</transform>
+		<reflectionVisible>	false	</reflectionVisible>
+		<sliceClouds>	false	</sliceClouds>
+	</particles>
+	<particles
+			chunkId="00000000o">
+		<metaData>
+			<created_by>	v_minickiy	</created_by>
+			<created_on>	1501589672	</created_on>
+			<modified_by>	v_minickiy	</modified_by>
+			<modified_on>	1503331314	</modified_on>
+		</metaData>
+		<resource>	particles/spaces_fx/00_22_Hangar_British_Castle_2017/fire_small_01.xml	</resource>
+		<transform>
+			<row0>	-0.776584 0.000000 0.630006	</row0>
+			<row1>	0.000000 0.999996 0.000000	</row1>
+			<row2>	-0.630006 0.000000 -0.776584	</row2>
+			<row3>	11.959085 0.053170 6.263614	</row3>
+		</transform>
+		<reflectionVisible>	false	</reflectionVisible>
+		<sliceClouds>	false	</sliceClouds>
+	</particles>
+	<particles
+			chunkId="00000000o">
+		<metaData>
+			<created_by>	v_minickiy	</created_by>
+			<created_on>	1501749279	</created_on>
+			<modified_by>	v_minickiy	</modified_by>
+			<modified_on>	1503331338	</modified_on>
+		</metaData>
+		<resource>	particles/spaces_fx/00_22_Hangar_British_Castle_2017/fire_small_04.xml	</resource>
+		<transform>
+			<row0>	0.999994 0.000000 0.000000	</row0>
+			<row1>	0.000000 0.987338 -0.158594	</row1>
+			<row2>	0.000000 0.158594 0.987338	</row2>
+			<row3>	5.742804 0.078385 1.126579	</row3>
+		</transform>
+		<reflectionVisible>	false	</reflectionVisible>
+		<sliceClouds>	false	</sliceClouds>
+	</particles>
+	<particles
+			chunkId="00000000o">
+		<metaData>
+			<created_by>	v_minickiy	</created_by>
+			<created_on>	1504605514	</created_on>
+			<modified_by>	v_minickiy	</modified_by>
+			<modified_on>	1504697515	</modified_on>
+		</metaData>
+		<resource>	particles/spaces_fx/00_22_Hangar_British_Castle_2017/fire_smoke_near_castle.xml	</resource>
+		<transform>
+			<row0>	0.387292 0.000000 -0.921951	</row0>
+			<row1>	-0.000000 0.999995 0.000000	</row1>
+			<row2>	0.921951 0.000000 0.387292	</row2>
+			<row3>	20.359764 0.772462 27.978886	</row3>
+		</transform>
+		<reflectionVisible>	false	</reflectionVisible>
+		<sliceClouds>	false	</sliceClouds>
+	</particles>
+	<particles
+			chunkId="00000000o">
+		<metaData>
+			<created_by>	v_minickiy	</created_by>
+			<created_on>	1504694952	</created_on>
+			<modified_by>	v_minickiy	</modified_by>
+			<modified_on>	1504697472	</modified_on>
+		</metaData>
+		<resource>	particles/spaces_fx/00_22_Hangar_British_Castle_2017/dogfight_01.xml	</resource>
+		<transform>
+			<row0>	0.921160 -0.000000 -0.389184	</row0>
+			<row1>	0.000000 0.999999 -0.000000	</row1>
+			<row2>	0.389184 0.000000 0.921160	</row2>
+			<row3>	11.458901 9.061425 73.418358	</row3>
+		</transform>
+		<reflectionVisible>	false	</reflectionVisible>
+		<sliceClouds>	false	</sliceClouds>
+	</particles>
+	<particles
+			chunkId="00000000o">
+		<metaData>
+			<created_by>	v_minickiy	</created_by>
+			<created_on>	1504695964	</created_on>
+			<modified_by>	v_minickiy	</modified_by>
+			<modified_on>	1504697476	</modified_on>
+		</metaData>
+		<resource>	particles/spaces_fx/00_22_Hangar_British_Castle_2017/dogfight_02.xml	</resource>
+		<transform>
+			<row0>	0.219093 -0.000000 0.975703	</row0>
+			<row1>	-0.000000 0.999999 0.000000	</row1>
+			<row2>	-0.975703 -0.000000 0.219093	</row2>
+			<row3>	41.986683 10.494007 87.773979	</row3>
+		</transform>
+		<reflectionVisible>	false	</reflectionVisible>
+		<sliceClouds>	false	</sliceClouds>
+	</particles>
+	<particles
+			chunkId="00010000o">
+		<metaData>
+			<created_by>	v_minickiy	</created_by>
+			<created_on>	1504697376	</created_on>
+			<modified_by>	v_minickiy	</modified_by>
+			<modified_on>	1504697408	</modified_on>
+		</metaData>
+		<resource>	particles/spaces_fx/00_22_Hangar_British_Castle_2017/dogfight_03.xml	</resource>
+		<transform>
+			<row0>	-0.515038 0.000000 0.857167	</row0>
+			<row1>	0.000000 1.000000 0.000000	</row1>
+			<row2>	-0.857167 0.000000 -0.515038	</row2>
+			<row3>	25.999985 19.999990 99.999954	</row3>
+		</transform>
+		<reflectionVisible>	false	</reflectionVisible>
+		<sliceClouds>	false	</sliceClouds>
+	</particles>
+	<particles
+			chunkId="00010002o">
+		<metaData>
+			<created_by>	a_kosarev	</created_by>
+			<created_on>	1502289108	</created_on>
+			<modified_by>	v_minickiy	</modified_by>
+			<modified_on>	1504697469	</modified_on>
+		</metaData>
+		<resource>	particles/spaces_fx/00_22_Hangar_British_Castle_2017/bomber_solo_He111.xml	</resource>
+		<transform>
+			<row0>	-0.890212 0.000345 0.455544	</row0>
+			<row1>	0.000307 0.999999 -0.000157	</row1>
+			<row2>	-0.455544 0.000000 -0.890212	</row2>
+			<row3>	36.480949 0.000000 17.597763	</row3>
+		</transform>
+		<reflectionVisible>	false	</reflectionVisible>
+		<sliceClouds>	false	</sliceClouds>
+	</particles>
+	<particles
+			chunkId="00010002o">
+		<metaData>
+			<created_by>	a_kosarev	</created_by>
+			<created_on>	1501667443	</created_on>
+			<modified_by>	v_minickiy	</modified_by>
+			<modified_on>	1504697463	</modified_on>
+		</metaData>
+		<resource>	particles/spaces_fx/00_22_Hangar_British_Castle_2017/bomber_He111.xml	</resource>
+		<transform>
+			<row0>	-0.890208 0.000000 0.455552	</row0>
+			<row1>	0.000000 0.999999 0.000000	</row1>
+			<row2>	-0.455552 0.000000 -0.890208	</row2>
+			<row3>	35.362938 13.000005 19.705231	</row3>
+		</transform>
+		<reflectionVisible>	false	</reflectionVisible>
+		<sliceClouds>	false	</sliceClouds>
+	</particles>
+</particles.item>

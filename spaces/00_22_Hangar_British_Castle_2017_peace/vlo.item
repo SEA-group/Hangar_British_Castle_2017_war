@@ -1,0 +1,62 @@
+<vlo.item>
+	<vlo
+			chunkId="ffffffffo">
+		<uid>	2b390845.44164bbe.84f1c7bc.c8a56c30	</uid>
+		<type>	volumetric_cloud	</type>
+	</vlo>
+	<vlo
+			chunkId="ffffffffo">
+		<uid>	d9765f9e.40162e22.ee903cb8.b94f5f62	</uid>
+		<type>	water	</type>
+	</vlo>
+	<vlo
+			chunkId="0000ffffo">
+		<uid>	2b390845.44164bbe.84f1c7bc.c8a56c30	</uid>
+		<type>	volumetric_cloud	</type>
+	</vlo>
+	<vlo
+			chunkId="0000ffffo">
+		<uid>	d9765f9e.40162e22.ee903cb8.b94f5f62	</uid>
+		<type>	water	</type>
+	</vlo>
+	<vlo
+			chunkId="ffff0000o">
+		<uid>	2b390845.44164bbe.84f1c7bc.c8a56c30	</uid>
+		<type>	volumetric_cloud	</type>
+	</vlo>
+	<vlo
+			chunkId="ffff0000o">
+		<uid>	d9765f9e.40162e22.ee903cb8.b94f5f62	</uid>
+		<type>	water	</type>
+	</vlo>
+	<vlo
+			chunkId="00000000o">
+		<uid>	cbfda2d1.4c6e93e3.c8828881.a958d042	</uid>
+		<type>	volumetric_cloud	</type>
+	</vlo>
+	<vlo
+			chunkId="00000000o">
+		<uid>	2b390845.44164bbe.84f1c7bc.c8a56c30	</uid>
+		<type>	volumetric_cloud	</type>
+	</vlo>
+	<vlo
+			chunkId="00000000o">
+		<uid>	d9765f9e.40162e22.ee903cb8.b94f5f62	</uid>
+		<type>	water	</type>
+	</vlo>
+	<vlo
+			chunkId="00010000o">
+		<uid>	cbfda2d1.4c6e93e3.c8828881.a958d042	</uid>
+		<type>	volumetric_cloud	</type>
+	</vlo>
+	<vlo
+			chunkId="00000001o">
+		<uid>	cbfda2d1.4c6e93e3.c8828881.a958d042	</uid>
+		<type>	volumetric_cloud	</type>
+	</vlo>
+	<vlo
+			chunkId="00010001o">
+		<uid>	cbfda2d1.4c6e93e3.c8828881.a958d042	</uid>
+		<type>	volumetric_cloud	</type>
+	</vlo>
+</vlo.item>

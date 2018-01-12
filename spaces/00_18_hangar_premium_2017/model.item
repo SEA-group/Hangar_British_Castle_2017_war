@@ -1,0 +1,3878 @@
+<model.item>
+	<model
+			chunkId="ffffffffo">
+		<metaData>
+			<created_by>	v_dobrovolskiy	</created_by>
+			<created_on>	1500631546	</created_on>
+			<modified_by>	v_dobrovolskiy	</modified_by>
+			<modified_on>	1501078112	</modified_on>
+		</metaData>
+		<resource>	content/00_22_Hangar_British_Castle_2017/09_Fountains/09_Fountain.model	</resource>
+		<transform>
+			<row0>	-0.257990 0.000000 -0.036258	</row0>
+			<row1>	0.000000 0.260526 0.000000	</row1>
+			<row2>	0.036258 0.000000 -0.257990	</row2>
+			<row3>	99.941360 -0.067600 93.468193	</row3>
+		</transform>
+		<castsShadow>	true	</castsShadow>
+		<reflectionVisible>	false	</reflectionVisible>
+		<alwayVisible>	false	</alwayVisible>
+		<ignoreSceneRenderer>	false	</ignoreSceneRenderer>
+	</model>
+	<model
+			chunkId="ffffffffo">
+		<metaData>
+			<created_by>	v_dobrovolskiy	</created_by>
+			<created_on>	1501513583	</created_on>
+			<modified_by>	v_dobrovolskiy	</modified_by>
+			<modified_on>	1501514122	</modified_on>
+		</metaData>
+		<resource>	content/00_22_Hangar_British_Castle_2017/08_Statues/Statue_03.model	</resource>
+		<transform>
+			<row0>	-0.295589 0.000000 0.316980	</row0>
+			<row1>	0.000000 0.433416 0.000000	</row1>
+			<row2>	-0.316980 0.000000 -0.295589	</row2>
+			<row3>	97.654724 -0.004178 96.289200	</row3>
+		</transform>
+		<castsShadow>	true	</castsShadow>
+		<reflectionVisible>	false	</reflectionVisible>
+		<alwayVisible>	false	</alwayVisible>
+		<ignoreSceneRenderer>	false	</ignoreSceneRenderer>
+	</model>
+	<model
+			chunkId="ffffffffo">
+		<metaData>
+			<created_by>	v_dobrovolskiy	</created_by>
+			<created_on>	1500632908	</created_on>
+			<modified_by>	v_dobrovolskiy	</modified_by>
+			<modified_on>	1501583191	</modified_on>
+		</metaData>
+		<resource>	content/00_22_Hangar_British_Castle_2017/16_Civil_cars/Civil_car_01.model	</resource>
+		<transform>
+			<row0>	-0.259001 0.000000 -0.149534	</row0>
+			<row1>	0.000000 0.299069 0.000000	</row1>
+			<row2>	0.149534 0.000000 -0.259001	</row2>
+			<row3>	98.503685 -0.070099 93.689941	</row3>
+		</transform>
+		<castsShadow>	true	</castsShadow>
+		<reflectionVisible>	false	</reflectionVisible>
+		<alwayVisible>	false	</alwayVisible>
+		<ignoreSceneRenderer>	false	</ignoreSceneRenderer>
+	</model>
+	<model
+			chunkId="ffffffffo">
+		<metaData>
+			<created_by>	v_dobrovolskiy	</created_by>
+			<created_on>	1501509968	</created_on>
+			<modified_by>	v_dobrovolskiy	</modified_by>
+			<modified_on>	1501676357	</modified_on>
+		</metaData>
+		<resource>	content/00_22_Hangar_British_Castle_2017/05_Military_cars/05_Cargo_truck.model	</resource>
+		<transform>
+			<row0>	-0.205305 0.000000 -0.079053	</row0>
+			<row1>	0.000000 0.219999 0.000000	</row1>
+			<row2>	0.079053 0.000000 -0.205305	</row2>
+			<row3>	93.489571 -0.061819 92.506905	</row3>
+		</transform>
+		<castsShadow>	true	</castsShadow>
+		<reflectionVisible>	false	</reflectionVisible>
+		<alwayVisible>	false	</alwayVisible>
+		<ignoreSceneRenderer>	false	</ignoreSceneRenderer>
+	</model>
+	<model
+			chunkId="ffffffffo">
+		<metaData>
+			<created_by>	v_dobrovolskiy	</created_by>
+			<created_on>	1501510035	</created_on>
+			<modified_by>	v_dobrovolskiy	</modified_by>
+			<modified_on>	1501676357	</modified_on>
+		</metaData>
+		<resource>	content/00_22_Hangar_British_Castle_2017/05_Military_cars/05_Cargo_truck.model	</resource>
+		<transform>
+			<row0>	-0.177849 0.000000 -0.129496	</row0>
+			<row1>	0.000000 0.219999 0.000000	</row1>
+			<row2>	0.129496 0.000000 -0.177849	</row2>
+			<row3>	94.636475 -0.070910 92.928452	</row3>
+		</transform>
+		<castsShadow>	true	</castsShadow>
+		<reflectionVisible>	false	</reflectionVisible>
+		<alwayVisible>	false	</alwayVisible>
+		<ignoreSceneRenderer>	false	</ignoreSceneRenderer>
+	</model>
+	<model
+			chunkId="ffffffffo">
+		<metaData>
+			<created_by>	v_dobrovolskiy	</created_by>
+			<created_on>	1501754039	</created_on>
+			<modified_by>	v_dobrovolskiy	</modified_by>
+			<modified_on>	1501755157	</modified_on>
+		</metaData>
+		<resource>	content/00_22_Hangar_British_Castle_2017/23_Additional_Props/Barricade/Barricade.model	</resource>
+		<transform>
+			<row0>	0.269481 0.000000 -0.082388	</row0>
+			<row1>	0.000000 0.281794 0.000000	</row1>
+			<row2>	0.082388 0.000000 0.269481	</row2>
+			<row3>	94.495232 -0.014797 96.605141	</row3>
+		</transform>
+		<castsShadow>	true	</castsShadow>
+		<reflectionVisible>	false	</reflectionVisible>
+		<alwayVisible>	false	</alwayVisible>
+		<ignoreSceneRenderer>	false	</ignoreSceneRenderer>
+	</model>
+	<model
+			chunkId="ffffffffo">
+		<metaData>
+			<created_by>	v_dobrovolskiy	</created_by>
+			<created_on>	1501754079	</created_on>
+			<modified_by>	v_dobrovolskiy	</modified_by>
+			<modified_on>	1501754108	</modified_on>
+		</metaData>
+		<resource>	content/00_22_Hangar_British_Castle_2017/23_Additional_Props/Barricade/Chair.model	</resource>
+		<transform>
+			<row0>	-0.181906 -0.000731 -0.073330	</row0>
+			<row1>	0.055053 -0.130925 -0.135262	</row1>
+			<row2>	-0.048446 -0.146034 0.121634	</row2>
+			<row3>	97.168877 0.157709 97.019203	</row3>
+		</transform>
+		<castsShadow>	true	</castsShadow>
+		<reflectionVisible>	false	</reflectionVisible>
+		<alwayVisible>	false	</alwayVisible>
+		<ignoreSceneRenderer>	false	</ignoreSceneRenderer>
+	</model>
+	<model
+			chunkId="ffffffffo">
+		<metaData>
+			<created_by>	v_dobrovolskiy	</created_by>
+			<created_on>	1501754224	</created_on>
+			<modified_by>	v_dobrovolskiy	</modified_by>
+			<modified_on>	1501754247	</modified_on>
+		</metaData>
+		<resource>	content/00_22_Hangar_British_Castle_2017/23_Additional_Props/Barricade/Logs.model	</resource>
+		<transform>
+			<row0>	0.215829 -0.000000 -0.042636	</row0>
+			<row1>	0.000000 0.220000 0.000000	</row1>
+			<row2>	0.042636 -0.000000 0.215829	</row2>
+			<row3>	92.370415 0.000000 97.894096	</row3>
+		</transform>
+		<castsShadow>	true	</castsShadow>
+		<reflectionVisible>	false	</reflectionVisible>
+		<alwayVisible>	false	</alwayVisible>
+		<ignoreSceneRenderer>	false	</ignoreSceneRenderer>
+	</model>
+	<model
+			chunkId="ffffffffo">
+		<metaData>
+			<created_by>	v_dobrovolskiy	</created_by>
+			<created_on>	1501754204	</created_on>
+			<modified_by>	v_dobrovolskiy	</modified_by>
+			<modified_on>	1501754249	</modified_on>
+		</metaData>
+		<resource>	content/00_22_Hangar_British_Castle_2017/23_Additional_Props/Barricade/Sandbags_stack.model	</resource>
+		<transform>
+			<row0>	-0.188577 0.000000 0.113308	</row0>
+			<row1>	0.000000 0.220000 0.000000	</row1>
+			<row2>	-0.113308 0.000000 -0.188577	</row2>
+			<row3>	92.273712 0.000000 98.010391	</row3>
+		</transform>
+		<castsShadow>	true	</castsShadow>
+		<reflectionVisible>	false	</reflectionVisible>
+		<alwayVisible>	false	</alwayVisible>
+		<ignoreSceneRenderer>	false	</ignoreSceneRenderer>
+	</model>
+	<model
+			chunkId="ffffffffo">
+		<metaData>
+			<created_by>	v_dobrovolskiy	</created_by>
+			<created_on>	1501754150	</created_on>
+			<modified_by>	v_dobrovolskiy	</modified_by>
+			<modified_on>	1501754167	</modified_on>
+		</metaData>
+		<resource>	content/00_22_Hangar_British_Castle_2017/23_Additional_Props/Barricade/Shield_1.model	</resource>
+		<transform>
+			<row0>	-0.269762 0.000000 0.033123	</row0>
+			<row1>	0.000000 0.271787 0.000000	</row1>
+			<row2>	-0.033123 0.000000 -0.269762	</row2>
+			<row3>	92.283585 -0.078276 97.834160	</row3>
+		</transform>
+		<castsShadow>	true	</castsShadow>
+		<reflectionVisible>	false	</reflectionVisible>
+		<alwayVisible>	false	</alwayVisible>
+		<ignoreSceneRenderer>	false	</ignoreSceneRenderer>
+	</model>
+	<model
+			chunkId="ffffffffo">
+		<metaData>
+			<created_by>	v_dobrovolskiy	</created_by>
+			<created_on>	1501754117	</created_on>
+			<modified_by>	v_dobrovolskiy	</modified_by>
+			<modified_on>	1501754144	</modified_on>
+		</metaData>
+		<resource>	content/00_22_Hangar_British_Castle_2017/23_Additional_Props/Barricade/Tun.model	</resource>
+		<transform>
+			<row0>	-0.165268 0.000000 -0.060152	</row0>
+			<row1>	0.000000 0.175874 0.000000	</row1>
+			<row2>	0.060152 0.000000 -0.165268	</row2>
+			<row3>	96.213280 0.027244 97.769730	</row3>
+		</transform>
+		<castsShadow>	true	</castsShadow>
+		<reflectionVisible>	false	</reflectionVisible>
+		<alwayVisible>	false	</alwayVisible>
+		<ignoreSceneRenderer>	false	</ignoreSceneRenderer>
+	</model>
+	<model
+			chunkId="ffffffffo">
+		<metaData>
+			<created_by>	v_dobrovolskiy	</created_by>
+			<created_on>	1501754182	</created_on>
+			<modified_by>	v_dobrovolskiy	</modified_by>
+			<modified_on>	1501754276	</modified_on>
+		</metaData>
+		<resource>	content/00_22_Hangar_British_Castle_2017/23_Additional_Props/Barricade/Tun.model	</resource>
+		<transform>
+			<row0>	-0.084245 0.060100 -0.142206	</row0>
+			<row1>	-0.149817 0.007286 0.091833	</row1>
+			<row2>	0.037273 0.165126 0.047706	</row2>
+			<row3>	92.877853 0.137557 98.176857	</row3>
+		</transform>
+		<castsShadow>	true	</castsShadow>
+		<reflectionVisible>	false	</reflectionVisible>
+		<alwayVisible>	false	</alwayVisible>
+		<ignoreSceneRenderer>	false	</ignoreSceneRenderer>
+	</model>
+	<model
+			chunkId="ffffffffo">
+		<metaData>
+			<created_by>	v_dobrovolskiy	</created_by>
+			<created_on>	1501508743	</created_on>
+			<modified_by>	v_dobrovolskiy	</modified_by>
+			<modified_on>	1501508761	</modified_on>
+		</metaData>
+		<resource>	content/00_22_Hangar_British_Castle_2017/23_Additional_Props/Willys.model	</resource>
+		<transform>
+			<row0>	-0.129534 0.000000 -0.215580	</row0>
+			<row1>	0.000000 0.251504 0.000000	</row1>
+			<row2>	0.215580 0.000000 -0.129534	</row2>
+			<row3>	90.504707 -0.065731 99.465462	</row3>
+		</transform>
+		<castsShadow>	true	</castsShadow>
+		<reflectionVisible>	false	</reflectionVisible>
+		<alwayVisible>	false	</alwayVisible>
+		<ignoreSceneRenderer>	false	</ignoreSceneRenderer>
+	</model>
+	<model
+			chunkId="ffffffffo">
+		<metaData>
+			<created_by>	v_dobrovolskiy	</created_by>
+			<created_on>	1501508642	</created_on>
+			<modified_by>	v_dobrovolskiy	</modified_by>
+			<modified_on>	1501601896	</modified_on>
+		</metaData>
+		<resource>	content/00_22_Hangar_British_Castle_2017/23_Additional_Props/Willys.model	</resource>
+		<transform>
+			<row0>	-0.241761 0.000000 0.069324	</row0>
+			<row1>	0.000000 0.251504 0.000000	</row1>
+			<row2>	-0.069324 0.000000 -0.241761	</row2>
+			<row3>	94.396156 0.011488 99.974617	</row3>
+		</transform>
+		<castsShadow>	true	</castsShadow>
+		<reflectionVisible>	false	</reflectionVisible>
+		<alwayVisible>	false	</alwayVisible>
+		<ignoreSceneRenderer>	false	</ignoreSceneRenderer>
+	</model>
+	<model
+			chunkId="ffffffffo">
+		<metaData>
+			<created_by>	v_dobrovolskiy	</created_by>
+			<created_on>	1501513147	</created_on>
+			<modified_by>	v_dobrovolskiy	</modified_by>
+			<modified_on>	1501755228	</modified_on>
+		</metaData>
+		<resource>	content/00_22_Hangar_British_Castle_2017/23_Additional_Props/box_10.model	</resource>
+		<transform>
+			<row0>	0.131005 0.000000 -0.072617	</row0>
+			<row1>	0.000000 0.149785 0.000000	</row1>
+			<row2>	0.072617 0.000000 0.131005	</row2>
+			<row3>	94.348854 -0.055222 94.516258	</row3>
+		</transform>
+		<castsShadow>	true	</castsShadow>
+		<reflectionVisible>	false	</reflectionVisible>
+		<alwayVisible>	false	</alwayVisible>
+		<ignoreSceneRenderer>	false	</ignoreSceneRenderer>
+	</model>
+	<model
+			chunkId="ffffffffo">
+		<metaData>
+			<created_by>	v_dobrovolskiy	</created_by>
+			<created_on>	1501755236	</created_on>
+			<modified_by>	v_dobrovolskiy	</modified_by>
+			<modified_on>	1501755276	</modified_on>
+		</metaData>
+		<resource>	content/00_22_Hangar_British_Castle_2017/23_Additional_Props/box_10.model	</resource>
+		<transform>
+			<row0>	0.077145 0.000000 -0.128390	</row0>
+			<row1>	0.000000 0.149785 0.000000	</row1>
+			<row2>	0.128390 0.000000 0.077145	</row2>
+			<row3>	93.118446 -0.007516 99.223259	</row3>
+		</transform>
+		<castsShadow>	true	</castsShadow>
+		<reflectionVisible>	false	</reflectionVisible>
+		<alwayVisible>	false	</alwayVisible>
+		<ignoreSceneRenderer>	false	</ignoreSceneRenderer>
+	</model>
+	<model
+			chunkId="ffffffffo">
+		<metaData>
+			<created_by>	v_dobrovolskiy	</created_by>
+			<created_on>	1501513116	</created_on>
+			<modified_by>	v_dobrovolskiy	</modified_by>
+			<modified_on>	1501755228	</modified_on>
+		</metaData>
+		<resource>	content/00_22_Hangar_British_Castle_2017/23_Additional_Props/box_3_crashed.model	</resource>
+		<transform>
+			<row0>	0.093501 0.000000 0.075715	</row0>
+			<row1>	0.000000 0.120313 0.000000	</row1>
+			<row2>	-0.075715 0.000000 0.093501	</row2>
+			<row3>	95.277824 -0.046386 93.810097	</row3>
+		</transform>
+		<castsShadow>	true	</castsShadow>
+		<reflectionVisible>	false	</reflectionVisible>
+		<alwayVisible>	false	</alwayVisible>
+		<ignoreSceneRenderer>	false	</ignoreSceneRenderer>
+	</model>
+	<model
+			chunkId="ffffffffo">
+		<metaData>
+			<created_by>	v_dobrovolskiy	</created_by>
+			<created_on>	1501513133	</created_on>
+			<modified_by>	v_dobrovolskiy	</modified_by>
+			<modified_on>	1501755228	</modified_on>
+		</metaData>
+		<resource>	content/00_22_Hangar_British_Castle_2017/23_Additional_Props/box_3_crashed.model	</resource>
+		<transform>
+			<row0>	-0.012576 0.000000 -0.119653	</row0>
+			<row1>	0.000000 0.120313 0.000000	</row1>
+			<row2>	0.119653 0.000000 -0.012576	</row2>
+			<row3>	94.780952 -0.051275 93.921509	</row3>
+		</transform>
+		<castsShadow>	true	</castsShadow>
+		<reflectionVisible>	false	</reflectionVisible>
+		<alwayVisible>	false	</alwayVisible>
+		<ignoreSceneRenderer>	false	</ignoreSceneRenderer>
+	</model>
+	<model
+			chunkId="ffffffffo">
+		<metaData>
+			<created_by>	v_dobrovolskiy	</created_by>
+			<created_on>	1501755236	</created_on>
+			<modified_by>	v_dobrovolskiy	</modified_by>
+			<modified_on>	1501755280	</modified_on>
+		</metaData>
+		<resource>	content/00_22_Hangar_British_Castle_2017/23_Additional_Props/box_3_crashed.model	</resource>
+		<transform>
+			<row0>	0.118832 0.000000 0.018821	</row0>
+			<row1>	0.000000 0.120313 0.000000	</row1>
+			<row2>	-0.018821 0.000000 0.118832	</row2>
+			<row3>	93.005028 0.015540 98.756355	</row3>
+		</transform>
+		<castsShadow>	true	</castsShadow>
+		<reflectionVisible>	false	</reflectionVisible>
+		<alwayVisible>	false	</alwayVisible>
+		<ignoreSceneRenderer>	false	</ignoreSceneRenderer>
+	</model>
+	<model
+			chunkId="ffffffffo">
+		<metaData>
+			<created_by>	v_dobrovolskiy	</created_by>
+			<created_on>	1501755236	</created_on>
+			<modified_by>	v_dobrovolskiy	</modified_by>
+			<modified_on>	1501755284	</modified_on>
+		</metaData>
+		<resource>	content/00_22_Hangar_British_Castle_2017/23_Additional_Props/box_3_crashed.model	</resource>
+		<transform>
+			<row0>	-0.070718 0.000000 -0.097334	</row0>
+			<row1>	0.000000 0.120313 0.000000	</row1>
+			<row2>	0.097334 0.000000 -0.070718	</row2>
+			<row3>	92.630432 -0.026306 99.101288	</row3>
+		</transform>
+		<castsShadow>	true	</castsShadow>
+		<reflectionVisible>	false	</reflectionVisible>
+		<alwayVisible>	false	</alwayVisible>
+		<ignoreSceneRenderer>	false	</ignoreSceneRenderer>
+	</model>
+	<model
+			chunkId="ffffffffo">
+		<metaData>
+			<created_by>	v_dobrovolskiy	</created_by>
+			<created_on>	1501512820	</created_on>
+			<modified_by>	v_dobrovolskiy	</modified_by>
+			<modified_on>	1501512898	</modified_on>
+		</metaData>
+		<resource>	content/00_22_Hangar_British_Castle_2017/23_Additional_Props/box_4.model	</resource>
+		<transform>
+			<row0>	0.087391 0.000000 0.157658	</row0>
+			<row1>	0.000000 0.180259 0.000000	</row1>
+			<row2>	-0.157658 0.000000 0.087391	</row2>
+			<row3>	90.102661 -0.060605 96.728432	</row3>
+		</transform>
+		<castsShadow>	true	</castsShadow>
+		<reflectionVisible>	false	</reflectionVisible>
+		<alwayVisible>	false	</alwayVisible>
+		<ignoreSceneRenderer>	false	</ignoreSceneRenderer>
+	</model>
+	<model
+			chunkId="ffffffffo">
+		<metaData>
+			<created_by>	v_dobrovolskiy	</created_by>
+			<created_on>	1501512905	</created_on>
+			<modified_by>	v_dobrovolskiy	</modified_by>
+			<modified_on>	1501512907	</modified_on>
+		</metaData>
+		<resource>	content/00_22_Hangar_British_Castle_2017/23_Additional_Props/box_4.model	</resource>
+		<transform>
+			<row0>	0.087391 0.000000 0.157658	</row0>
+			<row1>	0.000000 0.180259 0.000000	</row1>
+			<row2>	-0.157658 0.000000 0.087391	</row2>
+			<row3>	90.050003 0.030432 96.722931	</row3>
+		</transform>
+		<castsShadow>	true	</castsShadow>
+		<reflectionVisible>	false	</reflectionVisible>
+		<alwayVisible>	false	</alwayVisible>
+		<ignoreSceneRenderer>	false	</ignoreSceneRenderer>
+	</model>
+	<model
+			chunkId="ffffffffo">
+		<metaData>
+			<created_by>	v_dobrovolskiy	</created_by>
+			<created_on>	1501512908	</created_on>
+			<modified_by>	v_dobrovolskiy	</modified_by>
+			<modified_on>	1501512920	</modified_on>
+		</metaData>
+		<resource>	content/00_22_Hangar_British_Castle_2017/23_Additional_Props/box_4.model	</resource>
+		<transform>
+			<row0>	-0.003146 0.000000 0.180231	</row0>
+			<row1>	0.000000 0.180259 0.000000	</row1>
+			<row2>	-0.180231 0.000000 -0.003146	</row2>
+			<row3>	90.211166 -0.064914 96.512032	</row3>
+		</transform>
+		<castsShadow>	true	</castsShadow>
+		<reflectionVisible>	false	</reflectionVisible>
+		<alwayVisible>	false	</alwayVisible>
+		<ignoreSceneRenderer>	false	</ignoreSceneRenderer>
+	</model>
+	<model
+			chunkId="ffffffffo">
+		<metaData>
+			<created_by>	v_dobrovolskiy	</created_by>
+			<created_on>	1501512960	</created_on>
+			<modified_by>	v_dobrovolskiy	</modified_by>
+			<modified_on>	1501512969	</modified_on>
+		</metaData>
+		<resource>	content/00_22_Hangar_British_Castle_2017/23_Additional_Props/box_4.model	</resource>
+		<transform>
+			<row0>	-0.154512 0.000000 -0.092840	</row0>
+			<row1>	0.000000 0.180259 0.000000	</row1>
+			<row2>	0.092840 0.000000 -0.154512	</row2>
+			<row3>	89.896385 0.111412 96.567078	</row3>
+		</transform>
+		<castsShadow>	true	</castsShadow>
+		<reflectionVisible>	false	</reflectionVisible>
+		<alwayVisible>	false	</alwayVisible>
+		<ignoreSceneRenderer>	false	</ignoreSceneRenderer>
+	</model>
+	<model
+			chunkId="ffffffffo">
+		<metaData>
+			<created_by>	v_dobrovolskiy	</created_by>
+			<created_on>	1501512960	</created_on>
+			<modified_by>	v_dobrovolskiy	</modified_by>
+			<modified_on>	1501512969	</modified_on>
+		</metaData>
+		<resource>	content/00_22_Hangar_British_Castle_2017/23_Additional_Props/box_4.model	</resource>
+		<transform>
+			<row0>	-0.154512 0.000000 -0.092840	</row0>
+			<row1>	0.000000 0.180259 0.000000	</row1>
+			<row2>	0.092840 0.000000 -0.154512	</row2>
+			<row3>	89.848038 0.020375 96.588646	</row3>
+		</transform>
+		<castsShadow>	true	</castsShadow>
+		<reflectionVisible>	false	</reflectionVisible>
+		<alwayVisible>	false	</alwayVisible>
+		<ignoreSceneRenderer>	false	</ignoreSceneRenderer>
+	</model>
+	<model
+			chunkId="ffffffffo">
+		<metaData>
+			<created_by>	v_dobrovolskiy	</created_by>
+			<created_on>	1501512986	</created_on>
+			<modified_by>	v_dobrovolskiy	</modified_by>
+			<modified_on>	1501513004	</modified_on>
+		</metaData>
+		<resource>	content/00_22_Hangar_British_Castle_2017/23_Additional_Props/box_4.model	</resource>
+		<transform>
+			<row0>	-0.049686 0.000000 0.173276	</row0>
+			<row1>	0.000000 0.180259 0.000000	</row1>
+			<row2>	-0.173276 0.000000 -0.049686	</row2>
+			<row3>	89.751404 -0.056577 96.780579	</row3>
+		</transform>
+		<castsShadow>	true	</castsShadow>
+		<reflectionVisible>	false	</reflectionVisible>
+		<alwayVisible>	false	</alwayVisible>
+		<ignoreSceneRenderer>	false	</ignoreSceneRenderer>
+	</model>
+	<model
+			chunkId="ffffffffo">
+		<metaData>
+			<created_by>	v_dobrovolskiy	</created_by>
+			<created_on>	1501512986	</created_on>
+			<modified_by>	v_dobrovolskiy	</modified_by>
+			<modified_on>	1501513010	</modified_on>
+		</metaData>
+		<resource>	content/00_22_Hangar_British_Castle_2017/23_Additional_Props/box_4.model	</resource>
+		<transform>
+			<row0>	-0.049686 0.000000 0.173276	</row0>
+			<row1>	0.000000 0.180259 0.000000	</row1>
+			<row2>	-0.173276 0.000000 -0.049686	</row2>
+			<row3>	89.718048 0.034460 96.782654	</row3>
+		</transform>
+		<castsShadow>	true	</castsShadow>
+		<reflectionVisible>	false	</reflectionVisible>
+		<alwayVisible>	false	</alwayVisible>
+		<ignoreSceneRenderer>	false	</ignoreSceneRenderer>
+	</model>
+	<model
+			chunkId="ffffffffo">
+		<metaData>
+			<created_by>	v_dobrovolskiy	</created_by>
+			<created_on>	1501513204	</created_on>
+			<modified_by>	v_dobrovolskiy	</modified_by>
+			<modified_on>	1501513254	</modified_on>
+		</metaData>
+		<resource>	content/00_22_Hangar_British_Castle_2017/23_Additional_Props/box_4.model	</resource>
+		<transform>
+			<row0>	0.166553 0.000000 0.047758	</row0>
+			<row1>	0.000000 0.173265 0.000000	</row1>
+			<row2>	-0.047758 0.000000 0.166553	</row2>
+			<row3>	90.143044 -0.071763 98.556190	</row3>
+		</transform>
+		<castsShadow>	true	</castsShadow>
+		<reflectionVisible>	false	</reflectionVisible>
+		<alwayVisible>	false	</alwayVisible>
+		<ignoreSceneRenderer>	false	</ignoreSceneRenderer>
+	</model>
+	<model
+			chunkId="ffffffffo">
+		<metaData>
+			<created_by>	v_dobrovolskiy	</created_by>
+			<created_on>	1501513084	</created_on>
+			<modified_by>	v_dobrovolskiy	</modified_by>
+			<modified_on>	1501513094	</modified_on>
+		</metaData>
+		<resource>	content/00_22_Hangar_British_Castle_2017/23_Additional_Props/box_5.model	</resource>
+		<transform>
+			<row0>	-0.055851 0.000000 -0.162201	</row0>
+			<row1>	0.000000 0.171547 0.000000	</row1>
+			<row2>	0.162201 0.000000 -0.055851	</row2>
+			<row3>	90.863541 -0.051204 96.482697	</row3>
+		</transform>
+		<castsShadow>	true	</castsShadow>
+		<reflectionVisible>	false	</reflectionVisible>
+		<alwayVisible>	false	</alwayVisible>
+		<ignoreSceneRenderer>	false	</ignoreSceneRenderer>
+	</model>
+	<model
+			chunkId="ffffffffo">
+		<metaData>
+			<created_by>	v_dobrovolskiy	</created_by>
+			<created_on>	1501513045	</created_on>
+			<modified_by>	v_dobrovolskiy	</modified_by>
+			<modified_on>	1501676357	</modified_on>
+		</metaData>
+		<resource>	content/00_22_Hangar_British_Castle_2017/23_Additional_Props/box_5.model	</resource>
+		<transform>
+			<row0>	0.032732 0.000000 -0.168395	</row0>
+			<row1>	0.000000 0.171547 0.000000	</row1>
+			<row2>	0.168395 0.000000 0.032732	</row2>
+			<row3>	94.331261 0.246054 93.495392	</row3>
+		</transform>
+		<castsShadow>	true	</castsShadow>
+		<reflectionVisible>	false	</reflectionVisible>
+		<alwayVisible>	false	</alwayVisible>
+		<ignoreSceneRenderer>	false	</ignoreSceneRenderer>
+	</model>
+	<model
+			chunkId="ffffffffo">
+		<metaData>
+			<created_by>	v_dobrovolskiy	</created_by>
+			<created_on>	1501513060	</created_on>
+			<modified_by>	v_dobrovolskiy	</modified_by>
+			<modified_on>	1501676357	</modified_on>
+		</metaData>
+		<resource>	content/00_22_Hangar_British_Castle_2017/23_Additional_Props/box_5.model	</resource>
+		<transform>
+			<row0>	0.075201 0.000000 -0.154185	</row0>
+			<row1>	0.000000 0.171547 0.000000	</row1>
+			<row2>	0.154185 0.000000 0.075201	</row2>
+			<row3>	94.142548 0.239992 93.346642	</row3>
+		</transform>
+		<castsShadow>	true	</castsShadow>
+		<reflectionVisible>	false	</reflectionVisible>
+		<alwayVisible>	false	</alwayVisible>
+		<ignoreSceneRenderer>	false	</ignoreSceneRenderer>
+	</model>
+	<model
+			chunkId="ffffffffo">
+		<metaData>
+			<created_by>	v_dobrovolskiy	</created_by>
+			<created_on>	1501513095	</created_on>
+			<modified_by>	v_dobrovolskiy	</modified_by>
+			<modified_on>	1501755228	</modified_on>
+		</metaData>
+		<resource>	content/00_22_Hangar_British_Castle_2017/23_Additional_Props/box_5.model	</resource>
+		<transform>
+			<row0>	0.154185 0.000000 0.075201	</row0>
+			<row1>	0.000000 0.171547 0.000000	</row1>
+			<row2>	-0.075201 0.000000 0.154185	</row2>
+			<row3>	94.985268 0.056258 93.388741	</row3>
+		</transform>
+		<castsShadow>	true	</castsShadow>
+		<reflectionVisible>	false	</reflectionVisible>
+		<alwayVisible>	false	</alwayVisible>
+		<ignoreSceneRenderer>	false	</ignoreSceneRenderer>
+	</model>
+	<model
+			chunkId="ffffffffo">
+		<metaData>
+			<created_by>	v_dobrovolskiy	</created_by>
+			<created_on>	1501512820	</created_on>
+			<modified_by>	v_dobrovolskiy	</modified_by>
+			<modified_on>	1501755228	</modified_on>
+		</metaData>
+		<resource>	content/00_22_Hangar_British_Castle_2017/23_Additional_Props/box_5.model	</resource>
+		<transform>
+			<row0>	0.142219 0.000000 -0.095928	</row0>
+			<row1>	0.000000 0.171547 0.000000	</row1>
+			<row2>	0.095928 0.000000 0.142219	</row2>
+			<row3>	95.238060 -0.064256 93.458176	</row3>
+		</transform>
+		<castsShadow>	true	</castsShadow>
+		<reflectionVisible>	false	</reflectionVisible>
+		<alwayVisible>	false	</alwayVisible>
+		<ignoreSceneRenderer>	false	</ignoreSceneRenderer>
+	</model>
+	<model
+			chunkId="ffffffffo">
+		<metaData>
+			<created_by>	v_dobrovolskiy	</created_by>
+			<created_on>	1501755236	</created_on>
+			<modified_by>	v_dobrovolskiy	</modified_by>
+			<modified_on>	1501755256	</modified_on>
+		</metaData>
+		<resource>	content/00_22_Hangar_British_Castle_2017/23_Additional_Props/box_5.model	</resource>
+		<transform>
+			<row0>	0.075201 0.000000 -0.154185	</row0>
+			<row1>	0.000000 0.171547 0.000000	</row1>
+			<row2>	0.154185 0.000000 0.075201	</row2>
+			<row3>	94.445992 0.007889 96.894516	</row3>
+		</transform>
+		<castsShadow>	true	</castsShadow>
+		<reflectionVisible>	false	</reflectionVisible>
+		<alwayVisible>	false	</alwayVisible>
+		<ignoreSceneRenderer>	false	</ignoreSceneRenderer>
+	</model>
+	<model
+			chunkId="ffffffffo">
+		<metaData>
+			<created_by>	v_dobrovolskiy	</created_by>
+			<created_on>	1501755236	</created_on>
+			<modified_by>	v_dobrovolskiy	</modified_by>
+			<modified_on>	1501755260	</modified_on>
+		</metaData>
+		<resource>	content/00_22_Hangar_British_Castle_2017/23_Additional_Props/box_5.model	</resource>
+		<transform>
+			<row0>	0.171128 0.000000 -0.011966	</row0>
+			<row1>	0.000000 0.171547 0.000000	</row1>
+			<row2>	0.011966 0.000000 0.171128	</row2>
+			<row3>	94.192337 -0.007920 96.960777	</row3>
+		</transform>
+		<castsShadow>	true	</castsShadow>
+		<reflectionVisible>	false	</reflectionVisible>
+		<alwayVisible>	false	</alwayVisible>
+		<ignoreSceneRenderer>	false	</ignoreSceneRenderer>
+	</model>
+	<model
+			chunkId="ffffffffo">
+		<metaData>
+			<created_by>	v_dobrovolskiy	</created_by>
+			<created_on>	1501513073	</created_on>
+			<modified_by>	v_dobrovolskiy	</modified_by>
+			<modified_on>	1501676357	</modified_on>
+		</metaData>
+		<resource>	content/00_22_Hangar_British_Castle_2017/23_Additional_Props/box_6.model	</resource>
+		<transform>
+			<row0>	-0.076756 0.000000 0.138471	</row0>
+			<row1>	0.000000 0.158322 0.000000	</row1>
+			<row2>	-0.138471 0.000000 -0.076756	</row2>
+			<row3>	94.189583 0.331828 93.378418	</row3>
+		</transform>
+		<castsShadow>	true	</castsShadow>
+		<reflectionVisible>	false	</reflectionVisible>
+		<alwayVisible>	false	</alwayVisible>
+		<ignoreSceneRenderer>	false	</ignoreSceneRenderer>
+	</model>
+	<model
+			chunkId="ffffffffo">
+		<metaData>
+			<created_by>	v_dobrovolskiy	</created_by>
+			<created_on>	1501512820	</created_on>
+			<modified_by>	v_dobrovolskiy	</modified_by>
+			<modified_on>	1501755228	</modified_on>
+		</metaData>
+		<resource>	content/00_22_Hangar_British_Castle_2017/23_Additional_Props/box_6.model	</resource>
+		<transform>
+			<row0>	-0.002763 0.000000 -0.158297	</row0>
+			<row1>	0.000000 0.158322 0.000000	</row1>
+			<row2>	0.158297 0.000000 -0.002763	</row2>
+			<row3>	95.005409 -0.056917 93.676498	</row3>
+		</transform>
+		<castsShadow>	true	</castsShadow>
+		<reflectionVisible>	false	</reflectionVisible>
+		<alwayVisible>	false	</alwayVisible>
+		<ignoreSceneRenderer>	false	</ignoreSceneRenderer>
+	</model>
+	<model
+			chunkId="ffffffffo">
+		<metaData>
+			<created_by>	v_dobrovolskiy	</created_by>
+			<created_on>	1501513079	</created_on>
+			<modified_by>	v_dobrovolskiy	</modified_by>
+			<modified_on>	1501755228	</modified_on>
+		</metaData>
+		<resource>	content/00_22_Hangar_British_Castle_2017/23_Additional_Props/box_6.model	</resource>
+		<transform>
+			<row0>	0.043639 0.000000 0.152188	</row0>
+			<row1>	0.000000 0.158322 0.000000	</row1>
+			<row2>	-0.152188 0.000000 0.043639	</row2>
+			<row3>	94.990074 0.022244 93.600388	</row3>
+		</transform>
+		<castsShadow>	true	</castsShadow>
+		<reflectionVisible>	false	</reflectionVisible>
+		<alwayVisible>	false	</alwayVisible>
+		<ignoreSceneRenderer>	false	</ignoreSceneRenderer>
+	</model>
+	<model
+			chunkId="ffffffffo">
+		<metaData>
+			<created_by>	v_dobrovolskiy	</created_by>
+			<created_on>	1501513164	</created_on>
+			<modified_by>	v_dobrovolskiy	</modified_by>
+			<modified_on>	1501755228	</modified_on>
+		</metaData>
+		<resource>	content/00_22_Hangar_British_Castle_2017/23_Additional_Props/box_6.model	</resource>
+		<transform>
+			<row0>	-0.140614 0.000000 -0.035059	</row0>
+			<row1>	0.000000 0.144920 0.000000	</row1>
+			<row2>	0.035059 0.000000 -0.140614	</row2>
+			<row3>	93.990410 -0.067934 94.615181	</row3>
+		</transform>
+		<castsShadow>	true	</castsShadow>
+		<reflectionVisible>	false	</reflectionVisible>
+		<alwayVisible>	false	</alwayVisible>
+		<ignoreSceneRenderer>	false	</ignoreSceneRenderer>
+	</model>
+	<model
+			chunkId="ffffffffo">
+		<metaData>
+			<created_by>	v_dobrovolskiy	</created_by>
+			<created_on>	1501755236	</created_on>
+			<modified_by>	v_dobrovolskiy	</modified_by>
+			<modified_on>	1501755265	</modified_on>
+		</metaData>
+		<resource>	content/00_22_Hangar_British_Castle_2017/23_Additional_Props/box_6.model	</resource>
+		<transform>
+			<row0>	-0.081541 0.000000 -0.135708	</row0>
+			<row1>	0.000000 0.158322 0.000000	</row1>
+			<row2>	0.135708 0.000000 -0.081541	</row2>
+			<row3>	94.538658 -0.005859 97.520325	</row3>
+		</transform>
+		<castsShadow>	true	</castsShadow>
+		<reflectionVisible>	false	</reflectionVisible>
+		<alwayVisible>	false	</alwayVisible>
+		<ignoreSceneRenderer>	false	</ignoreSceneRenderer>
+	</model>
+	<model
+			chunkId="ffffffffo">
+		<metaData>
+			<created_by>	v_dobrovolskiy	</created_by>
+			<created_on>	1501755236	</created_on>
+			<modified_by>	v_dobrovolskiy	</modified_by>
+			<modified_on>	1501755265	</modified_on>
+		</metaData>
+		<resource>	content/00_22_Hangar_British_Castle_2017/23_Additional_Props/box_6.model	</resource>
+		<transform>
+			<row0>	0.113886 0.000000 0.109979	</row0>
+			<row1>	0.000000 0.158322 0.000000	</row1>
+			<row2>	-0.109979 0.000000 0.113886	</row2>
+			<row3>	94.487320 0.073302 97.462082	</row3>
+		</transform>
+		<castsShadow>	true	</castsShadow>
+		<reflectionVisible>	false	</reflectionVisible>
+		<alwayVisible>	false	</alwayVisible>
+		<ignoreSceneRenderer>	false	</ignoreSceneRenderer>
+	</model>
+	<model
+			chunkId="ffffffffo">
+		<metaData>
+			<created_by>	v_dobrovolskiy	</created_by>
+			<created_on>	1501755236	</created_on>
+			<modified_by>	v_dobrovolskiy	</modified_by>
+			<modified_on>	1501755269	</modified_on>
+		</metaData>
+		<resource>	content/00_22_Hangar_British_Castle_2017/23_Additional_Props/box_6.model	</resource>
+		<transform>
+			<row0>	-0.139305 0.000000 0.039945	</row0>
+			<row1>	0.000000 0.144920 0.000000	</row1>
+			<row2>	-0.039945 0.000000 -0.139305	</row2>
+			<row3>	94.128983 0.004563 98.840752	</row3>
+		</transform>
+		<castsShadow>	true	</castsShadow>
+		<reflectionVisible>	false	</reflectionVisible>
+		<alwayVisible>	false	</alwayVisible>
+		<ignoreSceneRenderer>	false	</ignoreSceneRenderer>
+	</model>
+	<model
+			chunkId="ffffffffo">
+		<metaData>
+			<created_by>	v_dobrovolskiy	</created_by>
+			<created_on>	1501512921	</created_on>
+			<modified_by>	v_dobrovolskiy	</modified_by>
+			<modified_on>	1501512926	</modified_on>
+		</metaData>
+		<resource>	content/00_22_Hangar_British_Castle_2017/23_Additional_Props/box_7.model	</resource>
+		<transform>
+			<row0>	-0.165572 0.000000 -0.014485	</row0>
+			<row1>	0.000000 0.166204 0.000000	</row1>
+			<row2>	0.014485 0.000000 -0.165572	</row2>
+			<row3>	90.306091 -0.054885 96.778954	</row3>
+		</transform>
+		<castsShadow>	true	</castsShadow>
+		<reflectionVisible>	false	</reflectionVisible>
+		<alwayVisible>	false	</alwayVisible>
+		<ignoreSceneRenderer>	false	</ignoreSceneRenderer>
+	</model>
+	<model
+			chunkId="ffffffffo">
+		<metaData>
+			<created_by>	v_dobrovolskiy	</created_by>
+			<created_on>	1501512928	</created_on>
+			<modified_by>	v_dobrovolskiy	</modified_by>
+			<modified_on>	1501512935	</modified_on>
+		</metaData>
+		<resource>	content/00_22_Hangar_British_Castle_2017/23_Additional_Props/box_7.model	</resource>
+		<transform>
+			<row0>	0.156181 0.000000 0.056845	</row0>
+			<row1>	0.000000 0.166204 0.000000	</row1>
+			<row2>	-0.056845 0.000000 0.156181	</row2>
+			<row3>	90.315964 0.075347 96.847931	</row3>
+		</transform>
+		<castsShadow>	true	</castsShadow>
+		<reflectionVisible>	false	</reflectionVisible>
+		<alwayVisible>	false	</alwayVisible>
+		<ignoreSceneRenderer>	false	</ignoreSceneRenderer>
+	</model>
+	<model
+			chunkId="ffffffffo">
+		<metaData>
+			<created_by>	v_dobrovolskiy	</created_by>
+			<created_on>	1501512970	</created_on>
+			<modified_by>	v_dobrovolskiy	</modified_by>
+			<modified_on>	1501512974	</modified_on>
+		</metaData>
+		<resource>	content/00_22_Hangar_British_Castle_2017/23_Additional_Props/box_7.model	</resource>
+		<transform>
+			<row0>	0.056845 0.000000 -0.156181	</row0>
+			<row1>	0.000000 0.166204 0.000000	</row1>
+			<row2>	0.156181 0.000000 0.056845	</row2>
+			<row3>	90.218956 0.063330 96.535797	</row3>
+		</transform>
+		<castsShadow>	true	</castsShadow>
+		<reflectionVisible>	false	</reflectionVisible>
+		<alwayVisible>	false	</alwayVisible>
+		<ignoreSceneRenderer>	false	</ignoreSceneRenderer>
+	</model>
+	<model
+			chunkId="ffffffffo">
+		<metaData>
+			<created_by>	v_dobrovolskiy	</created_by>
+			<created_on>	1501512941	</created_on>
+			<modified_by>	v_dobrovolskiy	</modified_by>
+			<modified_on>	1501513028	</modified_on>
+		</metaData>
+		<resource>	content/00_22_Hangar_British_Castle_2017/23_Additional_Props/box_7.model	</resource>
+		<transform>
+			<row0>	-0.106834 0.000000 -0.127320	</row0>
+			<row1>	0.000000 0.166204 0.000000	</row1>
+			<row2>	0.127320 0.000000 -0.106834	</row2>
+			<row3>	90.074234 -0.045601 97.127617	</row3>
+		</transform>
+		<castsShadow>	true	</castsShadow>
+		<reflectionVisible>	false	</reflectionVisible>
+		<alwayVisible>	false	</alwayVisible>
+		<ignoreSceneRenderer>	false	</ignoreSceneRenderer>
+	</model>
+	<model
+			chunkId="ffffffffo">
+		<metaData>
+			<created_by>	v_dobrovolskiy	</created_by>
+			<created_on>	1501513204	</created_on>
+			<modified_by>	v_dobrovolskiy	</modified_by>
+			<modified_on>	1501513265	</modified_on>
+		</metaData>
+		<resource>	content/00_22_Hangar_British_Castle_2017/23_Additional_Props/box_7.model	</resource>
+		<transform>
+			<row0>	-0.027451 0.000000 -0.155683	</row0>
+			<row1>	0.000000 0.158085 0.000000	</row1>
+			<row2>	0.155683 0.000000 -0.027451	</row2>
+			<row3>	90.202255 -0.064569 98.292374	</row3>
+		</transform>
+		<castsShadow>	true	</castsShadow>
+		<reflectionVisible>	false	</reflectionVisible>
+		<alwayVisible>	false	</alwayVisible>
+		<ignoreSceneRenderer>	false	</ignoreSceneRenderer>
+	</model>
+	<model
+			chunkId="ffffffffo">
+		<metaData>
+			<created_by>	v_dobrovolskiy	</created_by>
+			<created_on>	1501513204	</created_on>
+			<modified_by>	v_dobrovolskiy	</modified_by>
+			<modified_on>	1501513249	</modified_on>
+		</metaData>
+		<resource>	content/00_22_Hangar_British_Castle_2017/23_Additional_Props/box_8_open.model	</resource>
+		<transform>
+			<row0>	0.133387 0.000000 -0.028352	</row0>
+			<row1>	0.000000 0.136367 0.000000	</row1>
+			<row2>	0.028352 0.000000 0.133387	</row2>
+			<row3>	90.242546 -0.057620 98.848450	</row3>
+		</transform>
+		<castsShadow>	true	</castsShadow>
+		<reflectionVisible>	false	</reflectionVisible>
+		<alwayVisible>	false	</alwayVisible>
+		<ignoreSceneRenderer>	false	</ignoreSceneRenderer>
+	</model>
+	<model
+			chunkId="ffffffffo">
+		<metaData>
+			<created_by>	v_dobrovolskiy	</created_by>
+			<created_on>	1501513204	</created_on>
+			<modified_by>	v_dobrovolskiy	</modified_by>
+			<modified_on>	1501513229	</modified_on>
+		</metaData>
+		<resource>	content/00_22_Hangar_British_Castle_2017/23_Additional_Props/box_9_open.model	</resource>
+		<transform>
+			<row0>	-0.152965 0.000000 0.142642	</row0>
+			<row1>	0.000000 0.209152 0.000000	</row1>
+			<row2>	-0.142642 0.000000 -0.152965	</row2>
+			<row3>	89.670746 -0.081150 97.660645	</row3>
+		</transform>
+		<castsShadow>	true	</castsShadow>
+		<reflectionVisible>	false	</reflectionVisible>
+		<alwayVisible>	false	</alwayVisible>
+		<ignoreSceneRenderer>	false	</ignoreSceneRenderer>
+	</model>
+	<model
+			chunkId="ffffffffo">
+		<metaData>
+			<created_by>	v_dobrovolskiy	</created_by>
+			<created_on>	1501249474	</created_on>
+			<modified_by>	v_dobrovolskiy	</modified_by>
+			<modified_on>	1502442728	</modified_on>
+		</metaData>
+		<resource>	content/00_22_Hangar_British_Castle_2017/04_Castle/04_Castle.model	</resource>
+		<transform>
+			<row0>	0.090000 0.000000 0.000000	</row0>
+			<row1>	0.000000 0.090000 0.000000	</row1>
+			<row2>	0.000000 0.000000 0.090000	</row2>
+			<row3>	100.520149 -0.020671 99.999893	</row3>
+		</transform>
+		<castsShadow>	true	</castsShadow>
+		<reflectionVisible>	false	</reflectionVisible>
+		<alwayVisible>	false	</alwayVisible>
+		<ignoreSceneRenderer>	false	</ignoreSceneRenderer>
+	</model>
+	<model
+			chunkId="ffffffffo">
+		<metaData>
+			<created_by>	v_dobrovolskiy	</created_by>
+			<created_on>	1500883694	</created_on>
+			<modified_by>	v_dobrovolskiy	</modified_by>
+			<modified_on>	1500883722	</modified_on>
+		</metaData>
+		<resource>	content/00_22_Hangar_British_Castle_2017/04_Castle/04_Castle_Stairs.model	</resource>
+		<transform>
+			<row0>	0.220000 0.000076 0.000000	</row0>
+			<row1>	-0.000076 0.220000 0.000000	</row1>
+			<row2>	0.000000 0.000000 0.220000	</row2>
+			<row3>	99.999969 0.000000 100.084145	</row3>
+		</transform>
+		<castsShadow>	true	</castsShadow>
+		<reflectionVisible>	false	</reflectionVisible>
+		<alwayVisible>	false	</alwayVisible>
+		<ignoreSceneRenderer>	false	</ignoreSceneRenderer>
+	</model>
+	<model
+			chunkId="ffffffffo">
+		<metaData>
+			<created_by>	v_dobrovolskiy	</created_by>
+			<created_on>	1502464262	</created_on>
+			<modified_by>	v_dobrovolskiy	</modified_by>
+			<modified_on>	1502787045	</modified_on>
+		</metaData>
+		<resource>	content/00_22_Hangar_British_Castle_2017/23_Additional_Props/Barricade_big/Barricade_big.model	</resource>
+		<transform>
+			<row0>	0.212439 -0.000000 0.008732	</row0>
+			<row1>	0.000000 0.212618 -0.000000	</row1>
+			<row2>	-0.008732 0.000000 0.212439	</row2>
+			<row3>	91.124947 1.166119 91.686096	</row3>
+		</transform>
+		<castsShadow>	true	</castsShadow>
+		<reflectionVisible>	false	</reflectionVisible>
+		<alwayVisible>	true	</alwayVisible>
+		<ignoreSceneRenderer>	false	</ignoreSceneRenderer>
+	</model>
+	<model
+			chunkId="ffffffffo">
+		<metaData>
+			<created_by>	v_dobrovolskiy	</created_by>
+			<created_on>	1501753990	</created_on>
+			<modified_by>	v_dobrovolskiy	</modified_by>
+			<modified_on>	1502789214	</modified_on>
+		</metaData>
+		<resource>	content/00_22_Hangar_British_Castle_2017/23_Additional_Props/Spotlight.model	</resource>
+		<transform>
+			<row0>	0.284613 -0.000000 0.097186	</row0>
+			<row1>	0.000000 0.300750 -0.000000	</row1>
+			<row2>	-0.097186 0.000000 0.284613	</row2>
+			<row3>	95.562408 -0.048468 98.420998	</row3>
+		</transform>
+		<castsShadow>	true	</castsShadow>
+		<reflectionVisible>	false	</reflectionVisible>
+		<alwayVisible>	false	</alwayVisible>
+		<ignoreSceneRenderer>	false	</ignoreSceneRenderer>
+	</model>
+	<model
+			chunkId="ffffffffo">
+		<metaData>
+			<created_by>	v_dobrovolskiy	</created_by>
+			<created_on>	1503311005	</created_on>
+			<modified_by>	v_dobrovolskiy	</modified_by>
+			<modified_on>	1503392050	</modified_on>
+		</metaData>
+		<resource>	content/00_22_Hangar_British_Castle_2017/23_Additional_Props/Spotlight.model	</resource>
+		<transform>
+			<row0>	0.233849 0.000000 0.189113	</row0>
+			<row1>	0.000000 0.300748 0.000000	</row1>
+			<row2>	-0.189113 0.000000 0.233849	</row2>
+			<row3>	87.501480 -0.462177 96.235168	</row3>
+		</transform>
+		<castsShadow>	true	</castsShadow>
+		<reflectionVisible>	false	</reflectionVisible>
+		<alwayVisible>	false	</alwayVisible>
+		<ignoreSceneRenderer>	false	</ignoreSceneRenderer>
+	</model>
+	<model
+			chunkId="0000ffffo">	statue_hit_full
+		<metaData>
+			<created_by>	v_dobrovolskiy	</created_by>
+			<created_on>	1501513897	</created_on>
+			<modified_by>	s_andreev	</modified_by>
+			<modified_on>	1506328406	</modified_on>
+		</metaData>
+		<resource>	content/00_22_Hangar_British_Castle_2017/08_Statues/Statue_01.model	</resource>
+		<animation>
+			<name>	Statue_00_Destruction_a	</name>
+			<frameRateMultiplier>	1.000000	</frameRateMultiplier>
+		</animation>
+		<transform>
+			<row0>	-0.393364 0.000000 -0.158929	</row0>
+			<row1>	0.000000 0.424257 0.000000	</row1>
+			<row2>	0.158929 0.000000 -0.393364	</row2>
+			<row3>	2.448112 -0.005500 96.293884	</row3>
+		</transform>
+		<castsShadow>	true	</castsShadow>
+		<reflectionVisible>	false	</reflectionVisible>
+		<alwayVisible>	false	</alwayVisible>
+		<ignoreSceneRenderer>	false	</ignoreSceneRenderer>
+	</model>
+	<model
+			chunkId="0000ffffo">
+		<metaData>
+			<created_by>	v_dobrovolskiy	</created_by>
+			<created_on>	1501581685	</created_on>
+			<modified_by>	v_dobrovolskiy	</modified_by>
+			<modified_on>	1501582045	</modified_on>
+		</metaData>
+		<resource>	content/00_22_Hangar_British_Castle_2017/19_Tents/19_Tents_war.model	</resource>
+		<transform>
+			<row0>	-0.070132 -0.000000 0.199838	</row0>
+			<row1>	-0.000000 0.227577 0.000000	</row1>
+			<row2>	-0.214737 -0.000000 -0.075361	</row2>
+			<row3>	24.742212 -0.059257 94.917244	</row3>
+		</transform>
+		<castsShadow>	true	</castsShadow>
+		<reflectionVisible>	false	</reflectionVisible>
+		<alwayVisible>	false	</alwayVisible>
+		<ignoreSceneRenderer>	false	</ignoreSceneRenderer>
+	</model>
+	<model
+			chunkId="0000ffffo">
+		<metaData>
+			<created_by>	v_dobrovolskiy	</created_by>
+			<created_on>	1501581685	</created_on>
+			<modified_by>	v_dobrovolskiy	</modified_by>
+			<modified_on>	1501582052	</modified_on>
+		</metaData>
+		<resource>	content/00_22_Hangar_British_Castle_2017/19_Tents/19_Tents_war.model	</resource>
+		<transform>
+			<row0>	-0.070132 -0.000000 0.199838	</row0>
+			<row1>	-0.000000 0.227576 0.000000	</row1>
+			<row2>	-0.214737 -0.000000 -0.075361	</row2>
+			<row3>	23.054346 -0.037009 93.681389	</row3>
+		</transform>
+		<castsShadow>	true	</castsShadow>
+		<reflectionVisible>	false	</reflectionVisible>
+		<alwayVisible>	false	</alwayVisible>
+		<ignoreSceneRenderer>	false	</ignoreSceneRenderer>
+	</model>
+	<model
+			chunkId="0000ffffo">	car_destr
+		<metaData>
+			<created_by>	v_dobrovolskiy	</created_by>
+			<created_on>	1500632982	</created_on>
+			<modified_by>	s_andreev	</modified_by>
+			<modified_on>	1506328386	</modified_on>
+		</metaData>
+		<resource>	content/00_22_Hangar_British_Castle_2017/16_Civil_cars/Civil_car_02.model	</resource>
+		<animation>
+			<name>	Civil_car_02_bulletHit_a	</name>
+			<frameRateMultiplier>	1.000000	</frameRateMultiplier>
+		</animation>
+		<transform>
+			<row0>	0.248771 0.000000 -0.144629	</row0>
+			<row1>	0.000000 0.287758 0.000000	</row1>
+			<row2>	0.144629 0.000000 0.248771	</row2>
+			<row3>	1.228096 -0.069347 94.390785	</row3>
+		</transform>
+		<castsShadow>	true	</castsShadow>
+		<reflectionVisible>	false	</reflectionVisible>
+		<alwayVisible>	false	</alwayVisible>
+		<ignoreSceneRenderer>	false	</ignoreSceneRenderer>
+	</model>
+	<model
+			chunkId="0000ffffo">
+		<metaData>
+			<created_by>	v_dobrovolskiy	</created_by>
+			<created_on>	1501754807	</created_on>
+			<modified_by>	v_dobrovolskiy	</modified_by>
+			<modified_on>	1501754831	</modified_on>
+		</metaData>
+		<resource>	content/00_22_Hangar_British_Castle_2017/23_Additional_Props/Barricade/Logs.model	</resource>
+		<transform>
+			<row0>	0.219510 0.000000 0.014677	</row0>
+			<row1>	0.000000 0.220000 0.000000	</row1>
+			<row2>	-0.014677 0.000000 0.219510	</row2>
+			<row3>	3.371510 0.057582 94.494507	</row3>
+		</transform>
+		<castsShadow>	true	</castsShadow>
+		<reflectionVisible>	false	</reflectionVisible>
+		<alwayVisible>	false	</alwayVisible>
+		<ignoreSceneRenderer>	false	</ignoreSceneRenderer>
+	</model>
+	<model
+			chunkId="0000ffffo">
+		<metaData>
+			<created_by>	v_dobrovolskiy	</created_by>
+			<created_on>	1501754953	</created_on>
+			<modified_by>	v_dobrovolskiy	</modified_by>
+			<modified_on>	1501754968	</modified_on>
+		</metaData>
+		<resource>	content/00_22_Hangar_British_Castle_2017/23_Additional_Props/Barricade/Logs.model	</resource>
+		<transform>
+			<row0>	-0.306553 0.000000 -0.117674	</row0>
+			<row1>	0.000000 0.328362 0.000000	</row1>
+			<row2>	0.117674 0.000000 -0.306553	</row2>
+			<row3>	3.556299 -0.043303 94.657280	</row3>
+		</transform>
+		<castsShadow>	true	</castsShadow>
+		<reflectionVisible>	false	</reflectionVisible>
+		<alwayVisible>	false	</alwayVisible>
+		<ignoreSceneRenderer>	false	</ignoreSceneRenderer>
+	</model>
+	<model
+			chunkId="0000ffffo">
+		<metaData>
+			<created_by>	v_dobrovolskiy	</created_by>
+			<created_on>	1501755065	</created_on>
+			<modified_by>	v_dobrovolskiy	</modified_by>
+			<modified_on>	1501755137	</modified_on>
+		</metaData>
+		<resource>	content/00_22_Hangar_British_Castle_2017/23_Additional_Props/Barricade/Logs.model	</resource>
+		<transform>
+			<row0>	-0.324984 -0.000000 -0.046971	</row0>
+			<row1>	-0.000000 0.328361 0.000000	</row1>
+			<row2>	0.046971 0.000000 -0.324984	</row2>
+			<row3>	7.830314 0.089974 94.905624	</row3>
+		</transform>
+		<castsShadow>	true	</castsShadow>
+		<reflectionVisible>	false	</reflectionVisible>
+		<alwayVisible>	false	</alwayVisible>
+		<ignoreSceneRenderer>	false	</ignoreSceneRenderer>
+	</model>
+	<model
+			chunkId="0000ffffo">
+		<metaData>
+			<created_by>	v_dobrovolskiy	</created_by>
+			<created_on>	1501754889	</created_on>
+			<modified_by>	v_dobrovolskiy	</modified_by>
+			<modified_on>	1501754907	</modified_on>
+		</metaData>
+		<resource>	content/00_22_Hangar_British_Castle_2017/23_Additional_Props/Barricade/Sandbags_stack.model	</resource>
+		<transform>
+			<row0>	-0.206897 0.000000 0.051585	</row0>
+			<row1>	0.000000 0.213231 0.000000	</row1>
+			<row2>	-0.051585 0.000000 -0.206897	</row2>
+			<row3>	4.048100 -0.041891 94.584862	</row3>
+		</transform>
+		<castsShadow>	true	</castsShadow>
+		<reflectionVisible>	false	</reflectionVisible>
+		<alwayVisible>	false	</alwayVisible>
+		<ignoreSceneRenderer>	false	</ignoreSceneRenderer>
+	</model>
+	<model
+			chunkId="0000ffffo">
+		<metaData>
+			<created_by>	v_dobrovolskiy	</created_by>
+			<created_on>	1501754807	</created_on>
+			<modified_by>	v_dobrovolskiy	</modified_by>
+			<modified_on>	1501754945	</modified_on>
+		</metaData>
+		<resource>	content/00_22_Hangar_British_Castle_2017/23_Additional_Props/Barricade/Sandbags_stack.model	</resource>
+		<transform>
+			<row0>	-0.175338 0.000000 0.017092	</row0>
+			<row1>	0.000000 0.176169 -0.000000	</row1>
+			<row2>	-0.017092 -0.000000 -0.175338	</row2>
+			<row3>	3.277562 0.057582 94.581810	</row3>
+		</transform>
+		<castsShadow>	true	</castsShadow>
+		<reflectionVisible>	false	</reflectionVisible>
+		<alwayVisible>	false	</alwayVisible>
+		<ignoreSceneRenderer>	false	</ignoreSceneRenderer>
+	</model>
+	<model
+			chunkId="0000ffffo">
+		<metaData>
+			<created_by>	v_dobrovolskiy	</created_by>
+			<created_on>	1501755065	</created_on>
+			<modified_by>	v_dobrovolskiy	</modified_by>
+			<modified_on>	1501755084	</modified_on>
+		</metaData>
+		<resource>	content/00_22_Hangar_British_Castle_2017/23_Additional_Props/Barricade/Sandbags_stack.model	</resource>
+		<transform>
+			<row0>	-0.172362 -0.000000 0.036428	</row0>
+			<row1>	-0.000000 0.176169 0.000000	</row1>
+			<row2>	-0.036428 0.000000 -0.172362	</row2>
+			<row3>	7.544928 0.089974 94.895126	</row3>
+		</transform>
+		<castsShadow>	true	</castsShadow>
+		<reflectionVisible>	false	</reflectionVisible>
+		<alwayVisible>	false	</alwayVisible>
+		<ignoreSceneRenderer>	false	</ignoreSceneRenderer>
+	</model>
+	<model
+			chunkId="0000ffffo">
+		<metaData>
+			<created_by>	v_dobrovolskiy	</created_by>
+			<created_on>	1501754807	</created_on>
+			<modified_by>	v_dobrovolskiy	</modified_by>
+			<modified_on>	1501754831	</modified_on>
+		</metaData>
+		<resource>	content/00_22_Hangar_British_Castle_2017/23_Additional_Props/Barricade/Shield_1.model	</resource>
+		<transform>
+			<row0>	-0.269142 0.000000 -0.037825	</row0>
+			<row1>	0.000000 0.271786 0.000000	</row1>
+			<row2>	0.037825 0.000000 -0.269142	</row2>
+			<row3>	3.303159 -0.020694 94.414139	</row3>
+		</transform>
+		<castsShadow>	true	</castsShadow>
+		<reflectionVisible>	false	</reflectionVisible>
+		<alwayVisible>	false	</alwayVisible>
+		<ignoreSceneRenderer>	false	</ignoreSceneRenderer>
+	</model>
+	<model
+			chunkId="0000ffffo">
+		<metaData>
+			<created_by>	v_dobrovolskiy	</created_by>
+			<created_on>	1501755065	</created_on>
+			<modified_by>	v_dobrovolskiy	</modified_by>
+			<modified_on>	1501755084	</modified_on>
+		</metaData>
+		<resource>	content/00_22_Hangar_British_Castle_2017/23_Additional_Props/Barricade/Shield_1.model	</resource>
+		<transform>
+			<row0>	-0.271676 -0.000000 -0.007750	</row0>
+			<row1>	-0.000000 0.271786 0.000000	</row1>
+			<row2>	0.007750 0.000000 -0.271676	</row2>
+			<row3>	7.551775 0.089974 94.725662	</row3>
+		</transform>
+		<castsShadow>	true	</castsShadow>
+		<reflectionVisible>	false	</reflectionVisible>
+		<alwayVisible>	false	</alwayVisible>
+		<ignoreSceneRenderer>	false	</ignoreSceneRenderer>
+	</model>
+	<model
+			chunkId="0000ffffo">
+		<metaData>
+			<created_by>	v_dobrovolskiy	</created_by>
+			<created_on>	1501754863	</created_on>
+			<modified_by>	v_dobrovolskiy	</modified_by>
+			<modified_on>	1501754887	</modified_on>
+		</metaData>
+		<resource>	content/00_22_Hangar_British_Castle_2017/23_Additional_Props/Barricade/Shield_2.model	</resource>
+		<transform>
+			<row0>	0.248164 0.000000 -0.100265	</row0>
+			<row1>	0.000000 0.267654 0.000000	</row1>
+			<row2>	0.100265 0.000000 0.248164	</row2>
+			<row3>	3.969550 -0.103160 94.393906	</row3>
+		</transform>
+		<castsShadow>	true	</castsShadow>
+		<reflectionVisible>	false	</reflectionVisible>
+		<alwayVisible>	false	</alwayVisible>
+		<ignoreSceneRenderer>	false	</ignoreSceneRenderer>
+	</model>
+	<model
+			chunkId="0000ffffo">
+		<metaData>
+			<created_by>	v_dobrovolskiy	</created_by>
+			<created_on>	1501754912	</created_on>
+			<modified_by>	v_dobrovolskiy	</modified_by>
+			<modified_on>	1501754937	</modified_on>
+		</metaData>
+		<resource>	content/00_22_Hangar_British_Castle_2017/23_Additional_Props/Barricade/Tun.model	</resource>
+		<transform>
+			<row0>	0.206355 -0.039983 -0.066566	</row0>
+			<row1>	0.019935 0.209948 -0.064311	</row1>
+			<row2>	0.075049 0.054171 0.200113	</row2>
+			<row3>	3.572436 -0.035282 94.668007	</row3>
+		</transform>
+		<castsShadow>	true	</castsShadow>
+		<reflectionVisible>	false	</reflectionVisible>
+		<alwayVisible>	false	</alwayVisible>
+		<ignoreSceneRenderer>	false	</ignoreSceneRenderer>
+	</model>
+	<model
+			chunkId="0000ffffo">
+		<metaData>
+			<created_by>	v_dobrovolskiy	</created_by>
+			<created_on>	1501754807	</created_on>
+			<modified_by>	v_dobrovolskiy	</modified_by>
+			<modified_on>	1501755003	</modified_on>
+		</metaData>
+		<resource>	content/00_22_Hangar_British_Castle_2017/23_Additional_Props/Barricade/Tun.model	</resource>
+		<transform>
+			<row0>	-0.049838 0.067206 -0.177983	</row0>
+			<row1>	-0.188400 0.008147 0.055832	</row1>
+			<row2>	0.026453 0.184650 0.062316	</row2>
+			<row3>	3.788472 0.050616 94.772453	</row3>
+		</transform>
+		<castsShadow>	true	</castsShadow>
+		<reflectionVisible>	false	</reflectionVisible>
+		<alwayVisible>	false	</alwayVisible>
+		<ignoreSceneRenderer>	false	</ignoreSceneRenderer>
+	</model>
+	<model
+			chunkId="0000ffffo">
+		<metaData>
+			<created_by>	v_dobrovolskiy	</created_by>
+			<created_on>	1501755065	</created_on>
+			<modified_by>	v_dobrovolskiy	</modified_by>
+			<modified_on>	1501755096	</modified_on>
+		</metaData>
+		<resource>	content/00_22_Hangar_British_Castle_2017/23_Additional_Props/Barricade/Tun.model	</resource>
+		<transform>
+			<row0>	0.060184 -0.031025 -0.184645	</row0>
+			<row1>	-0.009421 0.193201 -0.035533	</row1>
+			<row2>	0.186997 0.019718 0.057637	</row2>
+			<row3>	7.954539 0.088994 94.817444	</row3>
+		</transform>
+		<castsShadow>	true	</castsShadow>
+		<reflectionVisible>	false	</reflectionVisible>
+		<alwayVisible>	false	</alwayVisible>
+		<ignoreSceneRenderer>	false	</ignoreSceneRenderer>
+	</model>
+	<model
+			chunkId="0000ffffo">
+		<metaData>
+			<created_by>	v_dobrovolskiy	</created_by>
+			<created_on>	1501755099	</created_on>
+			<modified_by>	v_dobrovolskiy	</modified_by>
+			<modified_on>	1501755113	</modified_on>
+		</metaData>
+		<resource>	content/00_22_Hangar_British_Castle_2017/23_Additional_Props/Barricade/Tun.model	</resource>
+		<transform>
+			<row0>	0.031943 -0.126143 -0.147465	</row0>
+			<row1>	0.101896 0.138091 -0.096052	</row1>
+			<row2>	0.165152 -0.060803 0.087786	</row2>
+			<row3>	7.161261 0.029839 94.905083	</row3>
+		</transform>
+		<castsShadow>	true	</castsShadow>
+		<reflectionVisible>	false	</reflectionVisible>
+		<alwayVisible>	false	</alwayVisible>
+		<ignoreSceneRenderer>	false	</ignoreSceneRenderer>
+	</model>
+	<model
+			chunkId="0000ffffo">
+		<metaData>
+			<created_by>	v_dobrovolskiy	</created_by>
+			<created_on>	1501581794	</created_on>
+			<modified_by>	v_dobrovolskiy	</modified_by>
+			<modified_on>	1501581968	</modified_on>
+		</metaData>
+		<resource>	content/00_22_Hangar_British_Castle_2017/23_Additional_Props/box_10.model	</resource>
+		<transform>
+			<row0>	-0.002614 0.000000 0.149762	</row0>
+			<row1>	0.000000 0.149784 0.000000	</row1>
+			<row2>	-0.149762 0.000000 -0.002614	</row2>
+			<row3>	23.139175 0.049201 96.409050	</row3>
+		</transform>
+		<castsShadow>	true	</castsShadow>
+		<reflectionVisible>	false	</reflectionVisible>
+		<alwayVisible>	false	</alwayVisible>
+		<ignoreSceneRenderer>	false	</ignoreSceneRenderer>
+	</model>
+	<model
+			chunkId="0000ffffo">
+		<metaData>
+			<created_by>	v_dobrovolskiy	</created_by>
+			<created_on>	1501581794	</created_on>
+			<modified_by>	v_dobrovolskiy	</modified_by>
+			<modified_on>	1501581978	</modified_on>
+		</metaData>
+		<resource>	content/00_22_Hangar_British_Castle_2017/23_Additional_Props/box_3_crashed.model	</resource>
+		<transform>
+			<row0>	-0.097335 0.000000 0.070718	</row0>
+			<row1>	0.000000 0.120313 0.000000	</row1>
+			<row2>	-0.070718 0.000000 -0.097335	</row2>
+			<row3>	24.333652 0.098203 97.094711	</row3>
+		</transform>
+		<castsShadow>	true	</castsShadow>
+		<reflectionVisible>	false	</reflectionVisible>
+		<alwayVisible>	false	</alwayVisible>
+		<ignoreSceneRenderer>	false	</ignoreSceneRenderer>
+	</model>
+	<model
+			chunkId="0000ffffo">
+		<metaData>
+			<created_by>	v_dobrovolskiy	</created_by>
+			<created_on>	1501581794	</created_on>
+			<modified_by>	v_dobrovolskiy	</modified_by>
+			<modified_on>	1501581991	</modified_on>
+		</metaData>
+		<resource>	content/00_22_Hangar_British_Castle_2017/23_Additional_Props/box_3_crashed.model	</resource>
+		<transform>
+			<row0>	-0.070718 0.000000 -0.097335	</row0>
+			<row1>	0.000000 0.120313 0.000000	</row1>
+			<row2>	0.097335 0.000000 -0.070718	</row2>
+			<row3>	24.136219 0.063618 96.904800	</row3>
+		</transform>
+		<castsShadow>	true	</castsShadow>
+		<reflectionVisible>	false	</reflectionVisible>
+		<alwayVisible>	false	</alwayVisible>
+		<ignoreSceneRenderer>	false	</ignoreSceneRenderer>
+	</model>
+	<model
+			chunkId="0000ffffo">
+		<metaData>
+			<created_by>	v_dobrovolskiy	</created_by>
+			<created_on>	1501581794	</created_on>
+			<modified_by>	v_dobrovolskiy	</modified_by>
+			<modified_on>	1501581932	</modified_on>
+		</metaData>
+		<resource>	content/00_22_Hangar_British_Castle_2017/23_Additional_Props/box_5.model	</resource>
+		<transform>
+			<row0>	0.162201 0.000000 -0.055851	</row0>
+			<row1>	0.000000 0.171547 0.000000	</row1>
+			<row2>	0.055851 0.000000 0.162201	</row2>
+			<row3>	23.202637 -0.042919 95.706802	</row3>
+		</transform>
+		<castsShadow>	true	</castsShadow>
+		<reflectionVisible>	false	</reflectionVisible>
+		<alwayVisible>	false	</alwayVisible>
+		<ignoreSceneRenderer>	false	</ignoreSceneRenderer>
+	</model>
+	<model
+			chunkId="0000ffffo">
+		<metaData>
+			<created_by>	v_dobrovolskiy	</created_by>
+			<created_on>	1501581794	</created_on>
+			<modified_by>	v_dobrovolskiy	</modified_by>
+			<modified_on>	1501581932	</modified_on>
+		</metaData>
+		<resource>	content/00_22_Hangar_British_Castle_2017/23_Additional_Props/box_5.model	</resource>
+		<transform>
+			<row0>	0.129468 0.000000 0.112544	</row0>
+			<row1>	0.000000 0.171547 0.000000	</row1>
+			<row2>	-0.112544 0.000000 0.129468	</row2>
+			<row3>	22.976431 0.077595 95.574303	</row3>
+		</transform>
+		<castsShadow>	true	</castsShadow>
+		<reflectionVisible>	false	</reflectionVisible>
+		<alwayVisible>	false	</alwayVisible>
+		<ignoreSceneRenderer>	false	</ignoreSceneRenderer>
+	</model>
+	<model
+			chunkId="0000ffffo">
+		<metaData>
+			<created_by>	v_dobrovolskiy	</created_by>
+			<created_on>	1501581794	</created_on>
+			<modified_by>	v_dobrovolskiy	</modified_by>
+			<modified_on>	1501581932	</modified_on>
+		</metaData>
+		<resource>	content/00_22_Hangar_British_Castle_2017/23_Additional_Props/box_5.model	</resource>
+		<transform>
+			<row0>	0.075201 0.000000 -0.154186	</row0>
+			<row1>	0.000000 0.171547 0.000000	</row1>
+			<row2>	0.154186 0.000000 0.075201	</row2>
+			<row3>	23.014063 -0.038781 95.520874	</row3>
+		</transform>
+		<castsShadow>	true	</castsShadow>
+		<reflectionVisible>	false	</reflectionVisible>
+		<alwayVisible>	false	</alwayVisible>
+		<ignoreSceneRenderer>	false	</ignoreSceneRenderer>
+	</model>
+	<model
+			chunkId="0000ffffo">
+		<metaData>
+			<created_by>	v_dobrovolskiy	</created_by>
+			<created_on>	1501581794	</created_on>
+			<modified_by>	v_dobrovolskiy	</modified_by>
+			<modified_on>	1501581950	</modified_on>
+		</metaData>
+		<resource>	content/00_22_Hangar_British_Castle_2017/23_Additional_Props/box_6.model	</resource>
+		<transform>
+			<row0>	0.076756 0.000000 -0.138470	</row0>
+			<row1>	0.000000 0.158321 0.000000	</row1>
+			<row2>	0.138470 0.000000 0.076756	</row2>
+			<row3>	23.253117 -0.028412 95.979652	</row3>
+		</transform>
+		<castsShadow>	true	</castsShadow>
+		<reflectionVisible>	false	</reflectionVisible>
+		<alwayVisible>	false	</alwayVisible>
+		<ignoreSceneRenderer>	false	</ignoreSceneRenderer>
+	</model>
+	<model
+			chunkId="0000ffffo">
+		<metaData>
+			<created_by>	v_dobrovolskiy	</created_by>
+			<created_on>	1501581794	</created_on>
+			<modified_by>	v_dobrovolskiy	</modified_by>
+			<modified_on>	1501581950	</modified_on>
+		</metaData>
+		<resource>	content/00_22_Hangar_British_Castle_2017/23_Additional_Props/box_6.model	</resource>
+		<transform>
+			<row0>	-0.038301 0.000000 0.153618	</row0>
+			<row1>	0.000000 0.158321 0.000000	</row1>
+			<row2>	-0.153618 0.000000 -0.038301	</row2>
+			<row3>	23.277891 0.050750 95.906067	</row3>
+		</transform>
+		<castsShadow>	true	</castsShadow>
+		<reflectionVisible>	false	</reflectionVisible>
+		<alwayVisible>	false	</alwayVisible>
+		<ignoreSceneRenderer>	false	</ignoreSceneRenderer>
+	</model>
+	<model
+			chunkId="0000ffffo">
+		<metaData>
+			<created_by>	v_dobrovolskiy	</created_by>
+			<created_on>	1501581794	</created_on>
+			<modified_by>	v_dobrovolskiy	</modified_by>
+			<modified_on>	1501581959	</modified_on>
+		</metaData>
+		<resource>	content/00_22_Hangar_British_Castle_2017/23_Additional_Props/box_6.model	</resource>
+		<transform>
+			<row0>	0.100669 0.000000 -0.104246	</row0>
+			<row1>	0.000000 0.144919 0.000000	</row1>
+			<row2>	0.104246 0.000000 0.100669	</row2>
+			<row3>	22.674789 -0.027947 96.000404	</row3>
+		</transform>
+		<castsShadow>	true	</castsShadow>
+		<reflectionVisible>	false	</reflectionVisible>
+		<alwayVisible>	false	</alwayVisible>
+		<ignoreSceneRenderer>	false	</ignoreSceneRenderer>
+	</model>
+	<model
+			chunkId="0000ffffo">
+		<metaData>
+			<created_by>	v_dobrovolskiy	</created_by>
+			<created_on>	1501581794	</created_on>
+			<modified_by>	v_dobrovolskiy	</modified_by>
+			<modified_on>	1501582018	</modified_on>
+		</metaData>
+		<resource>	content/00_22_Hangar_British_Castle_2017/23_Additional_Props/box_7.model	</resource>
+		<transform>
+			<row0>	-0.096353 0.000000 -0.067467	</row0>
+			<row1>	0.000000 0.117626 0.000000	</row1>
+			<row2>	0.067467 0.000000 -0.096353	</row2>
+			<row3>	22.830973 0.044918 96.003830	</row3>
+		</transform>
+		<castsShadow>	true	</castsShadow>
+		<reflectionVisible>	false	</reflectionVisible>
+		<alwayVisible>	false	</alwayVisible>
+		<ignoreSceneRenderer>	false	</ignoreSceneRenderer>
+	</model>
+	<model
+			chunkId="0000ffffo">
+		<metaData>
+			<created_by>	v_dobrovolskiy	</created_by>
+			<created_on>	1501167827	</created_on>
+			<modified_by>	v_dobrovolskiy	</modified_by>
+			<modified_on>	1501167838	</modified_on>
+		</metaData>
+		<resource>	content/00_22_Hangar_British_Castle_2017/04_Castle/04_Castle_Tower.model	</resource>
+		<transform>
+			<row0>	0.220000 0.000000 0.000000	</row0>
+			<row1>	0.000000 0.220000 0.000000	</row1>
+			<row2>	0.000000 0.000000 0.220000	</row2>
+			<row3>	0.000000 0.000000 99.999969	</row3>
+		</transform>
+		<castsShadow>	true	</castsShadow>
+		<reflectionVisible>	false	</reflectionVisible>
+		<alwayVisible>	false	</alwayVisible>
+		<ignoreSceneRenderer>	false	</ignoreSceneRenderer>
+	</model>
+	<model
+			chunkId="0000ffffo">
+		<metaData>
+			<created_by>	v_dobrovolskiy	</created_by>
+			<created_on>	1501257760	</created_on>
+			<modified_by>	v_dobrovolskiy	</modified_by>
+			<modified_on>	1501257801	</modified_on>
+		</metaData>
+		<resource>	content/00_22_Hangar_British_Castle_2017/04_Castle/04_Castle_building.model	</resource>
+		<transform>
+			<row0>	0.251932 0.000000 0.000624	</row0>
+			<row1>	0.000000 0.251933 0.000000	</row1>
+			<row2>	-0.000624 0.000000 0.251932	</row2>
+			<row3>	43.169144 0.016474 78.255371	</row3>
+		</transform>
+		<castsShadow>	true	</castsShadow>
+		<reflectionVisible>	false	</reflectionVisible>
+		<alwayVisible>	false	</alwayVisible>
+		<ignoreSceneRenderer>	false	</ignoreSceneRenderer>
+	</model>
+	<model
+			chunkId="0000ffffo">
+		<metaData>
+			<created_by>	v_dobrovolskiy	</created_by>
+			<created_on>	1501675698	</created_on>
+			<modified_by>	v_dobrovolskiy	</modified_by>
+			<modified_on>	1501675713	</modified_on>
+		</metaData>
+		<resource>	content/00_22_Hangar_British_Castle_2017/11_Decals/props.model	</resource>
+		<transform>
+			<row0>	0.220000 0.000000 0.000000	</row0>
+			<row1>	0.000000 0.220000 0.000000	</row1>
+			<row2>	0.000000 0.000000 0.220000	</row2>
+			<row3>	0.000000 0.000000 99.999969	</row3>
+		</transform>
+		<castsShadow>	true	</castsShadow>
+		<reflectionVisible>	false	</reflectionVisible>
+		<alwayVisible>	false	</alwayVisible>
+		<ignoreSceneRenderer>	false	</ignoreSceneRenderer>
+	</model>
+	<model
+			chunkId="0000ffffo">
+		<metaData>
+			<created_by>	v_dobrovolskiy	</created_by>
+			<created_on>	1502464452	</created_on>
+			<modified_by>	v_dobrovolskiy	</modified_by>
+			<modified_on>	1502464491	</modified_on>
+		</metaData>
+		<resource>	content/00_22_Hangar_British_Castle_2017/23_Additional_Props/Barricade/Barricade.model	</resource>
+		<transform>
+			<row0>	-0.279068 0.000000 -0.029331	</row0>
+			<row1>	0.000000 0.280605 0.000000	</row1>
+			<row2>	0.026665 0.000000 -0.253698	</row2>
+			<row3>	3.186935 1.112520 90.972374	</row3>
+		</transform>
+		<castsShadow>	true	</castsShadow>
+		<reflectionVisible>	false	</reflectionVisible>
+		<alwayVisible>	false	</alwayVisible>
+		<ignoreSceneRenderer>	false	</ignoreSceneRenderer>
+	</model>
+	<model
+			chunkId="0000ffffo">
+		<metaData>
+			<created_by>	v_dobrovolskiy	</created_by>
+			<created_on>	1502464369	</created_on>
+			<modified_by>	v_dobrovolskiy	</modified_by>
+			<modified_on>	1502787039	</modified_on>
+		</metaData>
+		<resource>	content/00_22_Hangar_British_Castle_2017/23_Additional_Props/Barricade_big/Barricade_big.model	</resource>
+		<transform>
+			<row0>	0.219999 0.000000 -0.000467	</row0>
+			<row1>	0.000000 0.220000 0.000000	</row1>
+			<row2>	0.000467 0.000000 0.219999	</row2>
+			<row3>	7.594828 1.217487 91.644966	</row3>
+		</transform>
+		<castsShadow>	true	</castsShadow>
+		<reflectionVisible>	false	</reflectionVisible>
+		<alwayVisible>	true	</alwayVisible>
+		<ignoreSceneRenderer>	false	</ignoreSceneRenderer>
+	</model>
+	<model
+			chunkId="0000ffffo">	yalinga
+		<metaData>
+			<created_by>	s_andreev	</created_by>
+			<created_on>	1514649452	</created_on>
+			<modified_by>	s_andreev	</modified_by>
+			<modified_on>	1511280125	</modified_on>
+		</metaData>
+		<resource>	content/00_22_Hangar_British_Castle_2017/25_NY_Props/04_NY_Props/Props.model	</resource>
+		<transform>
+			<row0>	-0.050288 0.000000 0.164484	</row0>
+			<row1>	0.000000 0.172000 0.000000	</row1>
+			<row2>	-0.164484 0.000000 -0.050288	</row2>
+			<row3>	2.240997 0.010000 92.363991	</row3>
+		</transform>
+		<castsShadow>	true	</castsShadow>
+		<reflectionVisible>	false	</reflectionVisible>
+		<alwayVisible>	false	</alwayVisible>
+		<ignoreSceneRenderer>	false	</ignoreSceneRenderer>
+	</model>
+	<model
+			chunkId="fffe0000o">
+		<metaData>
+			<created_by>	v_dobrovolskiy	</created_by>
+			<created_on>	1501247370	</created_on>
+			<modified_by>	v_dobrovolskiy	</modified_by>
+			<modified_on>	1501247606	</modified_on>
+		</metaData>
+		<resource>	content/08_asian_border/bldBM_037_Bridge/bldBM_037_Bridge_01.model	</resource>
+		<transform>
+			<row0>	0.040216 0.000000 -0.161296	</row0>
+			<row1>	0.000000 0.166234 0.000000	</row1>
+			<row2>	0.161296 0.000000 0.040216	</row2>
+			<row3>	95.188065 -1.975510 96.079079	</row3>
+		</transform>
+		<castsShadow>	true	</castsShadow>
+		<reflectionVisible>	true	</reflectionVisible>
+		<alwayVisible>	false	</alwayVisible>
+		<ignoreSceneRenderer>	false	</ignoreSceneRenderer>
+	</model>
+	<model
+			chunkId="fffe0000o">
+		<metaData>
+			<created_by>	v_dobrovolskiy	</created_by>
+			<created_on>	1501247322	</created_on>
+			<modified_by>	v_dobrovolskiy	</modified_by>
+			<modified_on>	1501247606	</modified_on>
+		</metaData>
+		<resource>	content/08_asian_border/bldBM_037_Bridge/bldBM_037_Bridge_01.model	</resource>
+		<transform>
+			<row0>	-0.040216 0.000000 0.161296	</row0>
+			<row1>	0.000000 0.166234 0.000000	</row1>
+			<row2>	-0.161296 0.000000 -0.040216	</row2>
+			<row3>	99.433174 -1.945112 98.133003	</row3>
+		</transform>
+		<castsShadow>	true	</castsShadow>
+		<reflectionVisible>	true	</reflectionVisible>
+		<alwayVisible>	false	</alwayVisible>
+		<ignoreSceneRenderer>	false	</ignoreSceneRenderer>
+	</model>
+	<model
+			chunkId="fffe0000o">
+		<metaData>
+			<created_by>	v_dobrovolskiy	</created_by>
+			<created_on>	1501237569	</created_on>
+			<modified_by>	v_dobrovolskiy	</modified_by>
+			<modified_on>	1501247587	</modified_on>
+		</metaData>
+		<resource>	content/00_22_Hangar_British_Castle_2017/10_Lighthouse/10_Lighthouse.model	</resource>
+		<transform>
+			<row0>	0.120450 0.000000 -0.056167	</row0>
+			<row1>	0.000000 0.132902 0.000000	</row1>
+			<row2>	0.056167 0.000000 0.120450	</row2>
+			<row3>	97.789139 -0.423702 91.387993	</row3>
+		</transform>
+		<castsShadow>	true	</castsShadow>
+		<reflectionVisible>	true	</reflectionVisible>
+		<alwayVisible>	false	</alwayVisible>
+		<ignoreSceneRenderer>	false	</ignoreSceneRenderer>
+	</model>
+	<model
+			chunkId="fffe0000o">
+		<metaData>
+			<created_by>	v_dobrovolskiy	</created_by>
+			<created_on>	1501247029	</created_on>
+			<modified_by>	v_dobrovolskiy	</modified_by>
+			<modified_on>	1501247488	</modified_on>
+		</metaData>
+		<resource>	content/00_22_Hangar_British_Castle_2017/22_Stones/03_Stone/03_Stone.model	</resource>
+		<transform>
+			<row0>	3.021642 0.000000 8.301888	</row0>
+			<row1>	0.000000 8.834688 0.000000	</row1>
+			<row2>	-8.301888 0.000000 3.021642	</row2>
+			<row3>	97.222290 -1.767006 84.271179	</row3>
+		</transform>
+		<castsShadow>	true	</castsShadow>
+		<reflectionVisible>	true	</reflectionVisible>
+		<alwayVisible>	false	</alwayVisible>
+		<ignoreSceneRenderer>	false	</ignoreSceneRenderer>
+	</model>
+	<model
+			chunkId="fffe0000o">
+		<metaData>
+			<created_by>	v_dobrovolskiy	</created_by>
+			<created_on>	1501247643	</created_on>
+			<modified_by>	v_dobrovolskiy	</modified_by>
+			<modified_on>	1501247663	</modified_on>
+		</metaData>
+		<resource>	content/00_22_Hangar_British_Castle_2017/22_Stones/04_Stone/04_Stone.model	</resource>
+		<transform>
+			<row0>	0.142646 -0.684371 -4.359079	</row0>
+			<row1>	0.445907 2.978076 -0.979641	</row1>
+			<row2>	4.449564 -0.276504 0.237914	</row2>
+			<row3>	97.022026 -1.921243 61.410538	</row3>
+		</transform>
+		<castsShadow>	true	</castsShadow>
+		<reflectionVisible>	true	</reflectionVisible>
+		<alwayVisible>	false	</alwayVisible>
+		<ignoreSceneRenderer>	false	</ignoreSceneRenderer>
+	</model>
+	<model
+			chunkId="fffe0000o">
+		<metaData>
+			<created_by>	v_dobrovolskiy	</created_by>
+			<created_on>	1501247111	</created_on>
+			<modified_by>	v_dobrovolskiy	</modified_by>
+			<modified_on>	1501247488	</modified_on>
+		</metaData>
+		<resource>	content/00_22_Hangar_British_Castle_2017/22_Stones/06_Stone/06_Stone.model	</resource>
+		<transform>
+			<row0>	3.496793 0.000000 -4.993935	</row0>
+			<row1>	0.000000 6.096470 0.000000	</row1>
+			<row2>	4.993935 0.000000 3.496793	</row2>
+			<row3>	99.400055 -0.842591 89.480408	</row3>
+		</transform>
+		<castsShadow>	true	</castsShadow>
+		<reflectionVisible>	true	</reflectionVisible>
+		<alwayVisible>	false	</alwayVisible>
+		<ignoreSceneRenderer>	false	</ignoreSceneRenderer>
+	</model>
+	<model
+			chunkId="fffe0000o">
+		<metaData>
+			<created_by>	v_dobrovolskiy	</created_by>
+			<created_on>	1501247811	</created_on>
+			<modified_by>	v_dobrovolskiy	</modified_by>
+			<modified_on>	1501247818	</modified_on>
+		</metaData>
+		<resource>	content/00_22_Hangar_British_Castle_2017/22_Stones/06_Stone/06_Stone.model	</resource>
+		<transform>
+			<row0>	-3.496789 0.000000 4.993929	</row0>
+			<row1>	0.000000 6.096465 0.000000	</row1>
+			<row2>	-4.993929 0.000000 -3.496789	</row2>
+			<row3>	98.442688 -1.342546 64.792961	</row3>
+		</transform>
+		<castsShadow>	true	</castsShadow>
+		<reflectionVisible>	true	</reflectionVisible>
+		<alwayVisible>	false	</alwayVisible>
+		<ignoreSceneRenderer>	false	</ignoreSceneRenderer>
+	</model>
+	<model
+			chunkId="fffe0000o">
+		<metaData>
+			<created_by>	v_dobrovolskiy	</created_by>
+			<created_on>	1501247056	</created_on>
+			<modified_by>	v_dobrovolskiy	</modified_by>
+			<modified_on>	1501247569	</modified_on>
+		</metaData>
+		<resource>	content/00_22_Hangar_British_Castle_2017/22_Stones/08_Stone/08_Stone.model	</resource>
+		<transform>
+			<row0>	-0.256059 0.000000 -7.332514	</row0>
+			<row1>	0.000000 7.336985 0.000000	</row1>
+			<row2>	7.332514 0.000000 -0.256059	</row2>
+			<row3>	99.869080 -2.656621 91.720512	</row3>
+		</transform>
+		<castsShadow>	true	</castsShadow>
+		<reflectionVisible>	true	</reflectionVisible>
+		<alwayVisible>	false	</alwayVisible>
+		<ignoreSceneRenderer>	false	</ignoreSceneRenderer>
+	</model>
+	<model
+			chunkId="fffe0000o">
+		<metaData>
+			<created_by>	v_dobrovolskiy	</created_by>
+			<created_on>	1501247218	</created_on>
+			<modified_by>	v_dobrovolskiy	</modified_by>
+			<modified_on>	1501247488	</modified_on>
+		</metaData>
+		<resource>	content/00_22_Hangar_British_Castle_2017/22_Stones/08_Stone/08_Stone.model	</resource>
+		<transform>
+			<row0>	-2.939841 0.000000 5.529039	</row0>
+			<row1>	0.000000 6.262026 0.000000	</row1>
+			<row2>	-5.529039 0.000000 -2.939841	</row2>
+			<row3>	95.637611 -3.223522 78.417084	</row3>
+		</transform>
+		<castsShadow>	true	</castsShadow>
+		<reflectionVisible>	true	</reflectionVisible>
+		<alwayVisible>	false	</alwayVisible>
+		<ignoreSceneRenderer>	false	</ignoreSceneRenderer>
+	</model>
+	<model
+			chunkId="fffe0000o">
+		<metaData>
+			<created_by>	v_dobrovolskiy	</created_by>
+			<created_on>	1501247283	</created_on>
+			<modified_by>	v_dobrovolskiy	</modified_by>
+			<modified_on>	1501247795	</modified_on>
+		</metaData>
+		<resource>	content/00_22_Hangar_British_Castle_2017/22_Stones/08_Stone/08_Stone.model	</resource>
+		<transform>
+			<row0>	-4.557784 2.647165 16.300163	</row0>
+			<row1>	-0.000000 9.582786 -1.556255	</row1>
+			<row2>	-8.571939 -1.407523 -8.666951	</row2>
+			<row3>	92.253632 -4.929395 83.212509	</row3>
+		</transform>
+		<castsShadow>	true	</castsShadow>
+		<reflectionVisible>	true	</reflectionVisible>
+		<alwayVisible>	false	</alwayVisible>
+		<ignoreSceneRenderer>	false	</ignoreSceneRenderer>
+	</model>
+	<model
+			chunkId="fffe0000o">
+		<metaData>
+			<created_by>	v_dobrovolskiy	</created_by>
+			<created_on>	1501247622	</created_on>
+			<modified_by>	v_dobrovolskiy	</modified_by>
+			<modified_on>	1501247641	</modified_on>
+		</metaData>
+		<resource>	content/00_22_Hangar_British_Castle_2017/22_Stones/08_Stone/08_Stone.model	</resource>
+		<transform>
+			<row0>	4.676406 2.376693 -16.308203	</row0>
+			<row1>	0.959614 9.516717 1.662100	</row1>
+			<row2>	8.454595 -2.350538 8.577265	</row2>
+			<row3>	92.197365 -5.023092 68.800713	</row3>
+		</transform>
+		<castsShadow>	true	</castsShadow>
+		<reflectionVisible>	true	</reflectionVisible>
+		<alwayVisible>	false	</alwayVisible>
+		<ignoreSceneRenderer>	false	</ignoreSceneRenderer>
+	</model>
+	<model
+			chunkId="fffe0000o">
+		<metaData>
+			<created_by>	v_dobrovolskiy	</created_by>
+			<created_on>	1501247798	</created_on>
+			<modified_by>	v_dobrovolskiy	</modified_by>
+			<modified_on>	1501247808	</modified_on>
+		</metaData>
+		<resource>	content/00_22_Hangar_British_Castle_2017/22_Stones/08_Stone/08_Stone.model	</resource>
+		<transform>
+			<row0>	-4.557778 4.049690 16.009443	</row0>
+			<row1>	0.000001 9.411870 -2.380793	</row1>
+			<row2>	-8.571926 -2.153258 -8.512369	</row2>
+			<row3>	93.872353 -5.790964 47.633030	</row3>
+		</transform>
+		<castsShadow>	true	</castsShadow>
+		<reflectionVisible>	true	</reflectionVisible>
+		<alwayVisible>	false	</alwayVisible>
+		<ignoreSceneRenderer>	false	</ignoreSceneRenderer>
+	</model>
+	<model
+			chunkId="fffe0000o">
+		<metaData>
+			<created_by>	v_dobrovolskiy	</created_by>
+			<created_on>	1501247135	</created_on>
+			<modified_by>	v_dobrovolskiy	</modified_by>
+			<modified_on>	1501247488	</modified_on>
+		</metaData>
+		<resource>	content/00_22_Hangar_British_Castle_2017/22_Stones/04_Stone/04_Stone.model	</resource>
+		<transform>
+			<row0>	1.170878 0.000000 2.898026	</row0>
+			<row1>	0.000000 3.125623 0.000000	</row1>
+			<row2>	-2.898026 0.000000 1.170878	</row2>
+			<row3>	97.285576 -2.023412 81.144867	</row3>
+		</transform>
+		<castsShadow>	true	</castsShadow>
+		<reflectionVisible>	true	</reflectionVisible>
+		<alwayVisible>	false	</alwayVisible>
+		<ignoreSceneRenderer>	false	</ignoreSceneRenderer>
+	</model>
+	<model
+			chunkId="ffff0000o">
+		<metaData>
+			<created_by>	v_dobrovolskiy	</created_by>
+			<created_on>	1501247406	</created_on>
+			<modified_by>	v_dobrovolskiy	</modified_by>
+			<modified_on>	1501247606	</modified_on>
+		</metaData>
+		<resource>	content/06_tutorial/envTT_004_boat_01/envTT_004_boat_01.model	</resource>
+		<transform>
+			<row0>	-18.527924 0.000000 16.682594	</row0>
+			<row1>	0.000000 24.931780 0.000000	</row1>
+			<row2>	-16.682594 0.000000 -18.527924	</row2>
+			<row3>	5.339546 -0.689379 97.520531	</row3>
+		</transform>
+		<castsShadow>	true	</castsShadow>
+		<reflectionVisible>	true	</reflectionVisible>
+		<alwayVisible>	false	</alwayVisible>
+		<ignoreSceneRenderer>	false	</ignoreSceneRenderer>
+	</model>
+	<model
+			chunkId="ffff0000o">
+		<metaData>
+			<created_by>	v_dobrovolskiy	</created_by>
+			<created_on>	1501582233	</created_on>
+			<modified_by>	v_dobrovolskiy	</modified_by>
+			<modified_on>	1501582244	</modified_on>
+		</metaData>
+		<resource>	content/00_22_Hangar_British_Castle_2017/22_Stones/03_Stone/03_Stone.model	</resource>
+		<transform>
+			<row0>	1.319668 0.000000 1.031038	</row0>
+			<row1>	0.000000 1.674682 0.000000	</row1>
+			<row2>	-1.031038 0.000000 1.319668	</row2>
+			<row3>	80.576973 -0.149277 11.429914	</row3>
+		</transform>
+		<castsShadow>	true	</castsShadow>
+		<reflectionVisible>	false	</reflectionVisible>
+		<alwayVisible>	false	</alwayVisible>
+		<ignoreSceneRenderer>	false	</ignoreSceneRenderer>
+	</model>
+	<model
+			chunkId="ffff0000o">
+		<metaData>
+			<created_by>	v_dobrovolskiy	</created_by>
+			<created_on>	1501582247	</created_on>
+			<modified_by>	v_dobrovolskiy	</modified_by>
+			<modified_on>	1501582263	</modified_on>
+		</metaData>
+		<resource>	content/00_22_Hangar_British_Castle_2017/22_Stones/05_Stone/05_Stone.model	</resource>
+		<transform>
+			<row0>	-0.824280 -0.045003 2.043202	</row0>
+			<row1>	-0.120134 2.200388 0.000000	</row1>
+			<row2>	-2.040164 -0.111386 -0.825508	</row2>
+			<row3>	80.911957 -0.062218 15.506150	</row3>
+		</transform>
+		<castsShadow>	true	</castsShadow>
+		<reflectionVisible>	false	</reflectionVisible>
+		<alwayVisible>	false	</alwayVisible>
+		<ignoreSceneRenderer>	false	</ignoreSceneRenderer>
+	</model>
+	<model
+			chunkId="ffff0000o">
+		<metaData>
+			<created_by>	v_dobrovolskiy	</created_by>
+			<created_on>	1501582266	</created_on>
+			<modified_by>	v_dobrovolskiy	</modified_by>
+			<modified_on>	1501582281	</modified_on>
+		</metaData>
+		<resource>	content/00_22_Hangar_British_Castle_2017/22_Stones/02_Stone/02_Stone.model	</resource>
+		<transform>
+			<row0>	-0.961911 0.000000 -0.577974	</row0>
+			<row1>	0.000000 1.122197 0.000000	</row1>
+			<row2>	0.577974 0.000000 -0.961911	</row2>
+			<row3>	81.643837 -0.151770 13.183941	</row3>
+		</transform>
+		<castsShadow>	true	</castsShadow>
+		<reflectionVisible>	false	</reflectionVisible>
+		<alwayVisible>	false	</alwayVisible>
+		<ignoreSceneRenderer>	false	</ignoreSceneRenderer>
+	</model>
+	<model
+			chunkId="ffff0000o">
+		<metaData>
+			<created_by>	v_dobrovolskiy	</created_by>
+			<created_on>	1501582286	</created_on>
+			<modified_by>	v_dobrovolskiy	</modified_by>
+			<modified_on>	1501582297	</modified_on>
+		</metaData>
+		<resource>	content/00_22_Hangar_British_Castle_2017/22_Stones/06_Stone/06_Stone.model	</resource>
+		<transform>
+			<row0>	1.937511 0.000000 -1.118622	</row0>
+			<row1>	0.000000 2.237244 0.000000	</row1>
+			<row2>	1.118622 0.000000 1.937511	</row2>
+			<row3>	81.798492 -0.062385 10.683891	</row3>
+		</transform>
+		<castsShadow>	true	</castsShadow>
+		<reflectionVisible>	false	</reflectionVisible>
+		<alwayVisible>	false	</alwayVisible>
+		<ignoreSceneRenderer>	false	</ignoreSceneRenderer>
+	</model>
+	<model
+			chunkId="ffff0000o">
+		<metaData>
+			<created_by>	v_dobrovolskiy	</created_by>
+			<created_on>	1501582342	</created_on>
+			<modified_by>	v_dobrovolskiy	</modified_by>
+			<modified_on>	1501582360	</modified_on>
+		</metaData>
+		<resource>	content/00_22_Hangar_British_Castle_2017/22_Stones/05_Stone/05_Stone.model	</resource>
+		<transform>
+			<row0>	1.011808 0.000000 -1.902935	</row0>
+			<row1>	0.000000 2.155207 0.000000	</row1>
+			<row2>	1.902935 0.000000 1.011808	</row2>
+			<row3>	81.069099 -0.007911 18.797300	</row3>
+		</transform>
+		<castsShadow>	true	</castsShadow>
+		<reflectionVisible>	false	</reflectionVisible>
+		<alwayVisible>	false	</alwayVisible>
+		<ignoreSceneRenderer>	false	</ignoreSceneRenderer>
+	</model>
+	<model
+			chunkId="ffff0000o">
+		<metaData>
+			<created_by>	v_dobrovolskiy	</created_by>
+			<created_on>	1501582368	</created_on>
+			<modified_by>	v_dobrovolskiy	</modified_by>
+			<modified_on>	1501582387	</modified_on>
+		</metaData>
+		<resource>	content/00_22_Hangar_British_Castle_2017/22_Stones/01_Stone/01_Stone.model	</resource>
+		<transform>
+			<row0>	1.291975 0.000000 0.938675	</row0>
+			<row1>	0.000000 1.596969 0.000000	</row1>
+			<row2>	-0.938675 0.000000 1.291975	</row2>
+			<row3>	81.996284 -0.099076 20.582323	</row3>
+		</transform>
+		<castsShadow>	true	</castsShadow>
+		<reflectionVisible>	false	</reflectionVisible>
+		<alwayVisible>	false	</alwayVisible>
+		<ignoreSceneRenderer>	false	</ignoreSceneRenderer>
+	</model>
+	<model
+			chunkId="ffff0000o">
+		<metaData>
+			<created_by>	v_dobrovolskiy	</created_by>
+			<created_on>	1501582552	</created_on>
+			<modified_by>	v_dobrovolskiy	</modified_by>
+			<modified_on>	1501582578	</modified_on>
+		</metaData>
+		<resource>	content/00_22_Hangar_British_Castle_2017/22_Stones/03_Stone/03_Stone.model	</resource>
+		<transform>
+			<row0>	0.563229 0.008921 2.687760	</row0>
+			<row1>	-0.360867 1.899342 0.062677	</row1>
+			<row2>	-2.663455 -0.255452 0.559877	</row2>
+			<row3>	81.180870 -0.177129 24.356972	</row3>
+		</transform>
+		<castsShadow>	true	</castsShadow>
+		<reflectionVisible>	false	</reflectionVisible>
+		<alwayVisible>	false	</alwayVisible>
+		<ignoreSceneRenderer>	false	</ignoreSceneRenderer>
+	</model>
+	<model
+			chunkId="ffff0000o">
+		<metaData>
+			<created_by>	v_dobrovolskiy	</created_by>
+			<created_on>	1501582629	</created_on>
+			<modified_by>	v_dobrovolskiy	</modified_by>
+			<modified_on>	1501582645	</modified_on>
+		</metaData>
+		<resource>	content/00_22_Hangar_British_Castle_2017/22_Stones/03_Stone/03_Stone.model	</resource>
+		<transform>
+			<row0>	-1.239678 0.006828 -2.450396	</row0>
+			<row1>	0.332348 1.453794 -0.153940	</row1>
+			<row2>	2.427788 -0.195528 -1.230150	</row2>
+			<row3>	84.026192 -0.143063 13.489247	</row3>
+		</transform>
+		<castsShadow>	true	</castsShadow>
+		<reflectionVisible>	false	</reflectionVisible>
+		<alwayVisible>	false	</alwayVisible>
+		<ignoreSceneRenderer>	false	</ignoreSceneRenderer>
+	</model>
+	<model
+			chunkId="ffff0000o">
+		<metaData>
+			<created_by>	v_dobrovolskiy	</created_by>
+			<created_on>	1501582456	</created_on>
+			<modified_by>	v_dobrovolskiy	</modified_by>
+			<modified_on>	1501582719	</modified_on>
+		</metaData>
+		<resource>	content/00_22_Hangar_British_Castle_2017/22_Stones/06_Stone/06_Stone.model	</resource>
+		<transform>
+			<row0>	3.785257 0.000000 -1.928684	</row0>
+			<row1>	0.000000 2.546435 0.000000	</row1>
+			<row2>	1.928684 0.000000 3.785257	</row2>
+			<row3>	84.613098 -0.098654 56.072937	</row3>
+		</transform>
+		<castsShadow>	true	</castsShadow>
+		<reflectionVisible>	false	</reflectionVisible>
+		<alwayVisible>	false	</alwayVisible>
+		<ignoreSceneRenderer>	false	</ignoreSceneRenderer>
+	</model>
+	<model
+			chunkId="ffff0000o">
+		<metaData>
+			<created_by>	v_dobrovolskiy	</created_by>
+			<created_on>	1501582746	</created_on>
+			<modified_by>	v_dobrovolskiy	</modified_by>
+			<modified_on>	1501582761	</modified_on>
+		</metaData>
+		<resource>	content/00_22_Hangar_British_Castle_2017/22_Stones/03_Stone/03_Stone.model	</resource>
+		<transform>
+			<row0>	-2.550210 0.000000 0.588761	</row0>
+			<row1>	0.000000 2.927185 0.000000	</row1>
+			<row2>	-0.588761 0.000000 -2.550210	</row2>
+			<row3>	87.476433 -0.022128 57.190601	</row3>
+		</transform>
+		<castsShadow>	true	</castsShadow>
+		<reflectionVisible>	false	</reflectionVisible>
+		<alwayVisible>	false	</alwayVisible>
+		<ignoreSceneRenderer>	false	</ignoreSceneRenderer>
+	</model>
+	<model
+			chunkId="ffff0000o">
+		<metaData>
+			<created_by>	v_dobrovolskiy	</created_by>
+			<created_on>	1501582780	</created_on>
+			<modified_by>	v_dobrovolskiy	</modified_by>
+			<modified_on>	1501582804	</modified_on>
+		</metaData>
+		<resource>	content/00_22_Hangar_British_Castle_2017/22_Stones/01_Stone/01_Stone.model	</resource>
+		<transform>
+			<row0>	-1.251473 0.000000 -2.167615	</row0>
+			<row1>	0.000000 2.502947 0.000000	</row1>
+			<row2>	2.167615 0.000000 -1.251473	</row2>
+			<row3>	82.587242 -0.645419 54.458351	</row3>
+		</transform>
+		<castsShadow>	true	</castsShadow>
+		<reflectionVisible>	false	</reflectionVisible>
+		<alwayVisible>	false	</alwayVisible>
+		<ignoreSceneRenderer>	false	</ignoreSceneRenderer>
+	</model>
+	<model
+			chunkId="ffff0000o">
+		<metaData>
+			<created_by>	v_dobrovolskiy	</created_by>
+			<created_on>	1501582808	</created_on>
+			<modified_by>	v_dobrovolskiy	</modified_by>
+			<modified_on>	1501582833	</modified_on>
+		</metaData>
+		<resource>	content/00_22_Hangar_British_Castle_2017/22_Stones/04_Stone/04_Stone.model	</resource>
+		<transform>
+			<row0>	2.439396 0.000000 0.273748	</row0>
+			<row1>	0.000000 1.434672 0.000000	</row1>
+			<row2>	-0.474171 0.000000 1.408313	</row2>
+			<row3>	85.627037 -0.211471 55.041885	</row3>
+		</transform>
+		<castsShadow>	true	</castsShadow>
+		<reflectionVisible>	false	</reflectionVisible>
+		<alwayVisible>	false	</alwayVisible>
+		<ignoreSceneRenderer>	false	</ignoreSceneRenderer>
+	</model>
+	<model
+			chunkId="ffff0000o">
+		<metaData>
+			<created_by>	v_dobrovolskiy	</created_by>
+			<created_on>	1501583133	</created_on>
+			<modified_by>	v_dobrovolskiy	</modified_by>
+			<modified_on>	1501583156	</modified_on>
+		</metaData>
+		<resource>	content/00_22_Hangar_British_Castle_2017/22_Stones/04_Stone/04_Stone.model	</resource>
+		<transform>
+			<row0>	-0.260831 0.000000 1.129786	</row0>
+			<row1>	0.000000 1.159504 0.000000	</row1>
+			<row2>	-1.129786 0.000000 -0.260831	</row2>
+			<row3>	86.639748 0.090040 7.952730	</row3>
+		</transform>
+		<castsShadow>	true	</castsShadow>
+		<reflectionVisible>	false	</reflectionVisible>
+		<alwayVisible>	false	</alwayVisible>
+		<ignoreSceneRenderer>	false	</ignoreSceneRenderer>
+	</model>
+	<model
+			chunkId="ffff0000o">
+		<metaData>
+			<created_by>	v_dobrovolskiy	</created_by>
+			<created_on>	1501582204	</created_on>
+			<modified_by>	v_dobrovolskiy	</modified_by>
+			<modified_on>	1501583242	</modified_on>
+		</metaData>
+		<resource>	content/00_22_Hangar_British_Castle_2017/22_Stones/04_Stone/04_Stone.model	</resource>
+		<transform>
+			<row0>	-0.028627 0.000000 -0.819770	</row0>
+			<row1>	0.000000 0.820270 0.000000	</row1>
+			<row2>	0.819770 0.000000 -0.028627	</row2>
+			<row3>	79.263229 0.088402 14.045053	</row3>
+		</transform>
+		<castsShadow>	true	</castsShadow>
+		<reflectionVisible>	false	</reflectionVisible>
+		<alwayVisible>	false	</alwayVisible>
+		<ignoreSceneRenderer>	false	</ignoreSceneRenderer>
+	</model>
+	<model
+			chunkId="ffff0000o">
+		<metaData>
+			<created_by>	v_dobrovolskiy	</created_by>
+			<created_on>	1501772621	</created_on>
+			<modified_by>	v_dobrovolskiy	</modified_by>
+			<modified_on>	1501772656	</modified_on>
+		</metaData>
+		<resource>	content/00_22_Hangar_British_Castle_2017/22_Stones/06_Stone/06_Stone.model	</resource>
+		<transform>
+			<row0>	0.883268 0.000000 4.155447	</row0>
+			<row1>	0.000000 2.121938 0.000000	</row1>
+			<row2>	-4.155447 0.000000 0.883268	</row2>
+			<row3>	93.862305 0.039619 66.511345	</row3>
+		</transform>
+		<castsShadow>	true	</castsShadow>
+		<reflectionVisible>	false	</reflectionVisible>
+		<alwayVisible>	false	</alwayVisible>
+		<ignoreSceneRenderer>	false	</ignoreSceneRenderer>
+	</model>
+	<model
+			chunkId="ffff0000o">
+		<metaData>
+			<created_by>	v_dobrovolskiy	</created_by>
+			<created_on>	1501582429	</created_on>
+			<modified_by>	v_dobrovolskiy	</modified_by>
+			<modified_on>	1501852904	</modified_on>
+		</metaData>
+		<resource>	content/00_22_Hangar_British_Castle_2017/22_Stones/06_Stone/06_Stone.model	</resource>
+		<transform>
+			<row0>	0.883269 0.000000 4.155457	</row0>
+			<row1>	0.000000 1.732980 0.000000	</row1>
+			<row2>	-4.155457 0.000000 0.883269	</row2>
+			<row3>	83.815216 -0.097858 52.731716	</row3>
+		</transform>
+		<castsShadow>	true	</castsShadow>
+		<reflectionVisible>	false	</reflectionVisible>
+		<alwayVisible>	false	</alwayVisible>
+		<ignoreSceneRenderer>	false	</ignoreSceneRenderer>
+	</model>
+	<model
+			chunkId="ffff0000o">
+		<metaData>
+			<created_by>	v_dobrovolskiy	</created_by>
+			<created_on>	1501853142	</created_on>
+			<modified_by>	v_dobrovolskiy	</modified_by>
+			<modified_on>	1501853159	</modified_on>
+		</metaData>
+		<resource>	content/00_22_Hangar_British_Castle_2017/08_Statues/Statue_01.model	</resource>
+		<transform>
+			<row0>	-0.451534 0.000000 0.599207	</row0>
+			<row1>	0.000000 0.750289 0.000000	</row1>
+			<row2>	-0.599207 0.000000 -0.451534	</row2>
+			<row3>	80.412003 -0.079640 47.985928	</row3>
+		</transform>
+		<castsShadow>	true	</castsShadow>
+		<reflectionVisible>	false	</reflectionVisible>
+		<alwayVisible>	false	</alwayVisible>
+		<ignoreSceneRenderer>	false	</ignoreSceneRenderer>
+	</model>
+	<model
+			chunkId="ffff0000o">
+		<metaData>
+			<created_by>	v_dobrovolskiy	</created_by>
+			<created_on>	1501851777	</created_on>
+			<modified_by>	v_dobrovolskiy	</modified_by>
+			<modified_on>	1501853164	</modified_on>
+		</metaData>
+		<resource>	content/00_22_Hangar_British_Castle_2017/08_Statues/Statue_01.model	</resource>
+		<transform>
+			<row0>	-0.451534 0.000000 0.599207	</row0>
+			<row1>	0.000000 0.750289 0.000000	</row1>
+			<row2>	-0.599207 0.000000 -0.451534	</row2>
+			<row3>	77.405045 -0.060711 47.781986	</row3>
+		</transform>
+		<castsShadow>	true	</castsShadow>
+		<reflectionVisible>	false	</reflectionVisible>
+		<alwayVisible>	false	</alwayVisible>
+		<ignoreSceneRenderer>	false	</ignoreSceneRenderer>
+	</model>
+	<model
+			chunkId="ffff0000o">
+		<metaData>
+			<created_by>	v_dobrovolskiy	</created_by>
+			<created_on>	1501770400	</created_on>
+			<modified_by>	v_dobrovolskiy	</modified_by>
+			<modified_on>	1502284559	</modified_on>
+		</metaData>
+		<resource>	content/00_22_Hangar_British_Castle_2017/13_Planes/GB33_HURRICANE_MK1.model	</resource>
+		<transform>
+			<row0>	0.054207 0.000000 -0.213216	</row0>
+			<row1>	0.000000 0.220000 0.000000	</row1>
+			<row2>	0.213216 0.000000 0.054207	</row2>
+			<row3>	95.226883 0.021769 3.335183	</row3>
+		</transform>
+		<castsShadow>	true	</castsShadow>
+		<reflectionVisible>	false	</reflectionVisible>
+		<alwayVisible>	false	</alwayVisible>
+		<ignoreSceneRenderer>	false	</ignoreSceneRenderer>
+	</model>
+	<model
+			chunkId="ffff0000o">
+		<metaData>
+			<created_by>	v_dobrovolskiy	</created_by>
+			<created_on>	1501770517	</created_on>
+			<modified_by>	v_dobrovolskiy	</modified_by>
+			<modified_on>	1502284577	</modified_on>
+		</metaData>
+		<resource>	content/00_22_Hangar_British_Castle_2017/13_Planes/GB34_TORNADO.model	</resource>
+		<transform>
+			<row0>	0.039691 0.000000 -0.216390	</row0>
+			<row1>	0.000000 0.220000 0.000000	</row1>
+			<row2>	0.216390 0.000000 0.039691	</row2>
+			<row3>	95.240036 -0.002280 9.043488	</row3>
+		</transform>
+		<castsShadow>	true	</castsShadow>
+		<reflectionVisible>	false	</reflectionVisible>
+		<alwayVisible>	false	</alwayVisible>
+		<ignoreSceneRenderer>	false	</ignoreSceneRenderer>
+	</model>
+	<model
+			chunkId="ffff0000o">
+		<metaData>
+			<created_by>	v_dobrovolskiy	</created_by>
+			<created_on>	1501508762	</created_on>
+			<modified_by>	v_dobrovolskiy	</modified_by>
+			<modified_on>	1501508773	</modified_on>
+		</metaData>
+		<resource>	content/00_22_Hangar_British_Castle_2017/23_Additional_Props/Willys.model	</resource>
+		<transform>
+			<row0>	-0.069324 0.000000 -0.241760	</row0>
+			<row1>	0.000000 0.251504 0.000000	</row1>
+			<row2>	0.241760 0.000000 -0.069324	</row2>
+			<row3>	90.504906 -0.042903 0.375273	</row3>
+		</transform>
+		<castsShadow>	true	</castsShadow>
+		<reflectionVisible>	false	</reflectionVisible>
+		<alwayVisible>	false	</alwayVisible>
+		<ignoreSceneRenderer>	false	</ignoreSceneRenderer>
+	</model>
+	<model
+			chunkId="ffff0000o">
+		<metaData>
+			<created_by>	v_dobrovolskiy	</created_by>
+			<created_on>	1501851682	</created_on>
+			<modified_by>	v_dobrovolskiy	</modified_by>
+			<modified_on>	1501852774	</modified_on>
+		</metaData>
+		<resource>	content/00_22_Hangar_British_Castle_2017/04_Castle/04_Castle_port.model	</resource>
+		<transform>
+			<row0>	-0.015177 0.000000 0.289592	</row0>
+			<row1>	0.000000 0.289990 0.000000	</row1>
+			<row2>	-0.289592 0.000000 -0.015177	</row2>
+			<row3>	78.579063 -0.493320 38.706039	</row3>
+		</transform>
+		<castsShadow>	true	</castsShadow>
+		<reflectionVisible>	false	</reflectionVisible>
+		<alwayVisible>	false	</alwayVisible>
+		<ignoreSceneRenderer>	false	</ignoreSceneRenderer>
+	</model>
+	<model
+			chunkId="ffff0000o">
+		<metaData>
+			<created_by>	v_dobrovolskiy	</created_by>
+			<created_on>	1502786374	</created_on>
+			<modified_by>	v_dobrovolskiy	</modified_by>
+			<modified_on>	1502786418	</modified_on>
+		</metaData>
+		<resource>	content/00_22_Hangar_British_Castle_2017/08_Statues/Statue_02.model	</resource>
+		<transform>
+			<row0>	-0.328778 0.000000 -0.674095	</row0>
+			<row1>	0.000000 0.749999 0.000000	</row1>
+			<row2>	0.674095 0.000000 -0.328778	</row2>
+			<row3>	75.046288 -0.064612 40.712723	</row3>
+		</transform>
+		<castsShadow>	true	</castsShadow>
+		<reflectionVisible>	false	</reflectionVisible>
+		<alwayVisible>	false	</alwayVisible>
+		<ignoreSceneRenderer>	false	</ignoreSceneRenderer>
+	</model>
+	<model
+			chunkId="ffff0000o">
+		<metaData>
+			<created_by>	v_dobrovolskiy	</created_by>
+			<created_on>	1501852844	</created_on>
+			<modified_by>	v_dobrovolskiy	</modified_by>
+			<modified_on>	1502786488	</modified_on>
+		</metaData>
+		<resource>	content/00_22_Hangar_British_Castle_2017/08_Statues/Statue_01.model	</resource>
+		<transform>
+			<row0>	-0.695653 0.000000 -0.281062	</row0>
+			<row1>	0.000000 0.750287 0.000000	</row1>
+			<row2>	0.281062 0.000000 -0.695653	</row2>
+			<row3>	75.354332 -0.046043 31.224628	</row3>
+		</transform>
+		<castsShadow>	true	</castsShadow>
+		<reflectionVisible>	false	</reflectionVisible>
+		<alwayVisible>	false	</alwayVisible>
+		<ignoreSceneRenderer>	false	</ignoreSceneRenderer>
+	</model>
+	<model
+			chunkId="ffff0000o">
+		<metaData>
+			<created_by>	v_dobrovolskiy	</created_by>
+			<created_on>	1502786509	</created_on>
+			<modified_by>	v_dobrovolskiy	</modified_by>
+			<modified_on>	1502786545	</modified_on>
+		</metaData>
+		<resource>	content/00_22_Hangar_British_Castle_2017/08_Statues/Statue_03.model	</resource>
+		<transform>
+			<row0>	-0.614363 0.000000 -0.430182	</row0>
+			<row1>	0.000000 0.749999 0.000000	</row1>
+			<row2>	0.430182 0.000000 -0.614363	</row2>
+			<row3>	74.882523 -0.077225 46.270779	</row3>
+		</transform>
+		<castsShadow>	true	</castsShadow>
+		<reflectionVisible>	false	</reflectionVisible>
+		<alwayVisible>	false	</alwayVisible>
+		<ignoreSceneRenderer>	false	</ignoreSceneRenderer>
+	</model>
+	<model
+			chunkId="ffff0000o">
+		<metaData>
+			<created_by>	v_dobrovolskiy	</created_by>
+			<created_on>	1502786302	</created_on>
+			<modified_by>	v_dobrovolskiy	</modified_by>
+			<modified_on>	1502787863	</modified_on>
+		</metaData>
+		<resource>	content/00_22_Hangar_British_Castle_2017/08_Statues/Statue_04.model	</resource>
+		<transform>
+			<row0>	-0.649518 0.000000 -0.374999	</row0>
+			<row1>	0.000000 0.749999 0.000000	</row1>
+			<row2>	0.375000 0.000000 -0.649518	</row2>
+			<row3>	75.275948 -0.074519 34.182934	</row3>
+		</transform>
+		<castsShadow>	true	</castsShadow>
+		<reflectionVisible>	false	</reflectionVisible>
+		<alwayVisible>	false	</alwayVisible>
+		<ignoreSceneRenderer>	false	</ignoreSceneRenderer>
+	</model>
+	<model
+			chunkId="ffff0000o">
+		<metaData>
+			<created_by>	v_dobrovolskiy	</created_by>
+			<created_on>	1502786555	</created_on>
+			<modified_by>	v_dobrovolskiy	</modified_by>
+			<modified_on>	1502787874	</modified_on>
+		</metaData>
+		<resource>	content/00_22_Hangar_British_Castle_2017/08_Statues/Statue_03.model	</resource>
+		<transform>
+			<row0>	-0.614362 0.000000 -0.430182	</row0>
+			<row1>	0.000000 0.749998 0.000000	</row1>
+			<row2>	0.430182 0.000000 -0.614362	</row2>
+			<row3>	75.276947 -0.065110 37.112801	</row3>
+		</transform>
+		<castsShadow>	true	</castsShadow>
+		<reflectionVisible>	false	</reflectionVisible>
+		<alwayVisible>	false	</alwayVisible>
+		<ignoreSceneRenderer>	false	</ignoreSceneRenderer>
+	</model>
+	<model
+			chunkId="ffff0000o">
+		<metaData>
+			<created_by>	v_dobrovolskiy	</created_by>
+			<created_on>	1501063403	</created_on>
+			<modified_by>	v_dobrovolskiy	</modified_by>
+			<modified_on>	1501247488	</modified_on>
+		</metaData>
+		<resource>	content/00_22_Hangar_British_Castle_2017/sky/sky.model	</resource>
+		<transform>
+			<row0>	499.999786 0.000000 0.000000	</row0>
+			<row1>	0.000000 499.999817 0.000000	</row1>
+			<row2>	0.000000 0.000000 499.999847	</row2>
+			<row3>	99.999847 -10.172998 0.000000	</row3>
+		</transform>
+		<castsShadow>	true	</castsShadow>
+		<reflectionVisible>	true	</reflectionVisible>
+		<alwayVisible>	false	</alwayVisible>
+		<ignoreSceneRenderer>	false	</ignoreSceneRenderer>
+	</model>
+	<model
+			chunkId="ffff0000o">	04_Tower
+		<metaData>
+			<created_by>	v_grishchenko	</created_by>
+			<created_on>	1504535641	</created_on>
+			<modified_by>	v_minickiy	</modified_by>
+			<modified_on>	1505810978	</modified_on>
+		</metaData>
+		<resource>	content/00_22_Hangar_British_Castle_2017/04_Castle/04_Tower.model	</resource>
+		<animation>
+			<name>	04_Tower	</name>
+			<frameRateMultiplier>	1.000000	</frameRateMultiplier>
+		</animation>
+		<transform>
+			<row0>	0.090000 0.000000 0.000000	</row0>
+			<row1>	0.000000 0.090000 0.000000	</row1>
+			<row2>	0.000000 0.000000 0.090000	</row2>
+			<row3>	100.683983 -0.020000 -0.070000	</row3>
+		</transform>
+		<castsShadow>	true	</castsShadow>
+		<reflectionVisible>	false	</reflectionVisible>
+		<alwayVisible>	false	</alwayVisible>
+		<ignoreSceneRenderer>	false	</ignoreSceneRenderer>
+	</model>
+	<model
+			chunkId="ffff0000o">	hurricane_still_hide
+		<metaData>
+			<created_by>	s_andreev	</created_by>
+			<created_on>	1506328549	</created_on>
+			<modified_by>	s_andreev	</modified_by>
+			<modified_on>	1506330210	</modified_on>
+		</metaData>
+		<resource>	content/00_22_Hangar_British_Castle_2017/21_Characters/pilot_hurricane/hurricane_still.model	</resource>
+		<transform>
+			<row0>	5.433975 0.000000 -21.318340	</row0>
+			<row1>	0.000000 21.999996 0.000000	</row1>
+			<row2>	21.318344 0.000000 5.433976	</row2>
+			<row3>	95.288940 0.000000 6.065997	</row3>
+		</transform>
+		<castsShadow>	true	</castsShadow>
+		<reflectionVisible>	false	</reflectionVisible>
+		<alwayVisible>	false	</alwayVisible>
+		<ignoreSceneRenderer>	false	</ignoreSceneRenderer>
+	</model>
+	<model
+			chunkId="00000000o">
+		<metaData>
+			<created_by>	v_dobrovolskiy	</created_by>
+			<created_on>	1501164297	</created_on>
+			<modified_by>	v_dobrovolskiy	</modified_by>
+			<modified_on>	1501164343	</modified_on>
+		</metaData>
+		<resource>	content/00_22_Hangar_British_Castle_2017/05_Military_cars/05_Cargo_truck.model	</resource>
+		<transform>
+			<row0>	-0.089274 -0.000000 -0.201072	</row0>
+			<row1>	0.000000 0.220000 -0.000000	</row1>
+			<row2>	0.201072 -0.000000 -0.089274	</row2>
+			<row3>	15.548711 0.008568 3.880203	</row3>
+		</transform>
+		<castsShadow>	true	</castsShadow>
+		<reflectionVisible>	false	</reflectionVisible>
+		<alwayVisible>	false	</alwayVisible>
+		<ignoreSceneRenderer>	false	</ignoreSceneRenderer>
+	</model>
+	<model
+			chunkId="00000000o">
+		<metaData>
+			<created_by>	v_dobrovolskiy	</created_by>
+			<created_on>	1501164347	</created_on>
+			<modified_by>	v_dobrovolskiy	</modified_by>
+			<modified_on>	1501164371	</modified_on>
+		</metaData>
+		<resource>	content/00_22_Hangar_British_Castle_2017/05_Military_cars/05_Cargo_truck.model	</resource>
+		<transform>
+			<row0>	-0.017551 -0.000000 -0.219298	</row0>
+			<row1>	-0.000000 0.220000 -0.000000	</row1>
+			<row2>	0.219298 0.000000 -0.017551	</row2>
+			<row3>	15.404279 0.002942 4.993259	</row3>
+		</transform>
+		<castsShadow>	true	</castsShadow>
+		<reflectionVisible>	false	</reflectionVisible>
+		<alwayVisible>	false	</alwayVisible>
+		<ignoreSceneRenderer>	false	</ignoreSceneRenderer>
+	</model>
+	<model
+			chunkId="00000000o">
+		<metaData>
+			<created_by>	v_dobrovolskiy	</created_by>
+			<created_on>	1501582914	</created_on>
+			<modified_by>	v_dobrovolskiy	</modified_by>
+			<modified_on>	1501583492	</modified_on>
+		</metaData>
+		<resource>	content/00_22_Hangar_British_Castle_2017/22_Stones/04_Stone/04_Stone.model	</resource>
+		<transform>
+			<row0>	1.888125 0.000000 -0.132031	</row0>
+			<row1>	0.000000 1.892735 0.000000	</row1>
+			<row2>	0.132031 0.000000 1.888125	</row2>
+			<row3>	13.514842 -0.103742 54.005314	</row3>
+		</transform>
+		<castsShadow>	true	</castsShadow>
+		<reflectionVisible>	false	</reflectionVisible>
+		<alwayVisible>	false	</alwayVisible>
+		<ignoreSceneRenderer>	false	</ignoreSceneRenderer>
+	</model>
+	<model
+			chunkId="00000000o">
+		<metaData>
+			<created_by>	v_dobrovolskiy	</created_by>
+			<created_on>	1501582878	</created_on>
+			<modified_by>	v_dobrovolskiy	</modified_by>
+			<modified_on>	1501583536	</modified_on>
+		</metaData>
+		<resource>	content/00_22_Hangar_British_Castle_2017/22_Stones/06_Stone/06_Stone.model	</resource>
+		<transform>
+			<row0>	-4.817986 0.000000 2.781659	</row0>
+			<row1>	0.000000 5.563328 0.000000	</row1>
+			<row2>	-2.781659 0.000000 -4.817986	</row2>
+			<row3>	14.535123 0.163584 54.066837	</row3>
+		</transform>
+		<castsShadow>	true	</castsShadow>
+		<reflectionVisible>	false	</reflectionVisible>
+		<alwayVisible>	false	</alwayVisible>
+		<ignoreSceneRenderer>	false	</ignoreSceneRenderer>
+	</model>
+	<model
+			chunkId="00000000o">
+		<metaData>
+			<created_by>	v_dobrovolskiy	</created_by>
+			<created_on>	1501772680	</created_on>
+			<modified_by>	v_dobrovolskiy	</modified_by>
+			<modified_on>	1501772744	</modified_on>
+		</metaData>
+		<resource>	content/00_22_Hangar_British_Castle_2017/22_Stones/05_Stone/05_Stone.model	</resource>
+		<transform>
+			<row0>	6.027289 0.000000 3.914172	</row0>
+			<row1>	0.000000 6.496645 0.000000	</row1>
+			<row2>	-3.914172 0.000000 6.027289	</row2>
+			<row3>	9.648306 -0.700185 70.279602	</row3>
+		</transform>
+		<castsShadow>	true	</castsShadow>
+		<reflectionVisible>	false	</reflectionVisible>
+		<alwayVisible>	false	</alwayVisible>
+		<ignoreSceneRenderer>	false	</ignoreSceneRenderer>
+	</model>
+	<model
+			chunkId="00000000o">
+		<metaData>
+			<created_by>	v_dobrovolskiy	</created_by>
+			<created_on>	1502182646	</created_on>
+			<modified_by>	v_dobrovolskiy	</modified_by>
+			<modified_on>	1502182666	</modified_on>
+		</metaData>
+		<resource>	content/00_22_Hangar_British_Castle_2017/castle_church/castle_church.model	</resource>
+		<transform>
+			<row0>	0.220000 0.000000 0.000000	</row0>
+			<row1>	0.000000 0.220000 0.000000	</row1>
+			<row2>	0.000000 0.000000 0.220000	</row2>
+			<row3>	0.000031 0.000000 0.000015	</row3>
+		</transform>
+		<castsShadow>	true	</castsShadow>
+		<reflectionVisible>	false	</reflectionVisible>
+		<alwayVisible>	false	</alwayVisible>
+		<ignoreSceneRenderer>	false	</ignoreSceneRenderer>
+	</model>
+	<model
+			chunkId="00000000o">
+		<metaData>
+			<created_by>	v_dobrovolskiy	</created_by>
+			<created_on>	1501757120	</created_on>
+			<modified_by>	v_dobrovolskiy	</modified_by>
+			<modified_on>	1502284622	</modified_on>
+		</metaData>
+		<resource>	content/00_22_Hangar_British_Castle_2017/19_Tents/19_Tents_war.model	</resource>
+		<transform>
+			<row0>	0.000000 0.000000 0.152289	</row0>
+			<row1>	0.000000 0.163643 0.000000	</row1>
+			<row2>	-0.163643 0.000000 0.000000	</row2>
+			<row3>	5.328492 -0.007066 8.882849	</row3>
+		</transform>
+		<castsShadow>	true	</castsShadow>
+		<reflectionVisible>	false	</reflectionVisible>
+		<alwayVisible>	false	</alwayVisible>
+		<ignoreSceneRenderer>	false	</ignoreSceneRenderer>
+	</model>
+	<model
+			chunkId="00000000o">
+		<metaData>
+			<created_by>	v_dobrovolskiy	</created_by>
+			<created_on>	1501757317	</created_on>
+			<modified_by>	v_dobrovolskiy	</modified_by>
+			<modified_on>	1502284631	</modified_on>
+		</metaData>
+		<resource>	content/00_22_Hangar_British_Castle_2017/19_Tents/19_Tents_war.model	</resource>
+		<transform>
+			<row0>	0.000000 0.000000 -0.152289	</row0>
+			<row1>	0.000000 0.163641 0.000000	</row1>
+			<row2>	0.163641 0.000000 0.000000	</row2>
+			<row3>	3.914969 -0.003471 8.694499	</row3>
+		</transform>
+		<castsShadow>	true	</castsShadow>
+		<reflectionVisible>	false	</reflectionVisible>
+		<alwayVisible>	false	</alwayVisible>
+		<ignoreSceneRenderer>	false	</ignoreSceneRenderer>
+	</model>
+	<model
+			chunkId="00000000o">
+		<metaData>
+			<created_by>	v_dobrovolskiy	</created_by>
+			<created_on>	1501757072	</created_on>
+			<modified_by>	v_dobrovolskiy	</modified_by>
+			<modified_on>	1502284651	</modified_on>
+		</metaData>
+		<resource>	content/00_22_Hangar_British_Castle_2017/19_Tents/19_Tents_war.model	</resource>
+		<transform>
+			<row0>	0.000000 0.000000 0.152289	</row0>
+			<row1>	0.000000 0.163643 0.000000	</row1>
+			<row2>	-0.163643 0.000000 0.000000	</row2>
+			<row3>	7.081743 0.014331 8.933704	</row3>
+		</transform>
+		<castsShadow>	true	</castsShadow>
+		<reflectionVisible>	false	</reflectionVisible>
+		<alwayVisible>	false	</alwayVisible>
+		<ignoreSceneRenderer>	false	</ignoreSceneRenderer>
+	</model>
+	<model
+			chunkId="00000000o">
+		<metaData>
+			<created_by>	v_dobrovolskiy	</created_by>
+			<created_on>	1501757012	</created_on>
+			<modified_by>	v_dobrovolskiy	</modified_by>
+			<modified_on>	1501757693	</modified_on>
+		</metaData>
+		<resource>	content/00_22_Hangar_British_Castle_2017/23_Additional_Props/Barricade/Barricade.model	</resource>
+		<transform>
+			<row0>	-0.215747 0.000000 -0.114715	</row0>
+			<row1>	0.000000 0.244349 0.000000	</row1>
+			<row2>	0.114715 0.000000 -0.215747	</row2>
+			<row3>	4.031350 -0.014802 9.982617	</row3>
+		</transform>
+		<castsShadow>	true	</castsShadow>
+		<reflectionVisible>	false	</reflectionVisible>
+		<alwayVisible>	false	</alwayVisible>
+		<ignoreSceneRenderer>	false	</ignoreSceneRenderer>
+	</model>
+	<model
+			chunkId="00000000o">
+		<metaData>
+			<created_by>	v_dobrovolskiy	</created_by>
+			<created_on>	1501755297	</created_on>
+			<modified_by>	v_dobrovolskiy	</modified_by>
+			<modified_on>	1501757693	</modified_on>
+		</metaData>
+		<resource>	content/00_22_Hangar_British_Castle_2017/23_Additional_Props/Barricade/Barricade.model	</resource>
+		<transform>
+			<row0>	-0.290162 0.000000 0.010132	</row0>
+			<row1>	0.000000 0.290339 0.000000	</row1>
+			<row2>	-0.010132 0.000000 -0.290162	</row2>
+			<row3>	7.121399 -0.044646 10.343722	</row3>
+		</transform>
+		<castsShadow>	true	</castsShadow>
+		<reflectionVisible>	false	</reflectionVisible>
+		<alwayVisible>	false	</alwayVisible>
+		<ignoreSceneRenderer>	false	</ignoreSceneRenderer>
+	</model>
+	<model
+			chunkId="00000000o">
+		<metaData>
+			<created_by>	v_dobrovolskiy	</created_by>
+			<created_on>	1501755334	</created_on>
+			<modified_by>	v_dobrovolskiy	</modified_by>
+			<modified_on>	1501757693	</modified_on>
+		</metaData>
+		<resource>	content/00_22_Hangar_British_Castle_2017/23_Additional_Props/Barricade/Logs.model	</resource>
+		<transform>
+			<row0>	0.286844 -0.000000 0.152165	</row0>
+			<row1>	0.000000 0.324706 0.000000	</row1>
+			<row2>	-0.152165 -0.000000 0.286844	</row2>
+			<row3>	9.008940 -0.046354 10.629254	</row3>
+		</transform>
+		<castsShadow>	true	</castsShadow>
+		<reflectionVisible>	false	</reflectionVisible>
+		<alwayVisible>	false	</alwayVisible>
+		<ignoreSceneRenderer>	false	</ignoreSceneRenderer>
+	</model>
+	<model
+			chunkId="00000000o">
+		<metaData>
+			<created_by>	v_dobrovolskiy	</created_by>
+			<created_on>	1501755334	</created_on>
+			<modified_by>	v_dobrovolskiy	</modified_by>
+			<modified_on>	1501757006	</modified_on>
+		</metaData>
+		<resource>	content/00_22_Hangar_British_Castle_2017/23_Additional_Props/Barricade/Sandbags_stack.model	</resource>
+		<transform>
+			<row0>	0.209260 -0.000000 -0.025897	</row0>
+			<row1>	0.000000 0.210857 0.000000	</row1>
+			<row2>	0.025897 -0.000000 0.209260	</row2>
+			<row3>	8.517522 -0.046354 11.801459	</row3>
+		</transform>
+		<castsShadow>	true	</castsShadow>
+		<reflectionVisible>	false	</reflectionVisible>
+		<alwayVisible>	false	</alwayVisible>
+		<ignoreSceneRenderer>	false	</ignoreSceneRenderer>
+	</model>
+	<model
+			chunkId="00000000o">
+		<metaData>
+			<created_by>	v_dobrovolskiy	</created_by>
+			<created_on>	1501755334	</created_on>
+			<modified_by>	v_dobrovolskiy	</modified_by>
+			<modified_on>	1501757693	</modified_on>
+		</metaData>
+		<resource>	content/00_22_Hangar_British_Castle_2017/23_Additional_Props/Barricade/Sandbags_stack.model	</resource>
+		<transform>
+			<row0>	0.174157 -0.000000 0.004188	</row0>
+			<row1>	0.000000 0.174207 0.000000	</row1>
+			<row2>	-0.004188 -0.000000 0.174157	</row2>
+			<row3>	9.273532 -0.046354 10.736666	</row3>
+		</transform>
+		<castsShadow>	true	</castsShadow>
+		<reflectionVisible>	false	</reflectionVisible>
+		<alwayVisible>	false	</alwayVisible>
+		<ignoreSceneRenderer>	false	</ignoreSceneRenderer>
+	</model>
+	<model
+			chunkId="00000000o">
+		<metaData>
+			<created_by>	v_dobrovolskiy	</created_by>
+			<created_on>	1501755334	</created_on>
+			<modified_by>	v_dobrovolskiy	</modified_by>
+			<modified_on>	1501757693	</modified_on>
+		</metaData>
+		<resource>	content/00_22_Hangar_British_Castle_2017/23_Additional_Props/Barricade/Shield_1.model	</resource>
+		<transform>
+			<row0>	0.259670 -0.000000 0.069312	</row0>
+			<row1>	0.000000 0.268760 0.000000	</row1>
+			<row2>	-0.069312 -0.000000 0.259670	</row2>
+			<row3>	9.228343 -0.046354 10.898180	</row3>
+		</transform>
+		<castsShadow>	true	</castsShadow>
+		<reflectionVisible>	false	</reflectionVisible>
+		<alwayVisible>	false	</alwayVisible>
+		<ignoreSceneRenderer>	false	</ignoreSceneRenderer>
+	</model>
+	<model
+			chunkId="00000000o">
+		<metaData>
+			<created_by>	v_dobrovolskiy	</created_by>
+			<created_on>	1501757620	</created_on>
+			<modified_by>	v_dobrovolskiy	</modified_by>
+			<modified_on>	1501757693	</modified_on>
+		</metaData>
+		<resource>	content/00_22_Hangar_British_Castle_2017/23_Additional_Props/Barricade/Shield_2.model	</resource>
+		<transform>
+			<row0>	-0.306496 0.000000 0.016063	</row0>
+			<row1>	0.000000 0.306917 0.000000	</row1>
+			<row2>	-0.016063 0.000000 -0.306496	</row2>
+			<row3>	5.032794 -0.032912 10.862495	</row3>
+		</transform>
+		<castsShadow>	true	</castsShadow>
+		<reflectionVisible>	false	</reflectionVisible>
+		<alwayVisible>	false	</alwayVisible>
+		<ignoreSceneRenderer>	false	</ignoreSceneRenderer>
+	</model>
+	<model
+			chunkId="00000000o">
+		<metaData>
+			<created_by>	v_dobrovolskiy	</created_by>
+			<created_on>	1501755334	</created_on>
+			<modified_by>	v_dobrovolskiy	</modified_by>
+			<modified_on>	1501757693	</modified_on>
+		</metaData>
+		<resource>	content/00_22_Hangar_British_Castle_2017/23_Additional_Props/Barricade/Shield_2.model	</resource>
+		<transform>
+			<row0>	-0.255589 0.000000 0.068747	</row0>
+			<row1>	0.000000 0.264674 0.000000	</row1>
+			<row2>	-0.068747 0.000000 -0.255589	</row2>
+			<row3>	8.571786 -0.046354 10.838370	</row3>
+		</transform>
+		<castsShadow>	true	</castsShadow>
+		<reflectionVisible>	false	</reflectionVisible>
+		<alwayVisible>	false	</alwayVisible>
+		<ignoreSceneRenderer>	false	</ignoreSceneRenderer>
+	</model>
+	<model
+			chunkId="00000000o">
+		<metaData>
+			<created_by>	v_dobrovolskiy	</created_by>
+			<created_on>	1501757372	</created_on>
+			<modified_by>	v_dobrovolskiy	</modified_by>
+			<modified_on>	1502284681	</modified_on>
+		</metaData>
+		<resource>	content/00_22_Hangar_British_Castle_2017/23_Additional_Props/Barricade/Tun.model	</resource>
+		<transform>
+			<row0>	-0.165268 0.000000 -0.060152	</row0>
+			<row1>	0.000000 0.175874 0.000000	</row1>
+			<row2>	0.060152 0.000000 -0.165268	</row2>
+			<row3>	4.708945 -0.006274 7.981071	</row3>
+		</transform>
+		<castsShadow>	true	</castsShadow>
+		<reflectionVisible>	false	</reflectionVisible>
+		<alwayVisible>	false	</alwayVisible>
+		<ignoreSceneRenderer>	false	</ignoreSceneRenderer>
+	</model>
+	<model
+			chunkId="00000000o">
+		<metaData>
+			<created_by>	v_dobrovolskiy	</created_by>
+			<created_on>	1501757383	</created_on>
+			<modified_by>	v_dobrovolskiy	</modified_by>
+			<modified_on>	1502284685	</modified_on>
+		</metaData>
+		<resource>	content/00_22_Hangar_British_Castle_2017/23_Additional_Props/Barricade/Tun.model	</resource>
+		<transform>
+			<row0>	-0.165268 0.000000 -0.060152	</row0>
+			<row1>	0.000000 0.175874 0.000000	</row1>
+			<row2>	0.060152 0.000000 -0.165268	</row2>
+			<row3>	4.510720 -0.016422 7.850927	</row3>
+		</transform>
+		<castsShadow>	true	</castsShadow>
+		<reflectionVisible>	false	</reflectionVisible>
+		<alwayVisible>	false	</alwayVisible>
+		<ignoreSceneRenderer>	false	</ignoreSceneRenderer>
+	</model>
+	<model
+			chunkId="00000000o">
+		<metaData>
+			<created_by>	v_dobrovolskiy	</created_by>
+			<created_on>	1501757389	</created_on>
+			<modified_by>	v_dobrovolskiy	</modified_by>
+			<modified_on>	1502284670	</modified_on>
+		</metaData>
+		<resource>	content/00_22_Hangar_British_Castle_2017/23_Additional_Props/Barricade/Tun.model	</resource>
+		<transform>
+			<row0>	0.019502 0.164113 -0.060151	</row0>
+			<row1>	0.174645 -0.020754 0.000000	</row1>
+			<row2>	-0.007098 -0.059731 -0.165268	</row2>
+			<row3>	4.615433 0.054814 7.725736	</row3>
+		</transform>
+		<castsShadow>	true	</castsShadow>
+		<reflectionVisible>	false	</reflectionVisible>
+		<alwayVisible>	false	</alwayVisible>
+		<ignoreSceneRenderer>	false	</ignoreSceneRenderer>
+	</model>
+	<model
+			chunkId="00000000o">
+		<metaData>
+			<created_by>	v_dobrovolskiy	</created_by>
+			<created_on>	1501755334	</created_on>
+			<modified_by>	v_dobrovolskiy	</modified_by>
+			<modified_on>	1501757006	</modified_on>
+		</metaData>
+		<resource>	content/00_22_Hangar_British_Castle_2017/23_Additional_Props/Barricade/Tun.model	</resource>
+		<transform>
+			<row0>	0.027639 0.066458 0.180669	</row0>
+			<row1>	0.191611 0.008056 -0.032278	</row1>
+			<row2>	-0.018515 0.182594 -0.064333	</row2>
+			<row3>	8.794811 -0.046354 11.648362	</row3>
+		</transform>
+		<castsShadow>	true	</castsShadow>
+		<reflectionVisible>	false	</reflectionVisible>
+		<alwayVisible>	false	</alwayVisible>
+		<ignoreSceneRenderer>	false	</ignoreSceneRenderer>
+	</model>
+	<model
+			chunkId="00000000o">
+		<metaData>
+			<created_by>	v_dobrovolskiy	</created_by>
+			<created_on>	1501513296	</created_on>
+			<modified_by>	v_dobrovolskiy	</modified_by>
+			<modified_on>	1501513375	</modified_on>
+		</metaData>
+		<resource>	content/00_22_Hangar_British_Castle_2017/23_Additional_Props/box_3_crashed.model	</resource>
+		<transform>
+			<row0>	-0.118831 0.000000 -0.018821	</row0>
+			<row1>	0.000000 0.120313 0.000000	</row1>
+			<row2>	0.018821 0.000000 -0.118831	</row2>
+			<row3>	13.124555 0.015425 6.009286	</row3>
+		</transform>
+		<castsShadow>	true	</castsShadow>
+		<reflectionVisible>	false	</reflectionVisible>
+		<alwayVisible>	false	</alwayVisible>
+		<ignoreSceneRenderer>	false	</ignoreSceneRenderer>
+	</model>
+	<model
+			chunkId="00000000o">
+		<metaData>
+			<created_by>	v_dobrovolskiy	</created_by>
+			<created_on>	1501513296	</created_on>
+			<modified_by>	v_dobrovolskiy	</modified_by>
+			<modified_on>	1501513396	</modified_on>
+		</metaData>
+		<resource>	content/00_22_Hangar_British_Castle_2017/23_Additional_Props/box_3_crashed.model	</resource>
+		<transform>
+			<row0>	0.119562 0.004780 -0.012538	</row0>
+			<row1>	-0.005768 0.119811 -0.009332	</row1>
+			<row2>	0.012115 0.009875 0.119293	</row2>
+			<row3>	13.355245 0.023844 5.840564	</row3>
+		</transform>
+		<castsShadow>	true	</castsShadow>
+		<reflectionVisible>	false	</reflectionVisible>
+		<alwayVisible>	false	</alwayVisible>
+		<ignoreSceneRenderer>	false	</ignoreSceneRenderer>
+	</model>
+	<model
+			chunkId="00000000o">
+		<metaData>
+			<created_by>	v_dobrovolskiy	</created_by>
+			<created_on>	1501602036	</created_on>
+			<modified_by>	v_dobrovolskiy	</modified_by>
+			<modified_on>	1501757197	</modified_on>
+		</metaData>
+		<resource>	content/00_22_Hangar_British_Castle_2017/23_Additional_Props/box_3_crashed.model	</resource>
+		<transform>
+			<row0>	-0.069379 0.003397 0.007006	</row0>
+			<row1>	0.003347 0.069730 -0.000664	</row1>
+			<row2>	-0.007030 -0.000325 -0.069459	</row2>
+			<row3>	5.764553 -0.015564 7.625289	</row3>
+		</transform>
+		<castsShadow>	true	</castsShadow>
+		<reflectionVisible>	false	</reflectionVisible>
+		<alwayVisible>	false	</alwayVisible>
+		<ignoreSceneRenderer>	false	</ignoreSceneRenderer>
+	</model>
+	<model
+			chunkId="00000000o">
+		<metaData>
+			<created_by>	v_dobrovolskiy	</created_by>
+			<created_on>	1501602036	</created_on>
+			<modified_by>	v_dobrovolskiy	</modified_by>
+			<modified_on>	1501757212	</modified_on>
+		</metaData>
+		<resource>	content/00_22_Hangar_British_Castle_2017/23_Additional_Props/box_3_crashed.model	</resource>
+		<transform>
+			<row0>	0.010486 0.003204 -0.068948	</row0>
+			<row1>	-0.014352 0.068316 0.000991	</row1>
+			<row2>	0.067514 0.014025 0.010921	</row2>
+			<row3>	6.196472 0.018324 7.929953	</row3>
+		</transform>
+		<castsShadow>	true	</castsShadow>
+		<reflectionVisible>	false	</reflectionVisible>
+		<alwayVisible>	false	</alwayVisible>
+		<ignoreSceneRenderer>	false	</ignoreSceneRenderer>
+	</model>
+	<model
+			chunkId="00000000o">
+		<metaData>
+			<created_by>	v_dobrovolskiy	</created_by>
+			<created_on>	1501757219	</created_on>
+			<modified_by>	v_dobrovolskiy	</modified_by>
+			<modified_on>	1501757286	</modified_on>
+		</metaData>
+		<resource>	content/00_22_Hangar_British_Castle_2017/23_Additional_Props/box_3_crashed.model	</resource>
+		<transform>
+			<row0>	0.010486 0.003204 -0.068948	</row0>
+			<row1>	-0.014352 0.068316 0.000991	</row1>
+			<row2>	0.067514 0.014025 0.010921	</row2>
+			<row3>	5.653833 0.007883 8.072046	</row3>
+		</transform>
+		<castsShadow>	true	</castsShadow>
+		<reflectionVisible>	false	</reflectionVisible>
+		<alwayVisible>	false	</alwayVisible>
+		<ignoreSceneRenderer>	false	</ignoreSceneRenderer>
+	</model>
+	<model
+			chunkId="00000000o">
+		<metaData>
+			<created_by>	v_dobrovolskiy	</created_by>
+			<created_on>	1501513296	</created_on>
+			<modified_by>	v_dobrovolskiy	</modified_by>
+			<modified_on>	1501513416	</modified_on>
+		</metaData>
+		<resource>	content/00_22_Hangar_British_Castle_2017/23_Additional_Props/box_5.model	</resource>
+		<transform>
+			<row0>	0.168395 0.000000 0.032732	</row0>
+			<row1>	0.000000 0.171546 0.000000	</row1>
+			<row2>	-0.032732 0.000000 0.168395	</row2>
+			<row3>	14.165264 -0.002090 5.945371	</row3>
+		</transform>
+		<castsShadow>	true	</castsShadow>
+		<reflectionVisible>	false	</reflectionVisible>
+		<alwayVisible>	false	</alwayVisible>
+		<ignoreSceneRenderer>	false	</ignoreSceneRenderer>
+	</model>
+	<model
+			chunkId="00000000o">
+		<metaData>
+			<created_by>	v_dobrovolskiy	</created_by>
+			<created_on>	1501513296	</created_on>
+			<modified_by>	v_dobrovolskiy	</modified_by>
+			<modified_on>	1501513416	</modified_on>
+		</metaData>
+		<resource>	content/00_22_Hangar_British_Castle_2017/23_Additional_Props/box_5.model	</resource>
+		<transform>
+			<row0>	-0.075200 0.000000 0.154185	</row0>
+			<row1>	0.000000 0.171546 0.000000	</row1>
+			<row2>	-0.154185 0.000000 -0.075200	</row2>
+			<row3>	14.103922 0.114284 5.922853	</row3>
+		</transform>
+		<castsShadow>	true	</castsShadow>
+		<reflectionVisible>	false	</reflectionVisible>
+		<alwayVisible>	false	</alwayVisible>
+		<ignoreSceneRenderer>	false	</ignoreSceneRenderer>
+	</model>
+	<model
+			chunkId="00000000o">
+		<metaData>
+			<created_by>	v_dobrovolskiy	</created_by>
+			<created_on>	1501513296	</created_on>
+			<modified_by>	v_dobrovolskiy	</modified_by>
+			<modified_on>	1501513448	</modified_on>
+		</metaData>
+		<resource>	content/00_22_Hangar_British_Castle_2017/23_Additional_Props/box_5.model	</resource>
+		<transform>
+			<row0>	0.095928 0.000000 0.142218	</row0>
+			<row1>	0.000000 0.171546 0.000000	</row1>
+			<row2>	-0.142218 0.000000 0.095928	</row2>
+			<row3>	14.034472 0.019498 6.122329	</row3>
+		</transform>
+		<castsShadow>	true	</castsShadow>
+		<reflectionVisible>	false	</reflectionVisible>
+		<alwayVisible>	false	</alwayVisible>
+		<ignoreSceneRenderer>	false	</ignoreSceneRenderer>
+	</model>
+	<model
+			chunkId="00000000o">
+		<metaData>
+			<created_by>	v_dobrovolskiy	</created_by>
+			<created_on>	1501513463	</created_on>
+			<modified_by>	v_dobrovolskiy	</modified_by>
+			<modified_on>	1501513481	</modified_on>
+		</metaData>
+		<resource>	content/00_22_Hangar_British_Castle_2017/23_Additional_Props/box_5.model	</resource>
+		<transform>
+			<row0>	-0.055851 0.000000 -0.162199	</row0>
+			<row1>	0.000000 0.171546 0.000000	</row1>
+			<row2>	0.162199 0.000000 -0.055851	</row2>
+			<row3>	14.179325 0.081652 5.683372	</row3>
+		</transform>
+		<castsShadow>	true	</castsShadow>
+		<reflectionVisible>	false	</reflectionVisible>
+		<alwayVisible>	false	</alwayVisible>
+		<ignoreSceneRenderer>	false	</ignoreSceneRenderer>
+	</model>
+	<model
+			chunkId="00000000o">
+		<metaData>
+			<created_by>	v_dobrovolskiy	</created_by>
+			<created_on>	1501513463	</created_on>
+			<modified_by>	v_dobrovolskiy	</modified_by>
+			<modified_on>	1501513481	</modified_on>
+		</metaData>
+		<resource>	content/00_22_Hangar_British_Castle_2017/23_Additional_Props/box_5.model	</resource>
+		<transform>
+			<row0>	-0.168394 0.000000 -0.032732	</row0>
+			<row1>	0.000000 0.171546 0.000000	</row1>
+			<row2>	0.032732 0.000000 -0.168394	</row2>
+			<row3>	14.087383 -0.013135 5.493215	</row3>
+		</transform>
+		<castsShadow>	true	</castsShadow>
+		<reflectionVisible>	false	</reflectionVisible>
+		<alwayVisible>	false	</alwayVisible>
+		<ignoreSceneRenderer>	false	</ignoreSceneRenderer>
+	</model>
+	<model
+			chunkId="00000000o">
+		<metaData>
+			<created_by>	v_dobrovolskiy	</created_by>
+			<created_on>	1501513463	</created_on>
+			<modified_by>	v_dobrovolskiy	</modified_by>
+			<modified_on>	1501513481	</modified_on>
+		</metaData>
+		<resource>	content/00_22_Hangar_British_Castle_2017/23_Additional_Props/box_5.model	</resource>
+		<transform>
+			<row0>	-0.142218 0.000000 0.095928	</row0>
+			<row1>	0.000000 0.171546 0.000000	</row1>
+			<row2>	-0.095928 0.000000 -0.142218	</row2>
+			<row3>	14.120029 -0.034723 5.710827	</row3>
+		</transform>
+		<castsShadow>	true	</castsShadow>
+		<reflectionVisible>	false	</reflectionVisible>
+		<alwayVisible>	false	</alwayVisible>
+		<ignoreSceneRenderer>	false	</ignoreSceneRenderer>
+	</model>
+	<model
+			chunkId="00000000o">
+		<metaData>
+			<created_by>	v_dobrovolskiy	</created_by>
+			<created_on>	1501602036	</created_on>
+			<modified_by>	v_dobrovolskiy	</modified_by>
+			<modified_on>	1501757186	</modified_on>
+		</metaData>
+		<resource>	content/00_22_Hangar_British_Castle_2017/23_Additional_Props/box_5.model	</resource>
+		<transform>
+			<row0>	-0.075127 0.000000 -0.065307	</row0>
+			<row1>	0.000000 0.099544 0.000000	</row1>
+			<row2>	0.065307 0.000000 -0.075127	</row2>
+			<row3>	5.999321 0.001013 8.332450	</row3>
+		</transform>
+		<castsShadow>	true	</castsShadow>
+		<reflectionVisible>	false	</reflectionVisible>
+		<alwayVisible>	false	</alwayVisible>
+		<ignoreSceneRenderer>	false	</ignoreSceneRenderer>
+	</model>
+	<model
+			chunkId="00000000o">
+		<metaData>
+			<created_by>	v_dobrovolskiy	</created_by>
+			<created_on>	1501602036	</created_on>
+			<modified_by>	v_dobrovolskiy	</modified_by>
+			<modified_on>	1501757186	</modified_on>
+		</metaData>
+		<resource>	content/00_22_Hangar_British_Castle_2017/23_Additional_Props/box_5.model	</resource>
+		<transform>
+			<row0>	0.018993 0.000000 -0.097715	</row0>
+			<row1>	0.000000 0.099544 0.000000	</row1>
+			<row2>	0.097715 0.000000 0.018993	</row2>
+			<row3>	5.990151 -0.013352 8.453950	</row3>
+		</transform>
+		<castsShadow>	true	</castsShadow>
+		<reflectionVisible>	false	</reflectionVisible>
+		<alwayVisible>	false	</alwayVisible>
+		<ignoreSceneRenderer>	false	</ignoreSceneRenderer>
+	</model>
+	<model
+			chunkId="00000000o">
+		<metaData>
+			<created_by>	v_dobrovolskiy	</created_by>
+			<created_on>	1501602036	</created_on>
+			<modified_by>	v_dobrovolskiy	</modified_by>
+			<modified_on>	1501757186	</modified_on>
+		</metaData>
+		<resource>	content/00_22_Hangar_British_Castle_2017/23_Additional_Props/box_5.model	</resource>
+		<transform>
+			<row0>	0.055665 0.000000 0.082525	</row0>
+			<row1>	0.000000 0.099544 0.000000	</row1>
+			<row2>	-0.082525 0.000000 0.055665	</row2>
+			<row3>	6.011837 0.052762 8.447157	</row3>
+		</transform>
+		<castsShadow>	true	</castsShadow>
+		<reflectionVisible>	false	</reflectionVisible>
+		<alwayVisible>	false	</alwayVisible>
+		<ignoreSceneRenderer>	false	</ignoreSceneRenderer>
+	</model>
+	<model
+			chunkId="00000000o">
+		<metaData>
+			<created_by>	v_dobrovolskiy	</created_by>
+			<created_on>	1501602036	</created_on>
+			<modified_by>	v_dobrovolskiy	</modified_by>
+			<modified_on>	1501757186	</modified_on>
+		</metaData>
+		<resource>	content/00_22_Hangar_British_Castle_2017/23_Additional_Props/box_5.model	</resource>
+		<transform>
+			<row0>	0.006944 0.000000 0.099301	</row0>
+			<row1>	0.000000 0.099544 0.000000	</row1>
+			<row2>	-0.099301 0.000000 0.006944	</row2>
+			<row3>	6.120118 -0.014464 8.212006	</row3>
+		</transform>
+		<castsShadow>	true	</castsShadow>
+		<reflectionVisible>	false	</reflectionVisible>
+		<alwayVisible>	false	</alwayVisible>
+		<ignoreSceneRenderer>	false	</ignoreSceneRenderer>
+	</model>
+	<model
+			chunkId="00000000o">
+		<metaData>
+			<created_by>	v_dobrovolskiy	</created_by>
+			<created_on>	1501757711	</created_on>
+			<modified_by>	v_dobrovolskiy	</modified_by>
+			<modified_on>	1501757766	</modified_on>
+		</metaData>
+		<resource>	content/00_22_Hangar_British_Castle_2017/23_Additional_Props/box_5.model	</resource>
+		<transform>
+			<row0>	-0.075127 0.000000 -0.065307	</row0>
+			<row1>	0.000000 0.099544 0.000000	</row1>
+			<row2>	0.065307 0.000000 -0.075127	</row2>
+			<row3>	3.212259 -0.010459 8.958278	</row3>
+		</transform>
+		<castsShadow>	true	</castsShadow>
+		<reflectionVisible>	false	</reflectionVisible>
+		<alwayVisible>	false	</alwayVisible>
+		<ignoreSceneRenderer>	false	</ignoreSceneRenderer>
+	</model>
+	<model
+			chunkId="00000000o">
+		<metaData>
+			<created_by>	v_dobrovolskiy	</created_by>
+			<created_on>	1501757711	</created_on>
+			<modified_by>	v_dobrovolskiy	</modified_by>
+			<modified_on>	1501757771	</modified_on>
+		</metaData>
+		<resource>	content/00_22_Hangar_British_Castle_2017/23_Additional_Props/box_5.model	</resource>
+		<transform>
+			<row0>	0.006944 0.000000 0.099301	</row0>
+			<row1>	0.000000 0.099544 0.000000	</row1>
+			<row2>	-0.099301 0.000000 0.006944	</row2>
+			<row3>	3.333054 -0.007742 8.803512	</row3>
+		</transform>
+		<castsShadow>	true	</castsShadow>
+		<reflectionVisible>	false	</reflectionVisible>
+		<alwayVisible>	false	</alwayVisible>
+		<ignoreSceneRenderer>	false	</ignoreSceneRenderer>
+	</model>
+	<model
+			chunkId="00000000o">
+		<metaData>
+			<created_by>	v_dobrovolskiy	</created_by>
+			<created_on>	1501757711	</created_on>
+			<modified_by>	v_dobrovolskiy	</modified_by>
+			<modified_on>	1501757775	</modified_on>
+		</metaData>
+		<resource>	content/00_22_Hangar_British_Castle_2017/23_Additional_Props/box_5.model	</resource>
+		<transform>
+			<row0>	0.018993 0.000000 -0.097715	</row0>
+			<row1>	0.000000 0.099544 0.000000	</row1>
+			<row2>	0.097715 0.000000 0.018993	</row2>
+			<row3>	3.203089 -0.004974 9.079778	</row3>
+		</transform>
+		<castsShadow>	true	</castsShadow>
+		<reflectionVisible>	false	</reflectionVisible>
+		<alwayVisible>	false	</alwayVisible>
+		<ignoreSceneRenderer>	false	</ignoreSceneRenderer>
+	</model>
+	<model
+			chunkId="00000000o">
+		<metaData>
+			<created_by>	v_dobrovolskiy	</created_by>
+			<created_on>	1501757711	</created_on>
+			<modified_by>	v_dobrovolskiy	</modified_by>
+			<modified_on>	1501757775	</modified_on>
+		</metaData>
+		<resource>	content/00_22_Hangar_British_Castle_2017/23_Additional_Props/box_5.model	</resource>
+		<transform>
+			<row0>	0.055665 0.000000 0.082525	</row0>
+			<row1>	0.000000 0.099544 0.000000	</row1>
+			<row2>	-0.082525 0.000000 0.055665	</row2>
+			<row3>	3.224775 0.061140 9.072986	</row3>
+		</transform>
+		<castsShadow>	true	</castsShadow>
+		<reflectionVisible>	false	</reflectionVisible>
+		<alwayVisible>	false	</alwayVisible>
+		<ignoreSceneRenderer>	false	</ignoreSceneRenderer>
+	</model>
+	<model
+			chunkId="00000000o">
+		<metaData>
+			<created_by>	v_dobrovolskiy	</created_by>
+			<created_on>	1501513296	</created_on>
+			<modified_by>	v_dobrovolskiy	</modified_by>
+			<modified_on>	1501513438	</modified_on>
+		</metaData>
+		<resource>	content/00_22_Hangar_British_Castle_2017/23_Additional_Props/box_6.model	</resource>
+		<transform>
+			<row0>	0.099644 0.000000 0.055234	</row0>
+			<row1>	0.000000 0.113929 0.000000	</row1>
+			<row2>	-0.055234 0.000000 0.099644	</row2>
+			<row3>	13.898498 0.003889 5.867301	</row3>
+		</transform>
+		<castsShadow>	true	</castsShadow>
+		<reflectionVisible>	false	</reflectionVisible>
+		<alwayVisible>	false	</alwayVisible>
+		<ignoreSceneRenderer>	false	</ignoreSceneRenderer>
+	</model>
+	<model
+			chunkId="00000000o">
+		<metaData>
+			<created_by>	v_dobrovolskiy	</created_by>
+			<created_on>	1501513296	</created_on>
+			<modified_by>	v_dobrovolskiy	</modified_by>
+			<modified_on>	1501513438	</modified_on>
+		</metaData>
+		<resource>	content/00_22_Hangar_British_Castle_2017/23_Additional_Props/box_6.model	</resource>
+		<transform>
+			<row0>	-0.110545 0.000000 -0.027562	</row0>
+			<row1>	0.000000 0.113929 0.000000	</row1>
+			<row2>	0.027562 0.000000 -0.110545	</row2>
+			<row3>	13.951447 0.060855 5.885124	</row3>
+		</transform>
+		<castsShadow>	true	</castsShadow>
+		<reflectionVisible>	false	</reflectionVisible>
+		<alwayVisible>	false	</alwayVisible>
+		<ignoreSceneRenderer>	false	</ignoreSceneRenderer>
+	</model>
+	<model
+			chunkId="00000000o">
+		<metaData>
+			<created_by>	v_dobrovolskiy	</created_by>
+			<created_on>	1501513484	</created_on>
+			<modified_by>	v_dobrovolskiy	</modified_by>
+			<modified_on>	1501513496	</modified_on>
+		</metaData>
+		<resource>	content/00_22_Hangar_British_Castle_2017/23_Additional_Props/box_6.model	</resource>
+		<transform>
+			<row0>	0.110544 0.000000 0.027562	</row0>
+			<row1>	0.000000 0.113929 0.000000	</row1>
+			<row2>	-0.027562 0.000000 0.110544	</row2>
+			<row3>	14.095023 0.004670 4.544464	</row3>
+		</transform>
+		<castsShadow>	true	</castsShadow>
+		<reflectionVisible>	false	</reflectionVisible>
+		<alwayVisible>	false	</alwayVisible>
+		<ignoreSceneRenderer>	false	</ignoreSceneRenderer>
+	</model>
+	<model
+			chunkId="00000000o">
+		<metaData>
+			<created_by>	v_dobrovolskiy	</created_by>
+			<created_on>	1501602036	</created_on>
+			<modified_by>	v_dobrovolskiy	</modified_by>
+			<modified_on>	1501757186	</modified_on>
+		</metaData>
+		<resource>	content/00_22_Hangar_British_Castle_2017/23_Additional_Props/box_6.model	</resource>
+		<transform>
+			<row0>	0.064146 0.001186 0.015950	</row0>
+			<row1>	0.000000 0.065928 -0.004902	</row1>
+			<row2>	-0.015994 0.004757 0.063970	</row2>
+			<row3>	6.007497 -0.009808 8.192898	</row3>
+		</transform>
+		<castsShadow>	true	</castsShadow>
+		<reflectionVisible>	false	</reflectionVisible>
+		<alwayVisible>	false	</alwayVisible>
+		<ignoreSceneRenderer>	false	</ignoreSceneRenderer>
+	</model>
+	<model
+			chunkId="00000000o">
+		<metaData>
+			<created_by>	v_dobrovolskiy	</created_by>
+			<created_on>	1501602478	</created_on>
+			<modified_by>	v_dobrovolskiy	</modified_by>
+			<modified_on>	1501757186	</modified_on>
+		</metaData>
+		<resource>	content/00_22_Hangar_British_Castle_2017/23_Additional_Props/box_6.model	</resource>
+		<transform>
+			<row0>	-0.106455 -0.006743 0.001862	</row0>
+			<row1>	-0.006744 0.106472 0.000000	</row1>
+			<row2>	-0.001858 -0.000118 -0.106668	</row2>
+			<row3>	5.991957 -0.007170 8.735439	</row3>
+		</transform>
+		<castsShadow>	true	</castsShadow>
+		<reflectionVisible>	false	</reflectionVisible>
+		<alwayVisible>	false	</alwayVisible>
+		<ignoreSceneRenderer>	false	</ignoreSceneRenderer>
+	</model>
+	<model
+			chunkId="00000000o">
+		<metaData>
+			<created_by>	v_dobrovolskiy	</created_by>
+			<created_on>	1501602496	</created_on>
+			<modified_by>	v_dobrovolskiy	</modified_by>
+			<modified_on>	1501757186	</modified_on>
+		</metaData>
+		<resource>	content/00_22_Hangar_British_Castle_2017/23_Additional_Props/box_6.model	</resource>
+		<transform>
+			<row0>	-0.106455 -0.006743 0.001862	</row0>
+			<row1>	-0.006744 0.106472 0.000000	</row1>
+			<row2>	-0.001858 -0.000118 -0.106668	</row2>
+			<row3>	5.998504 0.060854 8.665891	</row3>
+		</transform>
+		<castsShadow>	true	</castsShadow>
+		<reflectionVisible>	false	</reflectionVisible>
+		<alwayVisible>	false	</alwayVisible>
+		<ignoreSceneRenderer>	false	</ignoreSceneRenderer>
+	</model>
+	<model
+			chunkId="00000000o">
+		<metaData>
+			<created_by>	v_dobrovolskiy	</created_by>
+			<created_on>	1501602036	</created_on>
+			<modified_by>	v_dobrovolskiy	</modified_by>
+			<modified_on>	1501757186	</modified_on>
+		</metaData>
+		<resource>	content/00_22_Hangar_British_Castle_2017/23_Additional_Props/box_6.model	</resource>
+		<transform>
+			<row0>	-0.066100 0.000086 0.001151	</row0>
+			<row1>	0.000000 0.065928 -0.004902	</row1>
+			<row2>	-0.001154 -0.004902 -0.065918	</row2>
+			<row3>	6.039850 0.023308 8.192478	</row3>
+		</transform>
+		<castsShadow>	true	</castsShadow>
+		<reflectionVisible>	false	</reflectionVisible>
+		<alwayVisible>	false	</alwayVisible>
+		<ignoreSceneRenderer>	false	</ignoreSceneRenderer>
+	</model>
+	<model
+			chunkId="00000000o">
+		<metaData>
+			<created_by>	v_dobrovolskiy	</created_by>
+			<created_on>	1501602036	</created_on>
+			<modified_by>	v_dobrovolskiy	</modified_by>
+			<modified_on>	1501757186	</modified_on>
+		</metaData>
+		<resource>	content/00_22_Hangar_British_Castle_2017/23_Additional_Props/box_6.model	</resource>
+		<transform>
+			<row0>	-0.001862 -0.006743 -0.106455	</row0>
+			<row1>	0.000000 0.106472 -0.006744	</row1>
+			<row2>	0.106668 -0.000118 -0.001858	</row2>
+			<row3>	6.344170 -0.003089 8.108672	</row3>
+		</transform>
+		<castsShadow>	true	</castsShadow>
+		<reflectionVisible>	false	</reflectionVisible>
+		<alwayVisible>	false	</alwayVisible>
+		<ignoreSceneRenderer>	false	</ignoreSceneRenderer>
+	</model>
+	<model
+			chunkId="00000000o">
+		<metaData>
+			<created_by>	v_dobrovolskiy	</created_by>
+			<created_on>	1501757428	</created_on>
+			<modified_by>	v_dobrovolskiy	</modified_by>
+			<modified_on>	1501757493	</modified_on>
+		</metaData>
+		<resource>	content/00_22_Hangar_British_Castle_2017/23_Additional_Props/box_6.model	</resource>
+		<transform>
+			<row0>	-0.073958 -0.006743 0.076591	</row0>
+			<row1>	-0.004769 0.106472 0.004768	</row1>
+			<row2>	-0.076739 -0.000118 -0.074111	</row2>
+			<row3>	3.265212 0.075762 7.953874	</row3>
+		</transform>
+		<castsShadow>	true	</castsShadow>
+		<reflectionVisible>	false	</reflectionVisible>
+		<alwayVisible>	false	</alwayVisible>
+		<ignoreSceneRenderer>	false	</ignoreSceneRenderer>
+	</model>
+	<model
+			chunkId="00000000o">
+		<metaData>
+			<created_by>	v_dobrovolskiy	</created_by>
+			<created_on>	1501757407	</created_on>
+			<modified_by>	v_dobrovolskiy	</modified_by>
+			<modified_on>	1501757493	</modified_on>
+		</metaData>
+		<resource>	content/00_22_Hangar_British_Castle_2017/23_Additional_Props/box_6.model	</resource>
+		<transform>
+			<row0>	-0.051615 -0.006743 0.093123	</row0>
+			<row1>	-0.003372 0.106472 0.005840	</row1>
+			<row2>	-0.093306 -0.000118 -0.051725	</row2>
+			<row3>	3.234173 0.024400 7.909947	</row3>
+		</transform>
+		<castsShadow>	true	</castsShadow>
+		<reflectionVisible>	false	</reflectionVisible>
+		<alwayVisible>	false	</alwayVisible>
+		<ignoreSceneRenderer>	false	</ignoreSceneRenderer>
+	</model>
+	<model
+			chunkId="00000000o">
+		<metaData>
+			<created_by>	v_dobrovolskiy	</created_by>
+			<created_on>	1501757711	</created_on>
+			<modified_by>	v_dobrovolskiy	</modified_by>
+			<modified_on>	1501757740	</modified_on>
+		</metaData>
+		<resource>	content/00_22_Hangar_British_Castle_2017/23_Additional_Props/box_6.model	</resource>
+		<transform>
+			<row0>	-0.103309 -0.006743 -0.025754	</row0>
+			<row1>	-0.006514 0.106472 -0.001745	</row1>
+			<row2>	0.025813 -0.000118 -0.103514	</row2>
+			<row3>	3.401383 -0.012062 8.527513	</row3>
+		</transform>
+		<castsShadow>	true	</castsShadow>
+		<reflectionVisible>	false	</reflectionVisible>
+		<alwayVisible>	false	</alwayVisible>
+		<ignoreSceneRenderer>	false	</ignoreSceneRenderer>
+	</model>
+	<model
+			chunkId="00000000o">
+		<metaData>
+			<created_by>	v_dobrovolskiy	</created_by>
+			<created_on>	1501757711	</created_on>
+			<modified_by>	v_dobrovolskiy	</modified_by>
+			<modified_on>	1501757783	</modified_on>
+		</metaData>
+		<resource>	content/00_22_Hangar_British_Castle_2017/23_Additional_Props/box_6.model	</resource>
+		<transform>
+			<row0>	0.019159 -0.005016 -0.076854	</row0>
+			<row1>	0.001298 0.079206 -0.004846	</row1>
+			<row2>	0.077006 -0.000088 0.019203	</row2>
+			<row3>	3.006635 0.039108 9.117055	</row3>
+		</transform>
+		<castsShadow>	true	</castsShadow>
+		<reflectionVisible>	false	</reflectionVisible>
+		<alwayVisible>	false	</alwayVisible>
+		<ignoreSceneRenderer>	false	</ignoreSceneRenderer>
+	</model>
+	<model
+			chunkId="00000000o">
+		<metaData>
+			<created_by>	v_dobrovolskiy	</created_by>
+			<created_on>	1501757711	</created_on>
+			<modified_by>	v_dobrovolskiy	</modified_by>
+			<modified_on>	1501757783	</modified_on>
+		</metaData>
+		<resource>	content/00_22_Hangar_British_Castle_2017/23_Additional_Props/box_6.model	</resource>
+		<transform>
+			<row0>	0.019159 -0.005016 -0.076854	</row0>
+			<row1>	0.001298 0.079206 -0.004846	</row1>
+			<row2>	0.077006 -0.000088 0.019203	</row2>
+			<row3>	2.957921 -0.011496 9.098960	</row3>
+		</transform>
+		<castsShadow>	true	</castsShadow>
+		<reflectionVisible>	false	</reflectionVisible>
+		<alwayVisible>	false	</alwayVisible>
+		<ignoreSceneRenderer>	false	</ignoreSceneRenderer>
+	</model>
+	<model
+			chunkId="00000000o">
+		<metaData>
+			<created_by>	v_dobrovolskiy	</created_by>
+			<created_on>	1501513296	</created_on>
+			<modified_by>	v_dobrovolskiy	</modified_by>
+			<modified_on>	1501513457	</modified_on>
+		</metaData>
+		<resource>	content/00_22_Hangar_British_Castle_2017/23_Additional_Props/box_7.model	</resource>
+		<transform>
+			<row0>	0.028862 0.000000 0.163679	</row0>
+			<row1>	0.000000 0.166203 0.000000	</row1>
+			<row2>	-0.163679 0.000000 0.028862	</row2>
+			<row3>	13.773711 -0.000961 6.235384	</row3>
+		</transform>
+		<castsShadow>	true	</castsShadow>
+		<reflectionVisible>	false	</reflectionVisible>
+		<alwayVisible>	false	</alwayVisible>
+		<ignoreSceneRenderer>	false	</ignoreSceneRenderer>
+	</model>
+	<model
+			chunkId="00000000o">
+		<metaData>
+			<created_by>	v_dobrovolskiy	</created_by>
+			<created_on>	1501687622	</created_on>
+			<modified_by>	v_dobrovolskiy	</modified_by>
+			<modified_on>	1501687669	</modified_on>
+		</metaData>
+		<resource>	content/00_22_Hangar_British_Castle_2017/04_Castle/04_Castle_Arc.model	</resource>
+		<transform>
+			<row0>	0.090000 0.000031 0.000000	</row0>
+			<row1>	-0.000031 0.090000 0.000000	</row1>
+			<row2>	0.000000 0.000000 0.090000	</row2>
+			<row3>	0.000000 0.000000 0.000000	</row3>
+		</transform>
+		<castsShadow>	true	</castsShadow>
+		<reflectionVisible>	false	</reflectionVisible>
+		<alwayVisible>	false	</alwayVisible>
+		<ignoreSceneRenderer>	false	</ignoreSceneRenderer>
+	</model>
+	<model
+			chunkId="00000000o">
+		<metaData>
+			<created_by>	v_dobrovolskiy	</created_by>
+			<created_on>	1501256352	</created_on>
+			<modified_by>	v_dobrovolskiy	</modified_by>
+			<modified_on>	1501256423	</modified_on>
+		</metaData>
+		<resource>	content/00_22_Hangar_British_Castle_2017/04_Castle/04_Castle_building.model	</resource>
+		<transform>
+			<row0>	0.251933 -0.000000 0.000624	</row0>
+			<row1>	0.000000 0.251934 0.000000	</row1>
+			<row2>	-0.000624 -0.000000 0.251933	</row2>
+			<row3>	43.119495 -0.000000 1.483402	</row3>
+		</transform>
+		<castsShadow>	true	</castsShadow>
+		<reflectionVisible>	false	</reflectionVisible>
+		<alwayVisible>	false	</alwayVisible>
+		<ignoreSceneRenderer>	false	</ignoreSceneRenderer>
+	</model>
+	<model
+			chunkId="00000000o">
+		<metaData>
+			<created_by>	v_dobrovolskiy	</created_by>
+			<created_on>	1502286065	</created_on>
+			<modified_by>	v_dobrovolskiy	</modified_by>
+			<modified_on>	1502286120	</modified_on>
+		</metaData>
+		<resource>	content/00_22_Hangar_British_Castle_2017/04_Castle/04_Castle_wall_scaffolds.model	</resource>
+		<transform>
+			<row0>	0.090000 0.000000 0.000000	</row0>
+			<row1>	0.000000 0.090000 0.000000	</row1>
+			<row2>	0.000000 0.000000 0.090000	</row2>
+			<row3>	-0.000008 0.000000 0.000000	</row3>
+		</transform>
+		<castsShadow>	true	</castsShadow>
+		<reflectionVisible>	false	</reflectionVisible>
+		<alwayVisible>	false	</alwayVisible>
+		<ignoreSceneRenderer>	false	</ignoreSceneRenderer>
+	</model>
+	<model
+			chunkId="00000000o">
+		<metaData>
+			<created_by>	v_dobrovolskiy	</created_by>
+			<created_on>	1501676081	</created_on>
+			<modified_by>	v_dobrovolskiy	</modified_by>
+			<modified_on>	1501676097	</modified_on>
+		</metaData>
+		<resource>	content/00_22_Hangar_British_Castle_2017/11_Decals/terrain.model	</resource>
+		<transform>
+			<row0>	0.220000 0.000000 0.000000	</row0>
+			<row1>	0.000000 0.220000 0.000000	</row1>
+			<row2>	0.000000 0.000000 0.220000	</row2>
+			<row3>	-0.000031 0.000000 0.000000	</row3>
+		</transform>
+		<castsShadow>	true	</castsShadow>
+		<reflectionVisible>	false	</reflectionVisible>
+		<alwayVisible>	false	</alwayVisible>
+		<ignoreSceneRenderer>	false	</ignoreSceneRenderer>
+	</model>
+	<model
+			chunkId="00000000o">
+		<metaData>
+			<created_by>	v_dobrovolskiy	</created_by>
+			<created_on>	1501771749	</created_on>
+			<modified_by>	o_lozenko	</modified_by>
+			<modified_on>	1505122546	</modified_on>
+		</metaData>
+		<resource>	content/00_22_Hangar_British_Castle_2017/04_Castle/04_Castle_AdditionalBuilding.model	</resource>
+		<transform>
+			<row0>	0.090000 0.000000 0.000000	</row0>
+			<row1>	0.000000 0.090000 0.000000	</row1>
+			<row2>	0.000000 0.000000 0.090000	</row2>
+			<row3>	0.000000 0.000000 0.000000	</row3>
+		</transform>
+		<castsShadow>	true	</castsShadow>
+		<reflectionVisible>	false	</reflectionVisible>
+		<alwayVisible>	false	</alwayVisible>
+		<ignoreSceneRenderer>	false	</ignoreSceneRenderer>
+	</model>
+	<model
+			chunkId="ffff0001o">
+		<metaData>
+			<created_by>	v_dobrovolskiy	</created_by>
+			<created_on>	1501669454	</created_on>
+			<modified_by>	v_dobrovolskiy	</modified_by>
+			<modified_on>	1501669569	</modified_on>
+		</metaData>
+		<resource>	content/00_22_Hangar_British_Castle_2017/20_Airship/20_Airship.model	</resource>
+		<transform>
+			<row0>	0.234967 0.005429 -0.354844	</row0>
+			<row1>	-0.003040 0.425586 0.004498	</row1>
+			<row2>	0.354872 0.000051 0.234987	</row2>
+			<row3>	42.804893 47.974586 31.578728	</row3>
+		</transform>
+		<castsShadow>	true	</castsShadow>
+		<reflectionVisible>	false	</reflectionVisible>
+		<alwayVisible>	false	</alwayVisible>
+		<ignoreSceneRenderer>	false	</ignoreSceneRenderer>
+	</model>
+	<model
+			chunkId="ffff0001o">
+		<metaData>
+			<created_by>	s_andreev	</created_by>
+			<created_on>	1502695847	</created_on>
+			<modified_by>	v_dobrovolskiy	</modified_by>
+			<modified_on>	1502714786	</modified_on>
+		</metaData>
+		<resource>	content/00_22_Hangar_British_Castle_2017/20_Airship/Airship_projectorLight.model	</resource>
+		<transform>
+			<row0>	0.355234 0.000000 0.235124	</row0>
+			<row1>	-0.003283 0.425957 0.004960	</row1>
+			<row2>	-0.235102 -0.005948 0.355200	</row2>
+			<row3>	36.402031 31.479994 41.196762	</row3>
+		</transform>
+		<castsShadow>	true	</castsShadow>
+		<reflectionVisible>	false	</reflectionVisible>
+		<alwayVisible>	false	</alwayVisible>
+		<ignoreSceneRenderer>	false	</ignoreSceneRenderer>
+	</model>
+	<model
+			chunkId="ffff0001o">
+		<metaData>
+			<created_by>	s_andreev	</created_by>
+			<created_on>	1502695567	</created_on>
+			<modified_by>	s_andreev	</modified_by>
+			<modified_on>	1502695773	</modified_on>
+		</metaData>
+		<resource>	content/00_22_Hangar_British_Castle_2017/10_Lighthouse/Lighthouse_Ray.model	</resource>
+		<animation>
+			<name>	Lighthouse_Ray_spin_Fast	</name>
+			<frameRateMultiplier>	1.000000	</frameRateMultiplier>
+		</animation>
+		<transform>
+			<row0>	0.432149 0.000000 0.000000	</row0>
+			<row1>	0.000000 0.432149 0.000000	</row1>
+			<row2>	0.000000 0.000000 0.432149	</row2>
+			<row3>	-2.482727 -21.761520 -9.103951	</row3>
+		</transform>
+		<castsShadow>	true	</castsShadow>
+		<reflectionVisible>	false	</reflectionVisible>
+		<alwayVisible>	false	</alwayVisible>
+		<ignoreSceneRenderer>	false	</ignoreSceneRenderer>
+	</model>
+</model.item>
